@@ -23,6 +23,10 @@ class Dataset(BaseDataset):
     def cmd_download(self, **kw):
         pass
 
+    def split_forms(self, item, value):
+        value = self.lexemes.get(value, value)
+        return [self.clean_form(item, form) for form in [value]]
+
 
     def cmd_install(self, **kw):
         wl = lingpy.Wordlist(self.raw.posix('sino-tibetan.tsv'))
@@ -53,7 +57,8 @@ class Dataset(BaseDataset):
                     for row in ds.add_lexemes(
                         Language_ID=slug(wl[k, 'doculect']),
                         Parameter_ID=slug(wl[k, 'concept'].strip('*')),
-                        Value=wl[k, 'entry_in_source'],
+                        Value=wl[k, 'entry_in_source'].strip() or ''.join(wl[k,
+                            'tokens']),
                         Form=wl[k, 'ipa'],
                         Segments=wl[k, 'tokens'],
                         Source=source_dict.get(wl[k, 'doculect'],

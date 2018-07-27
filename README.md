@@ -18,12 +18,12 @@ Available online at http://dighl.github.io/sinotibetan/
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 21
+- **Varieties:** 50
 - **Concepts:** 250
-- **Lexemes:** 4,969
-- **Synonymy:** 1.09
-- **Cognacy:** 3,246 cognates in 757 cognate sets
+- **Lexemes:** 12,074
+- **Synonymy:** 1.06
+- **Cognacy:** 8,758 cognates in 1,773 cognate sets
 - **Invalid lexemes:** 0
-- **Tokens:** 26,266
-- **Segments:** 255 (1 BIPA errors, 1 CTLS sound class errors, 254 CLTS modified)
-- **Inventory size (avg):** 52.05
+- **Tokens:** 60,416
+- **Segments:** 483 (2 BIPA errors, 2 CTLS sound class errors, 479 CLTS modified)
+- **Inventory size (avg):** 51.32
