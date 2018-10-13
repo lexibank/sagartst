@@ -101,8 +101,9 @@ class Dataset(BaseDataset):
                             'tokens']),
                         Form=wl[k, 'ipa'],
                         Segments=wl[k, 'tokens'],
-                        Source=source_dict.get(wl[k, 'doculect'],
-                            '').split(','),
+                        Source=source_dict.get(data['taxa'].get(
+                                wl[k, 'doculect'], 
+                                wl[k, 'doculect'])).split(','),
                         Comment=wl[k, 'note'],
                         Cognacy=wl[k, 'cogid'],
                         Loan=True if wl[k,'borrowing'].strip() else False
