@@ -3,14 +3,12 @@
     "dc:bibliographicCitation": "Jacques, Guillaume, Laurent Sagart, Yunfan Lai, and Johann-Mattis List (2018): STDB: Sino-Tibetan Database of Lexical Cognates",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:identifier": "http://dighl.github.io/sinotibetan/",
-    "dc:license": [
-        "GPL-3.0",
-        "GNU General Public License v3.0 only",
-        "http://www.opensource.org/licenses/GPL-3.0"
-    ],
+    "dc:license": "http://www.opensource.org/licenses/GPL-3.0",
     "dc:source": "sources.bib",
     "dc:title": "Sino-Tibetan Database of Lexical Cognates",
+    "dcat:accessURL": "https://github.com/digling/sinotibetan-data",
     "rdf:ID": "jacquesst",
+    "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
     },
@@ -18,15 +16,15 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.2-87-g800df1f",
-                "concepticon_version": "pyconcepticon-1.4.0-3-g5184141"
+                "glottolog_version": "v3.2-87-g800df1f856",
+                "concepticon_version": "pyconcepticon-1.4.0-39-g121e0c7"
             }
         }
     ],
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 12074,
+            "dc:extent": 12180,
             "tableSchema": {
                 "columns": [
                     {
@@ -157,6 +155,34 @@
                     {
                         "datatype": "string",
                         "name": "Family"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Name_in_Text"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Name_in_Source"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Subgroup"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Coverage"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Longitude"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Latitude"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Source"
                     }
                 ],
                 "primaryKey": [
@@ -193,6 +219,10 @@
                     {
                         "datatype": "string",
                         "name": "TBL_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Coverage"
                     }
                 ],
                 "primaryKey": [
@@ -203,11 +233,11 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 12074,
+            "dc:extent": 12180,
             "tableSchema": {
                 "columns": [
                     {
-                        "datatype": "integer",
+                        "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "name": "ID"
                     },
