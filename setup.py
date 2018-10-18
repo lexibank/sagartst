@@ -10,7 +10,7 @@ with open('metadata.json', **({} if PY2 else {'encoding': 'utf-8'})) as fp:
 
 setup(
     name='lexibank_sagartst',
-    version="1.0.0",
+    version="0.9.0",
     description=metadata['title'],
     license=metadata.get('license', ''),
     url=metadata.get('url', ''),
