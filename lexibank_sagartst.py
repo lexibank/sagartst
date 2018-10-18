@@ -58,14 +58,15 @@ class Dataset(BaseDataset):
             'tokens'), desc='tokenize'):
             tks = []
             for token in tokens:
-                tks += [profile.get(
+                tks += profile.get(
                     token, 
                     profile.get(
                         token.split('/')[1] if '/' in token else token,
                         token
                         )
-                    )]
-            wl[idx, 'tokens'] = tks
+                    ).split(' ')
+            wl[idx, 'tokens'] = [x.strip() for x in tks if x != 'NULL' and
+                    x.strip()]
 
         with self.cldf as ds:
             ds.add_sources(*self.raw.read_bib())
@@ -114,7 +115,7 @@ class Dataset(BaseDataset):
                         ds.add_cognate(
                                 lexeme=row,
                                 Cognateset_ID=cid,
-                                Source='Jacques2018',
+                                Source='Sagart2018',
                                 Alignment='',
                                 Alignment_Source=''
                                 )

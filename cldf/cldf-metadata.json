@@ -1,13 +1,13 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
-    "dc:bibliographicCitation": "Jacques, Guillaume, Laurent Sagart, Yunfan Lai, and Johann-Mattis List (2018): STDB: Sino-Tibetan Database of Lexical Cognates",
+    "dc:bibliographicCitation": "Laurent Sagart, Jacques, Guillaume, Yunfan Lai, and Johann-Mattis List (2018): Sino-Tibetan Database of Lexical Cognates. Jena, Max Planck Institute for the Science of Human History.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:identifier": "http://dighl.github.io/sinotibetan/",
     "dc:license": "http://www.opensource.org/licenses/GPL-3.0",
     "dc:source": "sources.bib",
     "dc:title": "Sino-Tibetan Database of Lexical Cognates",
     "dcat:accessURL": "https://github.com/digling/sinotibetan-data",
-    "rdf:ID": "jacquesst",
+    "rdf:ID": "sagartst",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
