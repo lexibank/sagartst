@@ -76,7 +76,8 @@ class Dataset(BaseDataset):
                         ID=c['CONCEPTICON_ID'],
                         TBL_ID=c['TBL_ID'],
                         Name=c['ENGLISH'],
-                        Coverage=c['Coverage']
+                        Coverage=c['Coverage'],
+                        Concepticon_ID=c['CONCEPTICON_ID']
                         )
             concept2id = {c['ENGLISH']: c['CONCEPTICON_ID'] for c in self.concepts}
             source_dict = {}

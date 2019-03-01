@@ -16,8 +16,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.2-87-g800df1f856",
-                "concepticon_version": "pyconcepticon-1.4.0-39-g121e0c7"
+                "glottolog_version": "pyglottolog-1.2.1-77-g24ddcfb",
+                "concepticon_version": "pyconcepticon-1.4.0-81-g0e705c2"
             }
         }
     ],
