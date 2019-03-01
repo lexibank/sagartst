@@ -28,7 +28,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 635	Tangut	bird	the bird	.we¹	w e ¹			鸟	462		鳥		.we¹
 668	Khaling	bite	to bite	kɛt-	k ɛ t ◦	=Dulong?		咬	1430		噬		kɛt-
 669	Limbu	bite	to bite	haʔr-	h a ʔ r ◦			咬	3202		噬		haʔr-
-684	Japhug	bite	to bite	mtsɯɣ	m ts ɯ ɣ			咬	2401		噬		mtsɯɣ
+684	Japhug	bite	to bite	mtsɯɣ	m ts ɯ ɣ			咬	2223		噬		mtsɯɣ
 688	Tangut	bite	to bite	gioo¹	g i oo ¹			咬	10182		噬		gioo¹
 708	Old_Tibetan	black	black	nag-	n a g ◦			黑	511		黑		nag-
 721	Khaling	black	black	kekêm	k e k ê m			黑	215		黑		kekêm
@@ -243,7 +243,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 4765	Japhug	horn	the horn (keratinized skin)	ta-ʁrɯ	t a ◦ ʁ r ɯ			角	312		角		ta-ʁrɯ
 4769	Tangut	horn	the horn (keratinized skin)	khiwə¹	kʰ i w ə ¹			角	312		角		khiwə¹
 4789	Old_Tibetan		the house	kʰʲim	kʰ j i m				209				
-4818	Japhug		the house	kʰa	kʰ a				1523				kha
+4818	Japhug		the house	kʰa	kʰ a				29776				kha
 4895	Old_Tibetan		hundred	brgʲa	b r g ʲ a				185				
 4924	Japhug		hundred	ɣurʑa	ɣ u r ʑ a				185				ɣurʑa
 4948	Old_Tibetan		to hunt	rŋon	r ŋ o n			打猎	2309				
@@ -567,7 +567,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 11573	Old_Tibetan	walk	to walk	ɴgro-	ɴ g r o ◦			走	3003		行		ɴgro-
 11586	Khaling	walk	to walk	lɛm-thi-	l ɛ m ◦ tʰ i ◦			走	2524		行		lɛm-thi-
 11587	Limbu	walk	to walk	laŋ-ghek-	l a ŋ ◦ gʰ e k ◦			走	4048		行		laŋ-ghek-
-11602	Japhug	walk	to walk	ŋke	ŋ k e			走	2841		行		ŋke
+11602	Japhug	walk	to walk	ŋke	ŋ k e			走	29778		行		ŋke
 11606	Tangut	walk	to walk	dʑji	dʑ j i			走	4192		行		dʑji
 11732	Old_Tibetan	water	the water	tɕʰu	tɕʰ u	https://stan.hypotheses.org/20 for the cognay of OT and OC		水	2787		水		tɕʰu
 11745	Khaling	water	the water	ku	k u			水	1425		水		ku
@@ -602,7 +602,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 12238	Japhug		the wife	tɤ-rʑaβ	t ɤ ◦ r ʑ a β			妻子	2935				tɤ-rʑaβ
 12262	Old_Tibetan		the wind	rluŋ	r l u ŋ			风	1341				
 12291	Japhug		the wind	qale	q a l e			风	994				qale
-12315	Old_Tibetan		the wing	gɕog pa	g ɕ o g + pa			翅膀	755				
+12315	Old_Tibetan		the wing	gɕog pa	g ɕ o g + p a	separate pa (yunfan 19/02/19)		翅膀	755				
 12344	Japhug		the wing	ɯ-ʁar	ɯ ◦ ʁ a r			翅膀	3315				ɯ-ʁar
 12368	Old_Tibetan	woman	the woman	bud.med	b u d + m e d			女人	2913		女		bu.med
 12381	Khaling	woman	the woman	melsêm	m e l s ê m			女人	29769		女		melsêm
@@ -612,7 +612,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 12421	Old_Tibetan		the wood (material)	ɕiŋ	ɕ i ŋ				0				
 12450	Japhug		the wood (material)	si	s i				8175				si
 12633	Old_Tibetan		the year	lo	l o			年	1204				
-12662	Japhug		the year	tɯ-xpa	t ɯ ◦ x p a			年	4196				tɯ-xpa
+12662	Japhug		the year	tɯ-xpa	t ɯ ◦ x p a			年	29777				tɯ-xpa
 12686	Old_Tibetan	yellow	yellow	ser-	s e r ◦			黄	563		黃		ser-
 12699	Khaling	yellow	yellow	ʔɵʔɵ̂m	ʔ ɵ ʔ ɵ̂ m			黄	1460		黃		ʔɵʔɵ̂m
 12700	Limbu	yellow	yellow	hi:k	h iː k			黄	3344		黃		hi:k
@@ -1230,7 +1230,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 17607	Tibetan_Lhasa	smoke	the smoke	thuo¹³	th u o ¹³				1421	345918		STEDT/TBL	thuo¹³
 17609	Motuo_Menba	know	to know (something)	se	s e				2279	433403		STEDT/TBL	se
 17611	Tibetan_Lhasa	hill / mountain	the mountain	ri¹³	r i ¹³				121	346126		STEDT/TBL	ri¹³
-17613	rGyalrong_Maerkang	bamboo	the bamboo	ɟjo	ɟ j o				821	364920		STEDT/TBL	ɟjo
+17613	rGyalrong_Maerkang	bamboo	the bamboo	ɟjo	ɟj o				821	364920		STEDT/TBL	ɟjo
 17615	Tibetan_Xiahe	horizontal	horizontal	tʂhel	tʂh e l				268	396579		STEDT/TBL	tʂhel
 17617	Tibetan_Lhasa	river	the river	tsaŋ⁵⁵po⁵⁵	ts a ŋ ⁵⁵ ◦ p o ⁵⁵				823	346544		STEDT/TBL	tsaŋ⁵⁵po⁵⁵
 17618	Tibetan_Lhasa	lake	the lake	tsho⁵⁵	tsh o ⁵⁵				387	346551		STEDT/TBL	tsho⁵⁵
@@ -1544,7 +1544,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 18522	rGyalrong_Maerkang	blow (one's nose)	to blow (of wind)	tə ʃnɐm kɑ snɑr	t ə _ ʃ n ɐ m _ k ɑ _ s n ɑ r				3361	430636		STEDT/TBL	tə ʃnɐm kɑ snɑr
 18524	rGyalrong_Maerkang	learn	to learn	kɐ slɐp	k ɐ _ s l ɐ p		tib[slob]		439	430829		STEDT/TBL	kɐ slɐp
 18528	Tibetan_Lhasa	eat	to eat	sa¹³	s a ¹³				3419	405889		STEDT/TBL	sa¹³
-18531	rGyalrong_Maerkang	bite	to bite	khɑ mtʃik kɐ lɐt	kh ɑ _ m tʃ i k _ k ɐ _ l ɐ t	!			2401	431332		STEDT/TBL	khɑ mtʃik kɐ lɐt
+18531	rGyalrong_Maerkang	bite	to bite	khɑ mtʃik kɐ lɐt	kh ɑ _ m tʃ i k _ k ɐ _ l ɐ t	!			2223	431332		STEDT/TBL	khɑ mtʃik kɐ lɐt
 18532	Lisu	goat	the goat	ɑ⁵⁵tʃhi̱³¹	ɑ ⁵⁵ tʃh i̱ ³¹				774	359425		STEDT/TBL	ɑ⁵⁵tʃhi̱³¹zɑ³¹
 18534	Dulong	heart	the heart	ɹɯ³¹mɛʔ⁵⁵	ɹ ɯ ³¹ + m ɛ ʔ ⁵⁵				1144	352404		STEDT/TBL	ɹɯ³¹mɛʔ⁵⁵
 18538	Tibetan_Lhasa	sing	to sing	ɕɛ¹³² taŋ⁵⁵	ɕ ɛ ¹³² _ t a ŋ ⁵⁵				3053	405280		STEDT/TBL	ɕɛ¹³² taŋ⁵⁵
@@ -1655,7 +1655,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 18760	Tibetan_Lhasa	run	to run	Cu¹³²	c u ¹³²				729	421499		STEDT/TBL	Cu¹³²
 18761	Tibetan_Xiahe	circle / circular	round	hkor hko	h k o r _ h k o	!			125	395986		STEDT/TBL	hkor hko
 18762	Daofu	wing	the wing	ɕɑ spɑ	ɕ ɑ + s p ɑ	!			3587	360533		STEDT/TBL	ɕɑ spɑ
-18763	Daofu	feather / plume	the feather	ɣra spə	ɣ r a + s p ə	!			921	360583		STEDT/TBL	ɣra spə
+18763	Daofu	feather / plume	the feather	ɣra spə	ɣ r a + s p ə	!	Tibetan spu		921	360583		STEDT/TBL	ɣra spə
 18766	Tibetan_Lhasa	float	to float	çaŋ⁵⁵	ç a ŋ ⁵⁵				1229	421919		STEDT/TBL	çaŋ⁵⁵
 18768	Daofu	tiger	the tiger	stɑ	s t ɑ	!	tib[stag]		1105	360851		STEDT/TBL	stɑ
 18777	rGyalrong_Maerkang	sky	the sky	nɐm khɐ	n ɐ m _ kh ɐ		Tib[nam.mkha]		254	344996		STEDT/TBL	nɐm khɐ
@@ -1664,7 +1664,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 18783	Daofu	mouse	the mouse or rat	ftɕə	f tɕ ə	!			10424	361668		STEDT/TBL	ftɕə
 18785	Daofu	wolf	the wolf	spjoŋ kə	s p j o ŋ + k ə	!	tib[spʲaŋ.ki]		741	361875		STEDT/TBL	spjoŋ kə
 18786	Daofu	fox	the fox	dʑi vɛ	dʑ i + v ɛ				4210	361926		STEDT/TBL	dʑi vɛ
-18787	Daofu	bird	the bird	vdʑɛ vdʑu	v dʑ ɛ + v dʑ u	!			1236	361976		STEDT/TBL	vdʑɛ vdʑu
+18787	Daofu	bird	the bird	vdʑɛ vdʑu	v dʑ ɛ + v dʑ u	!	tibetan[bya] (yunfan 15/02/19)		1236	361976		STEDT/TBL	vdʑɛ vdʑu
 18788	Tibetan_Lhasa	marry (a woman)	to marry (a man marries a woman)	na⁵⁵ma⁵⁵ lẽ¹³	n a ⁵⁵ ◦ m a ⁵⁵ _ l ẽ ∼ ¹³				2533	423092		STEDT/TBL	na⁵⁵ma⁵⁵ lẽ¹³
 18790	Yidu	tiger	the tiger	jɑ⁵⁵mɹɑ⁵⁵	j ɑ ⁵⁵ ◦ m ɹ ɑ ⁵⁵				1237	360864		STEDT/TBL	jɑ⁵⁵mɹɑ⁵⁵
 18794	Daofu	sparrow	the sparrow	ɣzə	ɣ z ə	!			3599	362484		STEDT/TBL	ɣzə
@@ -1674,7 +1674,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 18807	Daofu	frog	the frog	spu ntɕhɛn	s p u + n tɕʰ ɛ n	!			145	437046		STEDT/TBL	spu ntɕhɛn
 18808	Tibetan_Lhasa	kill	to kill	sɛ⁵²	s ɛ ⁵²				3125	424214		STEDT/TBL	sɛ⁵²
 18809	Daofu	fish	the fish	ʁjə	ʁ j ə				804	437146		STEDT/TBL	ʁjə
-18813	Daofu	louse	the louse	ɕo	ɕ o				2077	363212		STEDT/TBL	ɕo
+18813	Daofu	louse	the louse	ɕo	ɕ o		tib[shig] (yunfan 15/02/19)		2077	363212		STEDT/TBL	ɕo
 18814	Dulong	mother	the mother	ɑ³¹mɑi⁵³	ɑ ³¹ + m ɑ i ⁵³				3663	356308		STEDT/TBL	ɑ³¹mɑi⁵³
 18816	Tibetan_Lhasa	shoot (an arrow)	to shoot (an arrow)	paŋ⁵²	p a ŋ ⁵²				2979	424647		STEDT/TBL	paŋ⁵²
 18817	Daofu	spider	the spider	a mbə	a + m b ə	!			2659	363472		STEDT/TBL	a mbə
@@ -2119,7 +2119,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 19829	Tibetan_Xiahe	eight	eight	dʑal	dʑ a l				183	386388		STEDT/TBL	dʑal
 19831	Daofu	hear	to hear	də ntɕhi	d ə + n tɕʰ i	!			3311	428051		STEDT/TBL	də ntɕhi
 19833	Daofu	heavy	heavy	gɛ nɮə	g ɛ + n ɮ ə				10379	397237		STEDT/TBL	gɛ nɮə
-19834	Daofu	throw / hurl	to throw	ɟjɛr qɛ	ɟ j ɛ r + q ɛ				3350	428272		STEDT/TBL	ɟjɛr qɛ
+19834	Daofu	throw / hurl	to throw	ɟjɛr qɛ	ɟj ɛ r + q ɛ	combine ɟj (yunfan 19/02/19)			3350	428272		STEDT/TBL	ɟjɛr qɛ
 19835	Daofu	spit	to spit	ʂphə	ʂ pʰ ə	!			2920	428320		STEDT/TBL	ʂphə
 19836	Daofu	push / shove	to push	zo	z o				3387	428368		STEDT/TBL	zo
 19839	Tibetan_Batang	year	the year	lᴜ²³¹	l ᴜ ²³¹				1204	385002		STEDT/TBL	lᴜ²³¹
@@ -2402,16 +2402,16 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 21135	Zhaba_Daofu_County	lake	the lake	ɕy⁵⁵	ɕ y ⁵⁵				2015	346563		STEDT/TBL	ɕy⁵⁵
 21136	Zhaba_Daofu_County	lake	the lake	ptshu⁵⁵	p tsʰ u ⁵⁵	!	tib[mtsʰo]		387	346600		STEDT/TBL	ptshu⁵⁵
 21137	Zhaba_Daofu_County	sea	the sea	ɟja⁵⁵mtshu⁵⁵	ɟ j a ⁵⁵ ◦ m tsh u ⁵⁵		tib[rgʲa.mtsʰo]		3122	346615		STEDT/TBL	ɟja⁵⁵mtshu⁵⁵
-21139	Zhaba_Daofu_County	road	the road	ɟje³³lɛ⁵⁵	ɟ j e ³³ ◦ l ɛ ⁵⁵				2017	346922		STEDT/TBL	ɟje³³lɛ⁵⁵
+21139	Zhaba_Daofu_County	road	the road	ɟje³³lɛ⁵⁵	ɟ j e ³³ ◦ l ɛ ⁵⁵		tib[lam] (yunfan 15/02/19)		2017	346922		STEDT/TBL	ɟje³³lɛ⁵⁵
 21142	Zhaba_Daofu_County	sand	the sand	tsi³³ma⁵⁵	ts i ³³ ◦ m a ⁵⁵		tib bye ma		118	347234		STEDT/TBL	tsi³³ma⁵⁵
-21143	Zhaba_Daofu_County	dust	the dust	di¹³	d i ¹³				507	347284		STEDT/TBL	di¹³
-21144	Zhaba_Daofu_County	dust	the dust	di³¹	d i ³¹				507	347322		STEDT/TBL	di³¹
+21143	Zhaba_Daofu_County	dust	the dust	di¹³	d i ¹³		tib[rdul]? (Yunfan 15/02/19)		507	347284		STEDT/TBL	di¹³
+21144	Zhaba_Daofu_County	dust	the dust	di³¹	d i ³¹		tib[rdul]? (Yunfan 15/02/19)		507	347322		STEDT/TBL	di³¹
 21145	Zhaba_Daofu_County	mud	the mud	cço⁵⁵	cç o ⁵⁵	!			2018	347336		STEDT/TBL	cço⁵⁵
 21146	Zhaba_Daofu_County	water	the water	tʌ¹³	t ʌ ¹³				2019	347387		STEDT/TBL	tʌ¹³
 21150	Tibetan_Xiahe	soil / earth	the earth (soil)	sha	sʰ a				373	347017		STEDT/TBL	sha
 21151	Tibetan_Alike	live / reside	to reside (live)	wdat	w d a t	!			2022	417202		STEDT/TBL	wdat
-21155	Zhaba_Daofu_County	salt	the salt	tshɿ³³	tsʰ ɿ ³³				4160	348121		STEDT/TBL	tshɿ³³
-21156	Zhaba_Daofu_County	salt	the salt	tshɿ³¹	tsʰ ɿ ³¹				4160	348158		STEDT/TBL	tshɿ³¹
+21155	Zhaba_Daofu_County	salt	the salt	tshɿ³³	tsʰ ɿ ³³		tib[tsʰʷa] (yunfan 15/02/19)		4160	348121		STEDT/TBL	tshɿ³³
+21156	Zhaba_Daofu_County	salt	the salt	tshɿ³¹	tsʰ ɿ ³¹		tib[tsʰʷa] (yunfan 15/02/19)		4160	348158		STEDT/TBL	tshɿ³¹
 21160	Lisu	bone	the bone	o̱³¹to̱³³	o̱ ³¹ ◦ t o̱ ³³				2	351864		STEDT/TBL	o̱³¹to̱³³
 21161	Zhaba_Daofu_County	head	the head	gu¹³	g u ¹³				1426	348795		STEDT/TBL	gu¹³
 21162	Zhaba_Daofu_County	head	the head	gu³³po⁵⁵lo³³	g u ³³ ◦ p o ⁵⁵ ◦ l o ³³				1426	348832		STEDT/TBL	gu³³po⁵⁵lo³³
@@ -2530,7 +2530,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 21376	Zhaba_Daofu_County	snake	the snake	tʂʌ³³ (p) tʂɿ⁵⁵|	tʂ ʌ ³³ _ tʂ ɿ ⁵⁵	!			70	436948		STEDT/TBL	tʂʌ³³ (p) tʂɿ⁵⁵|
 21379	Zhaba_Daofu_County	fish	the fish	dʑy¹³	dʑ y ¹³				804	437148		STEDT/TBL	dʑy¹³
 21383	Zhaba_Daofu_County	flea	the flea	sʌ³³phi⁵⁵	s ʌ ³³ ◦ ph i ⁵⁵				1747	363163		STEDT/TBL	sʌ³³phi⁵⁵
-21384	Zhaba_Daofu_County	louse	the louse	ɕha¹³	ɕh a ¹³				807	363214		STEDT/TBL	ɕha¹³
+21384	Zhaba_Daofu_County	louse	the louse	ɕha¹³	ɕh a ¹³		tib[shig] (yunfan 15/02/19)		807	363214		STEDT/TBL	ɕha¹³
 21385	Zhaba_Daofu_County	nit	the nit	sʌ³³tsi⁵⁵	s ʌ ³³ ◦ ts i ⁵⁵				3466	363264		STEDT/TBL	sʌ³³tsi⁵⁵
 21387	Zhaba_Daofu_County	mosquito	the mosquito	pho³³mɛ⁵⁵	ph o ³³ ◦ m ɛ ⁵⁵				3468	363422		STEDT/TBL	pho³³mɛ⁵⁵
 21388	Zhaba_Daofu_County	spider	the spider	ka³³ʐa⁵⁵mi³³	k a ³³ ◦ ʐ a ⁵⁵ ◦ m i ³³				3469	363474		STEDT/TBL	ka³³ʐa⁵⁵mi³³
@@ -2965,7 +2965,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 22259	Dulong	skin	the skin	pɯn⁵⁵	p ɯ n ⁵⁵				130	351175		STEDT/TBL	pɯn⁵⁵
 22260	Zhaba_Daofu_County	hear	to hear	ȵu⁵⁵	ȵ u ⁵⁵				2424	428053		STEDT/TBL	ȵu⁵⁵
 22261	Zhaba_Daofu_County	steal	to steal	mə⁵⁵ ma⁵⁵	m ə ⁵⁵ _ m a ⁵⁵				2425	428223		STEDT/TBL	mə⁵⁵ ma⁵⁵
-22262	Zhaba_Daofu_County	throw / hurl	to throw	a³³ ɟjo⁵⁵	a ³³ _ ɟ j o ⁵⁵				3409	428274		STEDT/TBL	a³³ ɟjo⁵⁵
+22262	Zhaba_Daofu_County	throw / hurl	to throw	a³³ ɟjo⁵⁵	a ³³ _ ɟj o ⁵⁵	combine ɟj (yunfan 19/02/19)			3409	428274		STEDT/TBL	a³³ ɟjo⁵⁵
 22263	rGyalrong_Maerkang	woman	the woman	tə mi	t ə _ m i				29768	353944		STEDT/TBL	tə mi
 22265	Dulong	die	to die	ɕi⁵³	ɕ i ⁵³				163	426579		STEDT/TBL	ɕi⁵³
 22270	Zhaba_Daofu_County	dig / scoop out	to dig	ʌ³³ vʐe⁵⁵	ʌ ³³ _ v ʐ e ⁵⁵	!			2426	428785		STEDT/TBL	ʌ³³ vʐe⁵⁵
@@ -3106,7 +3106,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 22725	Tibetan_Alike	feather / plume	the feather	rdʑo	r dʑ o	!			922	360576		STEDT/TBL	rdʑo
 22729	Tibetan_Xiahe	fly	to fly (move through air)	phər	ph ə r				430	411235		STEDT/TBL	phər
 22735	Tibetan_Xiahe	give	to give	hter	h t e r	!			1010	412435		STEDT/TBL	hter
-22742	Dulong	sing	to sing	wɑ⁵³	w ɑ ⁵³				2514	405298		STEDT/TBL	wɑ⁵³
+22742	Dulong	sing	to sing	wɑ⁵³	w ɑ ⁵³				29775	405298		STEDT/TBL	wɑ⁵³
 22743	Tibetan_Xiahe	drink	to drink	thoŋ	th o ŋ				2228	413590		STEDT/TBL	thoŋ
 22760	Tibetan_Lhasa	tree	the tree	ɕiŋ⁵⁵tuŋ⁵⁵	ɕ i ŋ ⁵⁵ ◦ t u ŋ ⁵⁵				3396	364025		STEDT/TBL	ɕiŋ⁵⁵tuŋ⁵⁵
 22772	Tibetan_Alike	rope / string	the rope	rn̥e	r n̥ e	!			2516	376778		STEDT/TBL	rn̥e
@@ -3498,7 +3498,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 23806	Yidu	blood	the blood	i⁵⁵ɹu⁵⁵	i ⁵⁵ ◦ ɹ u ⁵⁵				2129	351646		STEDT/TBL	i⁵⁵ɹu⁵⁵
 23808	Bokar	early	early	kum tɕi	k u m + tɕ i				2740	397461		STEDT/TBL	kum tɕi
 23810	Bokar	sharp	sharp	ret po	r e t + p o				1698	397563		STEDT/TBL	ret po
-23811	Zhaba_Daofu_County	green	green	dʑᴜ³³ nkhu⁵⁵	dʑ ᴜ ³³ _ n kh u ⁵⁵	!			3262	396995		STEDT/TBL	dʑᴜ³³ nkhu⁵⁵
+23811	Zhaba_Daofu_County	green	green	dʑᴜ³³ nkhu⁵⁵	dʑ ᴜ ³³ _ n kh u ⁵⁵	!	tib[ljang.khu] (yunfan 15/02/19)		3262	396995		STEDT/TBL	dʑᴜ³³ nkhu⁵⁵
 23815	Bokar	dry	dry	ɕen	ɕ e n				2743	397966		STEDT/TBL	ɕen
 23816	Bokar	wet	wet	dʑu dʑaŋ|	dʑ u + dʑ a ŋ	!			2744	398019		STEDT/TBL	dʑu dʑaŋ|
 23819	Bokar	soft	soft	rəː bak	r əː + b a k				2745	398302		STEDT/TBL	rəː bak
@@ -3551,7 +3551,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 23957	Lisu	drink	to drink	do³³	d o ³³				2228	413625		STEDT/TBL	do³³
 23960	Daofu	nine	nine	ngə	n g ə	!			24	386447		STEDT/TBL	ngə
 23962	Bokar	over / above	above	jan dap	j a n + d a p		tib[jan]		198	382670		STEDT/TBL	jan dap
-23970	Zhaba_Daofu_County	new	new	se⁵⁵pi⁵⁵	s e ⁵⁵ ◦ p i ⁵⁵				23	399021		STEDT/TBL	se⁵⁵pi⁵⁵
+23970	Zhaba_Daofu_County	new	new	se⁵⁵pi⁵⁵	s e ⁵⁵ ◦ p i ⁵⁵		tib[gsar.pa] ? (yunfan 15/02/19)		23	399021		STEDT/TBL	se⁵⁵pi⁵⁵
 23971	Bokar	burn	to burn [intransitive]	guː	g uː				3352	409086		STEDT/TBL	guː
 23974	Bokar	smoke	the smoke	mɯ |kɯː	m ɯ + k ɯː	!			68	345940		STEDT/TBL	mɯ |kɯː
 23975	Tibetan_Batang	ice	the ice	tɕhɑ¹³rɑ̃⁵⁵	tɕʰ ɑ ¹³ ◦ r ɑ̃ ∼ ⁵⁵				818	345818		STEDT/TBL	tɕhɑ¹³rɑ̃⁵⁵
@@ -3651,7 +3651,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 24167	Jingpho	hunt	to hunt	ʃan³¹kap³¹	ʃ a n ³¹ ◦ k a p ³¹				2820	407357		STEDT/TBL	ʃan³¹kap³¹
 24169	Bokar	marry (a woman)	to marry (a man marries a woman)	loŋ	l o ŋ				2821	423113		STEDT/TBL	loŋ
 24173	Darang_Taraon	thick	thick	bi³¹ tɕoŋ⁵⁵	b i ³¹ _ tɕ o ŋ ⁵⁵				2731	395509		STEDT/TBL	bi³¹ tɕoŋ⁵⁵
-24174	rGyalrong_Maerkang	year	the year	pɑ	p ɑ				4196	385010		STEDT/TBL	pɑ
+24174	rGyalrong_Maerkang	year	the year	pɑ	p ɑ				29777	385010		STEDT/TBL	pɑ
 24175	Lisu	think	to think (reflect)	du³¹dʑɑ³¹	d u ³¹ ◦ dʑ ɑ ³¹				2823	430126		STEDT/TBL	du³¹dʑɑ³¹
 24176	rGyalrong_Maerkang	wood / log	the wood (material)	ʃᴇ	ʃ ᴇ				2974	371198		STEDT/TBL	ʃᴇ
 24178	Bokar	knead (dough)	to knead	nuː	n uː				2824	423855		STEDT/TBL	nuː
@@ -4491,7 +4491,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 30562	Tibetan_Alike	thin	thin (object)	ʂa wə	ʂ a _ w ə				3192	395545		STEDT/TBL	ʂa wə
 30576	Tibetan_Batang	scatter (seeds) (verb)	to sow (broadcast, scatter seeds)	tɑuʔ⁵³	t ɑ u ʔ ⁵³				3578	423977		STEDT/TBL	tɑuʔ⁵³
 30577	Tibetan_Batang	excrement (noun)	the shit	tɕa⁵⁵pa⁵³	tɕ a ⁵⁵ ◦ p a ⁵³				544	352743		STEDT/TBL	tɕa⁵⁵pa⁵³
-30580	Daofu	excrement (noun)	the shit	ʂcçɑ xpɑ	ʂ c ç ɑ + x p ɑ				544	352752		STEDT/TBL	ʂcçɑ xpɑ
+30580	Daofu	excrement (noun)	the shit	ʂcçɑ xpɑ	ʂ cç  ɑ + x p ɑ		tib skʲag.pa (yunfan, 14/02/2019), combien cç (yunfan 19/02/19)		544	352752		STEDT/TBL	ʂcçɑ xpɑ
 30584	Tibetan_Alike	stone (noun)	the stone (a piece of)	rdo	r d o				3156	347173		STEDT/TBL	rdo
 30586	rGyalrong_Maerkang	thin	thin (object)	kə mbɑ	k ə _ m b ɑ				3196	395551		STEDT/TBL	kə mbɑ
 30587	Tibetan_Lhasa	thin	thin (object)	tʂə⁵⁵pu⁵⁵	tʂ ə ⁵⁵ ◦ p u ⁵⁵				3192	395542		STEDT/TBL	tʂə⁵⁵pu⁵⁵
@@ -4520,7 +4520,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 30652	Bokar	scatter (seeds) (verb)	to sow (broadcast, scatter seeds)	tor	t o r		Tib[gtor]		3584	423997		STEDT/TBL	tor
 30654	Darang_Taraon	thin	thin (object)	bɑ⁵⁵ɑ⁵⁵	b ɑ ⁵⁵ ɑ ⁵⁵				3196	395562		STEDT/TBL	bɑ⁵⁵ɑ⁵⁵
 30655	Bokar	excrement (noun)	the shit	eː	eː	cf. Shorto PAA #794 *ʔic; *ʔiə[c]; *ʔ[ə]c excrement, faeces. A: (Mon, North Bahnaric, Aslian) Mon oik, Bahnar ic, Jeh ek, Halang ik, Central Sakai êch; → Kuki-Naga *eˑk (& similar Karen forms; BENEDICT 1972 26 n. 82, 146 n. 399).	AA		120	352764		STEDT/TBL	eː
-30657	Zhaba_Daofu_County	excrement (noun)	the shit	cça⁵⁵pa⁵⁵	c ç a ⁵⁵ ◦ p a ⁵⁵		tib skʲag.pa		544	352754		STEDT/TBL	cça⁵⁵pa⁵⁵
+30657	Zhaba_Daofu_County	excrement (noun)	the shit	cça⁵⁵pa⁵⁵	cç a ⁵⁵ ◦ p a ⁵⁵		tib skʲag.pa, combien cç (yunfan 19/02/19)		544	352754		STEDT/TBL	cça⁵⁵pa⁵⁵
 30659	Tibetan_Lhasa	scatter (seeds) (verb)	to sow (broadcast, scatter seeds)	sø̃⁵⁵ ɕo⁵⁵	s ø̃ ∼ ⁵⁵ _ ɕ o ⁵⁵				3588	423976		STEDT/TBL	sø̃⁵⁵ ɕo⁵⁵
 30660	Tibetan_Xiahe	thin	thin (object)	ʂap wə	ʂ a p _ w ə				3192	395544		STEDT/TBL	ʂap wə
 30661	Jingpho	stone (noun)	the stone (a piece of)	n³¹luŋ³¹	n ³¹ ◦ l u ŋ ³¹				81	347187		STEDT/TBL	n³¹luŋ³¹
@@ -5272,7 +5272,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 31668	Wobzi_Khroskyabs		the lip (the lips)	mtɕʰə́	m tɕʰ ə́	mouth	tib[mtɕʰu]		10522			Lai2016	
 31669	Wobzi_Khroskyabs		the liver	fsé	f s é				2076			Lai2016	
 31670	Wobzi_Khroskyabs		long	srɑ̂ɣ	s r ɑ̂ ɣ				547			Lai2016	
-31671	Wobzi_Khroskyabs		the louse	ɕɑ́ɣ	ɕ ɑ́ ɣ				2077			Lai2016	
+31671	Wobzi_Khroskyabs		the louse	ɕɑ́ɣ	ɕ ɑ́ ɣ		tib[shig] (yunfan 15/02/19)		2077			Lai2016	
 31672	Wobzi_Khroskyabs		the lung	rtsʰǽ	r tsʰ ǽ				716			Lai2016	
 31673	Wobzi_Khroskyabs		the man (male human)	vɟú	v ɟ ú				3137			Lai2016	
 31674	Wobzi_Khroskyabs		many	vɟæχtsə̂	v ɟ æ χ ts ə̂				3758			Lai2016	
@@ -5290,7 +5290,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 31686	Wobzi_Khroskyabs		the nail (fingernail or claw)	rdzé	r dz é				1194			Lai2016	
 31687	Wobzi_Khroskyabs		the name	rmê	r m ê				18			Lai2016	
 31688	Wobzi_Khroskyabs		narrow	ʁrô	ʁ r ô				3763			Lai2016	
-31689	Wobzi_Khroskyabs		near	kə-ntʰâ	k ə + n tʰ â				1355			Lai2016	
+31689	Wobzi_Khroskyabs		near	kə-ntʰâ	k ə + n tʰ â		tib[thag] (yunfan 15/02/19)		1355			Lai2016	
 31690	Wobzi_Khroskyabs		the neck	fqə̂	f q ə̂				695			Lai2016	
 31691	Wobzi_Khroskyabs		the needle (for sewing)	ʁɑ̂v	ʁ ɑ̂ v				10231			Lai2016	
 31692	Wobzi_Khroskyabs		new	çsæ̂rpɑ	ç s æ̂ r p ɑ		tib[gsar.pa]		23			Lai2016	
@@ -5302,11 +5302,11 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 31698	Wobzi_Khroskyabs		one	rɑ̂ɣ	r ɑ̂ ɣ				302			Lai2016	
 31699	Wobzi_Khroskyabs		the otter	sræ̂m	s r æ̂ m		tib		1290			Lai2016	
 31700	Wobzi_Khroskyabs		outside	bjǽ	b j ǽ				3765			Lai2016	
-31701	Wobzi_Khroskyabs		the pig	pʰɑ̂ɣ	pʰ ɑ̂ ɣ		tib[pʰag]		2092			Lai2016	
+31701	Wobzi_Khroskyabs		the pig	pʰɑ̂ɣ	pʰ ɑ̂ ɣ		tib[pʰag]? (could be a native word, yunfan 19/02/19)		2092			Lai2016	
 31702	Wobzi_Khroskyabs		to plant (vegetals, rice)	jê	j ê				722			Lai2016	
 31703	Wobzi_Khroskyabs		to play	mbjavlâ	m b j a v l â				3766			Lai2016	
 31704	Wobzi_Khroskyabs		to pull	rɕə̂	rɕ ə̂				2354			Lai2016	
-31705	Wobzi_Khroskyabs		to push	nskʰɑ́ɣ	ns kʰ ɑ́ ɣ				3767			Lai2016	
+31705	Wobzi_Khroskyabs		to push	nskʰɑ́ɣ	n s kʰ ɑ́ ɣ	separation of n and s (yunfan 15/02/19)			3767			Lai2016	
 31706	Wobzi_Khroskyabs		the rain	mə̂	m ə̂				1164			Lai2016	
 31707	Wobzi_Khroskyabs		the rainbow	ndʑɑ̂	n dʑ ɑ̂		Tibetan[ɴdʑa]		94			Lai2016	
 31708	Wobzi_Khroskyabs		red	mnə̂ɣ	m n ə̂ ɣ				1306			Lai2016	
@@ -5318,7 +5318,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 31715	Wobzi_Khroskyabs		the rope	bré	b r é				10164			Lai2016	
 31716	Wobzi_Khroskyabs		round	χtə̂m	χ t ə̂ m				3770			Lai2016	
 31717	Wobzi_Khroskyabs		to run	tʂʰʊ́ŋ lǽ	tʂʰ ʊ́ ŋ _ l ǽ				3771			Lai2016	
-31718	Wobzi_Khroskyabs		the salt	tsʰí	tsʰ í				4160			Lai2016	
+31718	Wobzi_Khroskyabs		the salt	tsʰí	tsʰ í		tib[tsʰʷa] (yunfan 15/02/19)		4160			Lai2016	
 31719	Wobzi_Khroskyabs		salty	tsʰrə́	tsʰ r ə́				1006			Lai2016	
 31720	Wobzi_Khroskyabs		the sand	rɟaqrá	r ɟ a q r á				212			Lai2016	
 31721	Wobzi_Khroskyabs		to scratch	nsprɑɣvɑ́ɣ	n s p r ɑ ɣ v ɑ́ ɣ				2403			Lai2016	
@@ -5417,7 +5417,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 31815	Chepang	underneath, beneath or below (place)	below, under	tal.ge	t a l + g e				315	481958		Caughley2000	
 31816	Chepang	big (esp. in height, length), large	big	braw-	b r a w				3795	484489		Caughley2000	
 31817	Chepang	bird (sp.)	the bird	waʔ	w a ʔ				10267	485041		Caughley2000	
-31818	Chepang	bite (not insect bites)	to bite	jəyk-	dʒ ə j k				2401	481487		Caughley2000	
+31818	Chepang	bite (not insect bites)	to bite	jəyk-	dʒ ə j k				2223	481487		Caughley2000	
 31819	Chepang	very dark, black	black	tik.tak	t i k + t a k				3796	482018		Caughley2000	
 31820	Chepang	black, dark	black	gal-	g a l				3797	480214		Caughley2000	
 31821	Chepang	blood (B)	the blood	wi	w i				29703	486388		Caughley2000	
@@ -5655,7 +5655,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 32078	Garo	below; under (pp)	below, under	ka•-ma	k a • + m a	-ma noun suffix: bik-ma 'belly'			3917	466649		Burling2003	
 32079	Garo	big; large (vi)	big	dal•-a	d a l ʔ + a				3918	465835		Burling2003	
 32080	Garo	bird (n)	the bird	do•-	d o ʔ	PBG (Joseph and Burling) *tao2			10146	465930		Burling2003	
-32081	Garo	bite (vt)	to bite	chik-a	ch i k + a				2401	465732		Burling2003	
+32081	Garo	bite (vt)	to bite	chik-a	ch i k + a				2223	465732		Burling2003	
 32082	Garo	black (vi)	black	gi-sim	g i s i m				3919	466163		Burling2003	
 32083	Garo	blood (n)	the blood	han•-chi	h a n ʔ + ch i				29703	466335		Burling2003	
 32084	Garo	blow (vt)	to blow (of wind)	spo-a	s p o + a				3920	467808		Burling2003	
@@ -6868,7 +6868,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 33336	Byangsi	these (used for human beings)	this	aimaŋ	a i m a ŋ				6442	541521		Sharma2003	
 33337	Byangsi	2sg. you	thou [second person singular]	gan	g a n				326	541771		Sharma2003	
 33338	Byangsi	three	three	səm	s ə m				283	542381		Sharma2003	
-33339	Byangsi	alive	to be alive	t5aŋde	t̺ a ŋ d e				10407	542529		Sharma2003	
+33339	Byangsi	alive	to be alive	t̺aŋde	t̺ a ŋ d e	IPA column: t5 > t̺ (yunfan, 14/02/2019)			10407	542529		Sharma2003	
 33340	Byangsi	pinch, bite	to bite	cemo	c/tʃ e m o				421	541607		Sharma2003	
 33341	Byangsi	burn, ignite	to burn [intransitive]	cı̀mmo	c/tʃ ı̀ m + m o				3092	541622		Sharma2003	
 33342	Byangsi	stop; understand; buy	to buy	tomo	t o m o				3108	542479		Sharma2003	

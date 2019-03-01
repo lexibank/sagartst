@@ -554,7 +554,7 @@ TibetoKinauri_Byangsi-2307-1,,TibetoKinauri_Byangsi,2307,laktɛ,laktɛ,l a k t �
 TibetoKinauri_Byangsi-1214-1,,TibetoKinauri_Byangsi,1214,aimaŋ,aimaŋ,a i m a ŋ,,Sharma2003a,6442,false
 TibetoKinauri_Byangsi-1215-1,,TibetoKinauri_Byangsi,1215,gan,gan,g a n,,Sharma2003a,326,false
 TibetoKinauri_Byangsi-492-1,,TibetoKinauri_Byangsi,492,səm,səm,s ə m,,Sharma2003a,283,false
-TibetoKinauri_Byangsi-1422-1,,TibetoKinauri_Byangsi,1422,t̺aŋde,t̺aŋde,t̺ a ŋ d e,,Sharma2003a,10407,false
+TibetoKinauri_Byangsi-1422-1,,TibetoKinauri_Byangsi,1422,t̺aŋde,t̺aŋde,t̺ a ŋ d e,"IPA column: t5 > t̺ (yunfan, 14/02/2019)",Sharma2003a,10407,false
 TibetoKinauri_Byangsi-1403-1,,TibetoKinauri_Byangsi,1403,c/tʃemo,c/tʃemo,c/tʃ e m o,,Sharma2003a,421,false
 TibetoKinauri_Byangsi-1428-1,,TibetoKinauri_Byangsi,1428,c/tʃì/im+mo,c/tʃì/im+mo,c/tʃ ì/i m + m o,,Sharma2003a,3092,false
 TibetoKinauri_Byangsi-1869-1,,TibetoKinauri_Byangsi,1869,tomo,tomo,t o m o,,Sharma2003a,3108,false
@@ -667,7 +667,7 @@ Tibeto_Kinauri_Rongpo-487-1,,Tibeto_Kinauri_Rongpo,487,kyã,kyã,k y ã,,Sharma2
 Tibeto_Kinauri_Rongpo-1703-1,,Tibeto_Kinauri_Rongpo,1703,tʃʰɛ,tʃʰɛ,tʃʰ ɛ,,Sharma2003,493,true
 Tibeto_Kinauri_Rongpo-1246-1,,Tibeto_Kinauri_Rongpo,1246,tʃiːtʃi,tʃiːtʃi,tʃ iː tʃ i,,Sharma2003,494,false
 Tibeto_Kinauri_Rongpo-1856-1,,Tibeto_Kinauri_Rongpo,1856,boldu,boldu,b o l d u,,Sharma2003,495,false
-rGyalrong_Japhug-1403-1,,rGyalrong_Japhug,1403,mtsɯɣ,mtsɯɣ,m ts ɯ ɣ,,Jacques2015b,2401,false
+rGyalrong_Japhug-1403-1,,rGyalrong_Japhug,1403,mtsɯɣ,mtsɯɣ,m ts ɯ ɣ,,Jacques2015b,2223,false
 Tibeto_Kinauri_Rongpo-1404-1,,Tibeto_Kinauri_Rongpo,1404,siːda,siːda,s iː d a,,Sharma2003,497,true
 Tibeto_Kinauri_Rongpo-1515-1,,Tibeto_Kinauri_Rongpo,1515,dəs,dəs,d ə s,,Sharma2003,498,true
 Tibeto_Kinauri_Rongpo-78-1,,Tibeto_Kinauri_Rongpo,78,kʰyen,kʰyen,kʰ y e n,,Sharma2003,6431,false
@@ -4781,7 +4781,7 @@ Naga_Ukhrul-1339-1,,Naga_Ukhrul,1339,ŋə+tor,ŋə+tor,ŋ ə + t o r,,Mortensen2
 Naga_Ukhrul-1267-1,,Naga_Ukhrul,1267,kə+mə+ʃɯ,kə+mə+ʃɯ,k ə + m ə + ʃ ɯ,,Mortensen2012,2049,false
 Naga_Ukhrul-1942-1,,Naga_Ukhrul,1942,kʰə+ŋə+naj,kʰə+ŋə+naj,kʰ ə + ŋ ə + n a j,,Mortensen2012,2050,false
 Naga_Ukhrul-1231-1,,Naga_Ukhrul,1231,kə+tʰɐr,kə+tʰɐr,k ə + tʰ ɐ r,,Mortensen2012,23,false
-rGyalrong_Japhug-1252-1,,rGyalrong_Japhug,1252,kha,kha,kʰ a,,Jacques2015b,1523,false
+rGyalrong_Japhug-1252-1,,rGyalrong_Japhug,1252,kha,kha,kʰ a,,Jacques2015b,29776,false
 Naga_Ukhrul-12-1,,Naga_Ukhrul,12,kə+ŋə+ʃun,kə+ŋə+ʃun,k ə + ŋ ə + ʃ u n,,Mortensen2012,3330,false
 Naga_Ukhrul-2112-1,,Naga_Ukhrul,2112,kʰə+rɐr,kʰə+rɐr,kʰ ə + r ɐ r,,Mortensen2012,2051,false
 Naga_Ukhrul-1493-1,,Naga_Ukhrul,1493,ʔa+kʰa,ʔa+kʰa,ʔ a + kʰ a,,Mortensen2012,3331,false
@@ -6189,7 +6189,7 @@ Tibetan_Old_Tibetan-1443-1,,Tibetan_Old_Tibetan,1443,ɴgro-,ɴgro-,ɴ g r o +,,H
 Kiranti_Khaling-1443-1,,Kiranti_Khaling,1443,lɛm-thi-,lɛm-thi-,l ɛ m + tʰ i +,,Jacques2017FN,2524,false
 Kiranti_Limbu-1443-1,,Kiranti_Limbu,1443,laŋ-ghek-,laŋ-ghek-,l a ŋ + gʰ e k +,,Jacques2017FN,4048,false
 rGyalrong_Maerkang-1099-1,,rGyalrong_Maerkang,1099,kɑ ȵi,kɑ ȵi,k ɑ _ ȵ i,,Huang1992,1038,false
-rGyalrong_Japhug-1443-1,,rGyalrong_Japhug,1443,ŋke,ŋke,ŋ k e,,Jacques2015b,2841,false
+rGyalrong_Japhug-1443-1,,rGyalrong_Japhug,1443,ŋke,ŋke,ŋ k e,,Jacques2015b,29778,false
 Tangut-1443-1,,Tangut,1443,dʑji,dʑji,dʑ j i,,Li1997,4192,false
 Burmish_Rangoon-244-2,,Burmish_Rangoon,244,bɛ²²,bɛ²²,b ɛ ²²,,Huang1992;Hill2017,422,false
 Burmish_Rangoon-1201-1,,Burmish_Rangoon,1201,ŋ̊ɛʔ⁴+mwe⁵⁵,ŋ̊ɛʔ⁴+mwe⁵⁵,ŋ̊ ɛ ʔ ⁴ + m w e ⁵⁵,,Huang1992;Hill2017,159,false
@@ -6235,7 +6235,7 @@ rGyalrong_Japhug-1199-1,,rGyalrong_Japhug,1199,tɤ-rʑaβ,tɤ-rʑaβ,t ɤ + r ʑ
 Rabha-262-1,,Rabha,262,u,u,u,,Joseph2007,965,false
 Tibetan_Old_Tibetan-960-1,,Tibetan_Old_Tibetan,960,rluŋ,rluŋ,r l u ŋ,,Huang1992,1341,false
 rGyalrong_Japhug-960-1,,rGyalrong_Japhug,960,qale,qale,q a l e,,Jacques2015b,994,false
-Tibetan_Old_Tibetan-1257-2,,Tibetan_Old_Tibetan,1257,gɕog+pa,gɕog+pa,g ɕ o g + p a,,Huang1992,755,false
+Tibetan_Old_Tibetan-1257-2,,Tibetan_Old_Tibetan,1257,gɕog+pa,gɕog+pa,g ɕ o g + p a,separate pa (yunfan 19/02/19),Huang1992,755,false
 rGyalrong_Japhug-1257-1,,rGyalrong_Japhug,1257,ɯ-ʁar,ɯ-ʁar,ɯ + ʁ a r,,Jacques2015b,3315,false
 Kiranti_Hayu-2194-1,,Kiranti_Hayu,2194,uboŋ,uboŋ,u b o ŋ,,Michailovsky1989a,2678,false
 Tibetan_Old_Tibetan-962-1,,Tibetan_Old_Tibetan,962,bu.med,bu.med,b u d + m e d,,Huang1992,2913,false
@@ -6252,7 +6252,7 @@ Rabha-1244-1,,Rabha,1244,tʃat,tʃat,tʃ a t,,Joseph2007,3065,false
 Burmish_Bola-615-1,,Burmish_Bola,615,mjɔ̃∼³¹,mjɔ̃∼³¹,m j ɔ̃ ∼ ³¹,,Huang1992;Hill2017,3151,false
 Burmish_Lashi-615-1,,Burmish_Lashi,615,mjaŋ³³,mjaŋ³³,m j a ŋ ³³,,Huang1992;Hill2017,3151,false
 Tibetan_Old_Tibetan-1226-1,,Tibetan_Old_Tibetan,1226,lo,lo,l o,,Huang1992,1204,false
-rGyalrong_Japhug-1226-1,,rGyalrong_Japhug,1226,tɯ-xpa,tɯ-xpa,t ɯ + x p a,,Jacques2015b,4196,false
+rGyalrong_Japhug-1226-1,,rGyalrong_Japhug,1226,tɯ-xpa,tɯ-xpa,t ɯ + x p a,,Jacques2015b,29777,false
 Tibetan_Old_Tibetan-1424-1,,Tibetan_Old_Tibetan,1424,ser-,ser-,s e r +,,Huang1992,563,false
 Burmish_Lashi-232-1,,Burmish_Lashi,232,kʰuk⁵⁵+lḛi⁵⁵,kʰuk⁵⁵+lḛi⁵⁵,kʰ u k ⁵⁵ + l ḛ i ⁵⁵,,Huang1992;Hill2017,944,false
 Kiranti_Khaling-1424-1,,Kiranti_Khaling,1424,ʔɵʔɵ̂m,ʔɵʔɵ̂m,ʔ ɵ ʔ ɵ̂ m,,Jacques2017FN,1460,false
@@ -6950,7 +6950,7 @@ Tibetan_Lhasa-221-1,,Tibetan_Lhasa,221,me¹³,me¹³,m e ¹³,,Huang1992,1746,fa
 Tibetan_Lhasa-778-1,,Tibetan_Lhasa,778,thuo¹³,thuo¹³,tʰ u o ¹³,,Huang1992,1421,false
 Bodic_Tshangla-1410-1,,Bodic_Tshangla,1410,se,se,s e,,Huang1992,2279,false
 Tibetan_Lhasa-639-1,,Tibetan_Lhasa,639,ri¹³,ri¹³,r i ¹³,,Huang1992,121,false
-rGyalrong_Maerkang-1927-1,,rGyalrong_Maerkang,1927,ɟjo,ɟjo,ɟ j o,,Huang1992,821,false
+rGyalrong_Maerkang-1927-1,,rGyalrong_Maerkang,1927,ɟjo,ɟjo,ɟʲ o,,Huang1992,821,false
 Tibetan_Xiahe-2376-1,,Tibetan_Xiahe,2376,tʂhel,tʂhel,ʈʂʰ e l,,Huang1992,268,false
 Tibetan_Lhasa-666-1,,Tibetan_Lhasa,666,tsaŋ⁵⁵po⁵⁵,tsaŋ⁵⁵po⁵⁵,ts a ŋ ⁵⁵ + p o ⁵⁵,,Huang1992,823,false
 Tibetan_Lhasa-624-1,,Tibetan_Lhasa,624,tsho⁵⁵,tsho⁵⁵,tsʰ o ⁵⁵,,Huang1992,387,false
@@ -7271,7 +7271,7 @@ rGyalrong_Maerkang-1355-1,,rGyalrong_Maerkang,1355,kɑ nɑ ri,kɑ nɑ ri,k ɑ _ 
 rGyalrong_Maerkang-175-1,,rGyalrong_Maerkang,175,tə ʃnɐm kɑ snɑr,tə ʃnɐm kɑ snɑr,t ə _ ʃ n ɐ m _ k ɑ _ s n ɑ r,,Huang1992,3361,false
 rGyalrong_Maerkang-504-1,,rGyalrong_Maerkang,504,kɐ slɐp,kɐ slɐp,k ɐ _ s l ɐ p,,Huang1992,439,true
 Tibetan_Lhasa-1336-1,,Tibetan_Lhasa,1336,sa¹³,sa¹³,s a ¹³,,Huang1992,3419,false
-rGyalrong_Maerkang-1403-1,,rGyalrong_Maerkang,1403,khɑ mtʃik kɐ lɐt,khɑ mtʃik kɐ lɐt,kʰ ɑ _ m tʃ i k _ k ɐ _ l ɐ t,!,Huang1992,2401,false
+rGyalrong_Maerkang-1403-1,,rGyalrong_Maerkang,1403,khɑ mtʃik kɐ lɐt,khɑ mtʃik kɐ lɐt,kʰ ɑ _ m tʃ i k _ k ɐ _ l ɐ t,!,Huang1992,2223,false
 Loloish_Lisu-1502-1,,Loloish_Lisu,1502,ɑ⁵⁵tʃhi̱³¹zɑ³¹,ɑ⁵⁵tʃhi̱³¹zɑ³¹,ɑ ⁵⁵ tʃʰ i̠ ³¹,,Huang1992,774,false
 Nungic_Dulong-1223-1,,Nungic_Dulong,1223,ɹɯ³¹mɛʔ⁵⁵,ɹɯ³¹mɛʔ⁵⁵,ɹ ɯ ³¹ + m ɛ ʔ ⁵⁵,,Huang1992,1144,false
 Tibetan_Lhasa-1261-1,,Tibetan_Lhasa,1261,ɕɛ¹³² taŋ⁵⁵,ɕɛ¹³² taŋ⁵⁵,ɕ ɛ ¹³² _ t a ŋ ⁵⁵,,Huang1992,3053,false
@@ -7384,7 +7384,7 @@ rGyalrong_Daofu-2009-1,,rGyalrong_Daofu,2009,kə ta,kə ta,k ə + t a,,Huang1992
 Tibetan_Lhasa-1519-1,,Tibetan_Lhasa,1519,Cu¹³²,Cu¹³²,c u ¹³²,,Huang1992,729,false
 Tibetan_Xiahe-1395-1,,Tibetan_Xiahe,1395,hkor hko,hkor hko,h k o r _ h k o,!,Huang1992,125,false
 rGyalrong_Daofu-1257-1,,rGyalrong_Daofu,1257,ɕɑ spɑ,ɕɑ spɑ,ɕ ɑ + s p ɑ,!,Huang1992,3587,false
-rGyalrong_Daofu-1201-1,,rGyalrong_Daofu,1201,ɣra spə,ɣra spə,ɣ r a + s p ə,!,Huang1992,921,false
+rGyalrong_Daofu-1201-1,,rGyalrong_Daofu,1201,ɣra spə,ɣra spə,ɣ r a + s p ə,!,Huang1992,921,true
 Tibetan_Lhasa-1574-1,,Tibetan_Lhasa,1574,çaŋ⁵⁵,çaŋ⁵⁵,ç a ŋ ⁵⁵,,Huang1992,1229,false
 rGyalrong_Daofu-846-1,,rGyalrong_Daofu,846,stɑ,stɑ,s t ɑ,!,Huang1992,1105,true
 rGyalrong_Maerkang-1732-1,,rGyalrong_Maerkang,1732,nɐm khɐ,nɐm khɐ,n ɐ m _ kʰ ɐ,,Huang1992,254,true
@@ -7393,7 +7393,7 @@ rGyalrong_Daofu-15-1,,rGyalrong_Daofu,15,ʂsəm,ʂsəm,ʂ s ə m,!,Huang1992,129
 rGyalrong_Daofu-2139-1,,rGyalrong_Daofu,2139,ftɕə,ftɕə,f tɕ ə,!,Huang1992,10424,false
 rGyalrong_Daofu-522-1,,rGyalrong_Daofu,522,spjoŋ kə,spjoŋ kə,s p j o ŋ + k ə,!,Huang1992,741,true
 rGyalrong_Daofu-1312-1,,rGyalrong_Daofu,1312,dʑi vɛ,dʑi vɛ,dʑ i + v ɛ,,Huang1992,4210,false
-rGyalrong_Daofu-937-1,,rGyalrong_Daofu,937,vdʑɛ vdʑu,vdʑɛ vdʑu,v dʑ ɛ + v dʑ u,!,Huang1992,1236,false
+rGyalrong_Daofu-937-1,,rGyalrong_Daofu,937,vdʑɛ vdʑu,vdʑɛ vdʑu,v dʑ ɛ + v dʑ u,!,Huang1992,1236,true
 Tibetan_Lhasa-2164-1,,Tibetan_Lhasa,2164,na⁵⁵ma⁵⁵ lẽ¹³,na⁵⁵ma⁵⁵ lẽ¹³,n a ⁵⁵ + m a ⁵⁵ _ l ẽ ∼ ¹³,,Huang1992,2533,false
 Deng_Yidu-846-1,,Deng_Yidu,846,jɑ⁵⁵mɹɑ⁵⁵,jɑ⁵⁵mɹɑ⁵⁵,j ɑ ⁵⁵ + m ɹ ɑ ⁵⁵,,Huang1992,1237,false
 rGyalrong_Daofu-1854-1,,rGyalrong_Daofu,1854,ɣzə,ɣzə,ɣ z ə,!,Huang1992,3599,false
@@ -7403,7 +7403,7 @@ rGyalrong_Daofu-730-2,,rGyalrong_Daofu,730,mtʂhi,mtʂhi,m ʈʂʰ i,!,Huang1992,
 rGyalrong_Daofu-503-1,,rGyalrong_Daofu,503,spu ntɕhɛn,spu ntɕhɛn,s p u + n tɕʰ ɛ n,!,Huang1992,145,false
 Tibetan_Lhasa-1417-1,,Tibetan_Lhasa,1417,sɛ⁵²,sɛ⁵²,s ɛ ⁵²,,Huang1992,3125,false
 rGyalrong_Daofu-227-1,,rGyalrong_Daofu,227,ʁjə,ʁjə,ʁ j ə,,Huang1992,804,false
-rGyalrong_Daofu-1392-1,,rGyalrong_Daofu,1392,ɕo,ɕo,ɕ o,,Huang1992,2077,false
+rGyalrong_Daofu-1392-1,,rGyalrong_Daofu,1392,ɕo,ɕo,ɕ o,,Huang1992,2077,true
 Nungic_Dulong-1216-1,,Nungic_Dulong,1216,ɑ³¹mɑi⁵³,ɑ³¹mɑi⁵³,ɑ ³¹ + m ɑ i ⁵³,,Huang1992,3663,false
 Tibetan_Lhasa-1172-2,,Tibetan_Lhasa,1172,paŋ⁵²,paŋ⁵²,p a ŋ ⁵²,,Huang1992,2979,false
 rGyalrong_Daofu-843-1,,rGyalrong_Daofu,843,a mbə,a mbə,a + m b ə,!,Huang1992,2659,false
@@ -7859,7 +7859,7 @@ Nungic_Dulong-1705-1,,Nungic_Dulong,1705,çɑt⁵⁵,çɑt⁵⁵,ç ɑ t ⁵⁵,
 Tibetan_Xiahe-1705-1,,Tibetan_Xiahe,1705,dʑal,dʑal,dʑ a l,,Huang1992,183,false
 Tibetan_Old_Tibetan-1574-1,,Tibetan_Old_Tibetan,1574,ldiŋ,ldiŋ,l d i ŋ,,Huang1992,2766,false
 rGyalrong_Daofu-1210-1,,rGyalrong_Daofu,1210,gɛ nɮə,gɛ nɮə,g ɛ + n ɮ ə,,Huang1992,10379,false
-rGyalrong_Daofu-1456-1,,rGyalrong_Daofu,1456,ɟjɛr qɛ,ɟjɛr qɛ,ɟ j ɛ r + q ɛ,,Huang1992,3350,false
+rGyalrong_Daofu-1456-1,,rGyalrong_Daofu,1456,ɟjɛr qɛ,ɟjɛr qɛ,ɟʲ ɛ r + q ɛ,combine ɟj (yunfan 19/02/19),Huang1992,3350,false
 rGyalrong_Daofu-1440-1,,rGyalrong_Daofu,1440,ʂphə,ʂphə,ʂ pʰ ə,!,Huang1992,2920,false
 rGyalrong_Daofu-1452-1,,rGyalrong_Daofu,1452,zo,zo,z o,,Huang1992,3387,false
 Tibetan_Batang-1226-1,,Tibetan_Batang,1226,lᴜ²³¹,lᴜ²³¹,l u ²³¹,,Huang1992,1204,false
@@ -8162,16 +8162,16 @@ Qiangic_Zhaba-666-1,,Qiangic_Zhaba,666,tʌ¹³,tʌ¹³,t ʌ ¹³,,Huang1992,3293
 Qiangic_Zhaba-624-1,,Qiangic_Zhaba,624,ɕy⁵⁵,ɕy⁵⁵,ɕ y ⁵⁵,,Huang1992,2015,false
 Qiangic_Zhaba-624-2,,Qiangic_Zhaba,624,ptshu⁵⁵,ptshu⁵⁵,p tsʰ u ⁵⁵,!,Huang1992,387,true
 Qiangic_Zhaba-1474-1,,Qiangic_Zhaba,1474,ɟja⁵⁵mtshu⁵⁵,ɟja⁵⁵mtshu⁵⁵,ɟ j a ⁵⁵ + m tsʰ u ⁵⁵,,Huang1992,3122,true
-Qiangic_Zhaba-667-1,,Qiangic_Zhaba,667,ɟje³³lɛ⁵⁵,ɟje³³lɛ⁵⁵,ɟ j e ³³ + l ɛ ⁵⁵,,Huang1992,2017,false
+Qiangic_Zhaba-667-1,,Qiangic_Zhaba,667,ɟje³³lɛ⁵⁵,ɟje³³lɛ⁵⁵,ɟ j e ³³ + l ɛ ⁵⁵,,Huang1992,2017,true
 Qiangic_Zhaba-671-1,,Qiangic_Zhaba,671,tsi³³ma⁵⁵,tsi³³ma⁵⁵,ts i ³³ + m a ⁵⁵,,Huang1992,118,true
-Qiangic_Zhaba-2-1,,Qiangic_Zhaba,2,di¹³,di¹³,d i ¹³,,Huang1992,507,false
-Qiangic_Zhaba-2-2,,Qiangic_Zhaba,2,di³¹,di³¹,d i ³¹,,Huang1992,507,false
+Qiangic_Zhaba-2-1,,Qiangic_Zhaba,2,di¹³,di¹³,d i ¹³,,Huang1992,507,true
+Qiangic_Zhaba-2-2,,Qiangic_Zhaba,2,di³¹,di³¹,d i ³¹,,Huang1992,507,true
 Qiangic_Zhaba-640-1,,Qiangic_Zhaba,640,cço⁵⁵,cço⁵⁵,cç o ⁵⁵,!,Huang1992,2018,false
 Qiangic_Zhaba-948-1,,Qiangic_Zhaba,948,tʌ¹³,tʌ¹³,t ʌ ¹³,,Huang1992,2019,false
 Tibetan_Xiahe-1228-1,,Tibetan_Xiahe,1228,sha,sha,sʰ a,,Huang1992,373,false
 Tibetan_Alike-1099-1,,Tibetan_Alike,1099,wdat,wdat,w d a t,!,Huang1992,2022,false
-Qiangic_Zhaba-1274-1,,Qiangic_Zhaba,1274,tshɿ³³,tshɿ³³,tsʰ ɿ ³³,,Huang1992,4160,false
-Qiangic_Zhaba-1274-2,,Qiangic_Zhaba,1274,tshɿ³¹,tshɿ³¹,tsʰ ɿ ³¹,,Huang1992,4160,false
+Qiangic_Zhaba-1274-1,,Qiangic_Zhaba,1274,tshɿ³³,tshɿ³³,tsʰ ɿ ³³,,Huang1992,4160,true
+Qiangic_Zhaba-1274-2,,Qiangic_Zhaba,1274,tshɿ³¹,tshɿ³¹,tsʰ ɿ ³¹,,Huang1992,4160,true
 Loloish_Lisu-1394-1,,Loloish_Lisu,1394,o̱³¹to̱³³,o̱³¹to̱³³,o̠ ³¹ + t o̠ ³³,,Huang1992,2,false
 Qiangic_Zhaba-1256-1,,Qiangic_Zhaba,1256,gu¹³,gu¹³,g u ¹³,,Huang1992,1426,false
 Qiangic_Zhaba-1256-2,,Qiangic_Zhaba,1256,gu³³po⁵⁵lo³³,gu³³po⁵⁵lo³³,g u ³³ + p o ⁵⁵ + l o ³³,,Huang1992,1426,false
@@ -8291,7 +8291,7 @@ Deng_Darang_Taraon-962-1,,Deng_Darang_Taraon,962,me³⁵jɑ⁵³ɑ³¹,me³⁵j�
 Qiangic_Zhaba-730-1,,Qiangic_Zhaba,730,tʂʌ³³ (p) tʂɿ⁵⁵|,tʂʌ³³ (p) tʂɿ⁵⁵|,ʈʂ ʌ ³³ _ ʈʂ ɿ ⁵⁵,!,Huang1992,70,false
 Qiangic_Zhaba-227-1,,Qiangic_Zhaba,227,dʑy¹³,dʑy¹³,dʑ y ¹³,,Huang1992,804,false
 Qiangic_Zhaba-232-1,,Qiangic_Zhaba,232,sʌ³³phi⁵⁵,sʌ³³phi⁵⁵,s ʌ ³³ + pʰ i ⁵⁵,,Huang1992,1747,false
-Qiangic_Zhaba-1392-1,,Qiangic_Zhaba,1392,ɕha¹³,ɕha¹³,ɕʰ a ¹³,,Huang1992,807,false
+Qiangic_Zhaba-1392-1,,Qiangic_Zhaba,1392,ɕha¹³,ɕha¹³,ɕʰ a ¹³,,Huang1992,807,true
 Qiangic_Zhaba-267-1,,Qiangic_Zhaba,267,sʌ³³tsi⁵⁵,sʌ³³tsi⁵⁵,s ʌ ³³ + ts i ⁵⁵,,Huang1992,3466,false
 Qiangic_Zhaba-1509-1,,Qiangic_Zhaba,1509,pho³³mɛ⁵⁵,pho³³mɛ⁵⁵,pʰ o ³³ + m ɛ ⁵⁵,,Huang1992,3468,false
 Qiangic_Zhaba-843-1,,Qiangic_Zhaba,843,ka³³ʐa⁵⁵mi³³,ka³³ʐa⁵⁵mi³³,k a ³³ + ʐ a ⁵⁵ + m i ³³,,Huang1992,3469,false
@@ -8733,7 +8733,7 @@ Tibetan_Xiahe-10-1,,Tibetan_Xiahe,10,tɕha ma,tɕha ma,tɕʰ a _ m a,,Huang1992,
 Tangut-163-1,,Tangut,163,njaa¹,njaa¹,n j aː ¹,,Li1997,511,false
 Qiangic_Zhaba-1408-1,,Qiangic_Zhaba,1408,ȵu⁵⁵,ȵu⁵⁵,ȵ u ⁵⁵,,Huang1992,2424,false
 Qiangic_Zhaba-713-1,,Qiangic_Zhaba,713,mə⁵⁵ ma⁵⁵,mə⁵⁵ ma⁵⁵,m ə ⁵⁵ _ m a ⁵⁵,,Huang1992,2425,false
-Qiangic_Zhaba-1456-1,,Qiangic_Zhaba,1456,a³³ ɟjo⁵⁵,a³³ ɟjo⁵⁵,a ³³ _ ɟ j o ⁵⁵,,Huang1992,3409,false
+Qiangic_Zhaba-1456-1,,Qiangic_Zhaba,1456,a³³ ɟjo⁵⁵,a³³ ɟjo⁵⁵,a ³³ _ ɟʲ o ⁵⁵,combine ɟj (yunfan 19/02/19),Huang1992,3409,false
 rGyalrong_Maerkang-962-1,,rGyalrong_Maerkang,962,tə mi,tə mi,t ə _ m i,,Huang1992,29768,false
 Nungic_Dulong-1494-1,,Nungic_Dulong,1494,ɕi⁵³,ɕi⁵³,ɕ i ⁵³,,Huang1992,163,false
 Qiangic_Zhaba-1418-1,,Qiangic_Zhaba,1418,ʌ³³ vʐe⁵⁵,ʌ³³ vʐe⁵⁵,ʌ ³³ _ v ʐ e ⁵⁵,!,Huang1992,2426,false
@@ -8874,7 +8874,7 @@ Sinitic_Xingning-937-1,,Sinitic_Xingning,937,tiɑɔ²⁴ti²¹,tiɑɔ²⁴ti²¹
 Tibetan_Alike-1201-1,,Tibetan_Alike,1201,rdʑo,rdʑo,r dʑ o,!,Huang1992,922,false
 Tibetan_Xiahe-1441-1,,Tibetan_Xiahe,1441,phər,phər,pʰ ə r,,Huang1992,430,false
 Tibetan_Xiahe-1447-1,,Tibetan_Xiahe,1447,hter,hter,h t e r,!,Huang1992,1010,false
-Nungic_Dulong-1261-1,,Nungic_Dulong,1261,wɑ⁵³,wɑ⁵³,w ɑ ⁵³,,Huang1992,2514,false
+Nungic_Dulong-1261-1,,Nungic_Dulong,1261,wɑ⁵³,wɑ⁵³,w ɑ ⁵³,,Huang1992,29775,false
 Tibetan_Xiahe-1401-1,,Tibetan_Xiahe,1401,thoŋ,thoŋ,tʰ o ŋ,,Huang1992,2228,false
 Tibetan_Lhasa-906-1,,Tibetan_Lhasa,906,ɕiŋ⁵⁵tuŋ⁵⁵,ɕiŋ⁵⁵tuŋ⁵⁵,ɕ i ŋ ⁵⁵ + t u ŋ ⁵⁵,,Huang1992,3396,false
 Tibetan_Alike-1218-1,,Tibetan_Alike,1218,rn̥e,rn̥e,r n̥ e,!,Huang1992,2516,false
@@ -9272,7 +9272,7 @@ Tani_Bokar-1210-1,,Tani_Bokar,1210,ə i,ə i,ə + i,,Huang1992,2739,false
 Deng_Yidu-946-1,,Deng_Yidu,946,i⁵⁵ɹu⁵⁵,i⁵⁵ɹu⁵⁵,i ⁵⁵ + ɹ u ⁵⁵,,Huang1992,2129,false
 Tani_Bokar-672-1,,Tani_Bokar,672,kum tɕi,kum tɕi,k u m + tɕ i,,Huang1992,2740,false
 Tani_Bokar-1396-1,,Tani_Bokar,1396,ret po,ret po,r e t + p o,,Huang1992,1698,false
-Qiangic_Zhaba-1425-1,,Qiangic_Zhaba,1425,dʑᴜ³³ nkhu⁵⁵,dʑᴜ³³ nkhu⁵⁵,dʑ u ³³ _ n kʰ u ⁵⁵,!,Huang1992,3262,false
+Qiangic_Zhaba-1425-1,,Qiangic_Zhaba,1425,dʑᴜ³³ nkhu⁵⁵,dʑᴜ³³ nkhu⁵⁵,dʑ u ³³ _ n kʰ u ⁵⁵,!,Huang1992,3262,true
 Tani_Bokar-1398-1,,Tani_Bokar,1398,ɕen,ɕen,ɕ e n,,Huang1992,2743,false
 Tani_Bokar-1726-1,,Tani_Bokar,1726,dʑu dʑaŋ|,dʑu dʑaŋ|,dʑ u + dʑ a ŋ,!,Huang1992,2744,false
 Tani_Bokar-1856-1,,Tani_Bokar,1856,rəː bak,rəː bak,r əː + b a k,,Huang1992,2745,false
@@ -9329,7 +9329,7 @@ Loloish_Lisu-1401-1,,Loloish_Lisu,1401,do³³,do³³,d o ³³,,Huang1992,2228,fa
 rGyalrong_Daofu-1483-1,,rGyalrong_Daofu,1483,ngə,ngə,n g ə,!,Huang1992,24,false
 Tani_Bokar-1741-1,,Tani_Bokar,1741,jan dap,jan dap,j a n + d a p,,Huang1992,198,true
 Sinitic_Longgang-1256-1,,Sinitic_Longgang,1256,tʰiu²¹la³³,tʰiu²¹la³³,tʰ i u ²¹ l a ³³,,Lai2017FN,1437,false
-Qiangic_Zhaba-1231-1,,Qiangic_Zhaba,1231,se⁵⁵pi⁵⁵,se⁵⁵pi⁵⁵,s e ⁵⁵ + p i ⁵⁵,,Huang1992,23,false
+Qiangic_Zhaba-1231-1,,Qiangic_Zhaba,1231,se⁵⁵pi⁵⁵,se⁵⁵pi⁵⁵,s e ⁵⁵ + p i ⁵⁵,,Huang1992,23,true
 Tani_Bokar-1428-1,,Tani_Bokar,1428,guː,guː,g uː,,Huang1992,3352,false
 Tani_Bokar-778-1,,Tani_Bokar,778,mɯ |kɯː,mɯ |kɯː,m ɯ + k ɯː,!,Huang1992,68,false
 Tibetan_Batang-617-1,,Tibetan_Batang,617,tɕhɑ¹³rɑ̃⁵⁵,tɕhɑ¹³rɑ̃⁵⁵,tɕʰ ɑ ¹³ + r ɑ̃ ∼ ⁵⁵,,Huang1992,818,false
@@ -9429,7 +9429,7 @@ Loloish_Lisu-1448-1,,Loloish_Lisu,1448,ze³¹,ze³¹,z e ³¹,,Huang1992,2819,fa
 Jingpho_Jingpho-1435-1,,Jingpho_Jingpho,1435,ʃan³¹kap³¹,ʃan³¹kap³¹,ʃ a n ³¹ + k a p ³¹,,Huang1992,2820,false
 Tani_Bokar-2164-1,,Tani_Bokar,2164,loŋ,loŋ,l o ŋ,,Huang1992,2821,false
 Deng_Darang_Taraon-1244-1,,Deng_Darang_Taraon,1244,bi³¹ tɕoŋ⁵⁵,bi³¹ tɕoŋ⁵⁵,b i ³¹ _ tɕ o ŋ ⁵⁵,,Huang1992,2731,false
-rGyalrong_Maerkang-1226-1,,rGyalrong_Maerkang,1226,pɑ,pɑ,p ɑ,,Huang1992,4196,false
+rGyalrong_Maerkang-1226-1,,rGyalrong_Maerkang,1226,pɑ,pɑ,p ɑ,,Huang1992,29777,false
 Loloish_Lisu-1415-1,,Loloish_Lisu,1415,du³¹dʑɑ³¹,du³¹dʑɑ³¹,d u ³¹ + dʑ ɑ ³¹,,Huang1992,2823,false
 rGyalrong_Maerkang-1803-1,,rGyalrong_Maerkang,1803,ʃᴇ,ʃᴇ,ʃ ᴇ/e,,Huang1992,2974,false
 Tani_Bokar-274-1,,Tani_Bokar,274,nuː,nuː,n uː,,Huang1992,2824,false
@@ -10353,7 +10353,7 @@ Loloish_Lisu-2307-1,,Loloish_Lisu,2307,bɑ³¹,bɑ³¹,b ɑ ³¹,,Huang1992,3196
 Tibetan_Alike-2307-1,,Tibetan_Alike,2307,ʂa wə,ʂa wə,ʂ a _ w ə,,Huang1992,3192,false
 Tibetan_Batang-748-1,,Tibetan_Batang,748,tɑuʔ⁵³,tɑuʔ⁵³,t ɑ u ʔ ⁵³,,Huang1992,3578,false
 Tibetan_Batang-676-1,,Tibetan_Batang,676,tɕa⁵⁵pa⁵³,tɕa⁵⁵pa⁵³,tɕ a ⁵⁵ + p a ⁵³,,Huang1992,544,false
-rGyalrong_Daofu-676-1,,rGyalrong_Daofu,676,ʂcçɑ xpɑ,ʂcçɑ xpɑ,ʂ c ç ɑ + x p ɑ,,Huang1992,544,false
+rGyalrong_Daofu-676-1,,rGyalrong_Daofu,676,ʂcçɑ xpɑ,ʂcçɑ xpɑ,ʂ cç ɑ + x p ɑ,,Huang1992,544,true
 Tibetan_Alike-857-1,,Tibetan_Alike,857,rdo,rdo,r d o,,Huang1992,3156,false
 rGyalrong_Maerkang-2307-1,,rGyalrong_Maerkang,2307,kə mbɑ,kə mbɑ,k ə _ m b ɑ,,Huang1992,3196,false
 Tibetan_Lhasa-2307-1,,Tibetan_Lhasa,2307,tʂə⁵⁵pu⁵⁵,tʂə⁵⁵pu⁵⁵,ʈʂ ə ⁵⁵ + p u ⁵⁵,,Huang1992,3192,false
@@ -10383,7 +10383,7 @@ Qiangic_Zhaba-748-1,,Qiangic_Zhaba,748,kə⁵⁵ tu³³,kə⁵⁵ tu³³,k ə �
 Tani_Bokar-748-1,,Tani_Bokar,748,tor,tor,t o r,,Huang1992,3584,true
 Deng_Darang_Taraon-2307-1,,Deng_Darang_Taraon,2307,bɑ⁵⁵ɑ⁵⁵,bɑ⁵⁵ɑ⁵⁵,b ɑ ⁵⁵ ɑ ⁵⁵,,Huang1992,3196,false
 Tani_Bokar-676-1,,Tani_Bokar,676,eː,eː,eː,"cf. Shorto PAA #794 *ʔic; *ʔiə[c]; *ʔ[ə]c excrement, faeces. A: (Mon, North Bahnaric, Aslian) Mon oik, Bahnar ic, Jeh ek, Halang ik, Central Sakai êch; → Kuki-Naga *eˑk (& similar Karen forms; BENEDICT 1972 26 n. 82, 146 n. 399).",Huang1992,120,true
-Qiangic_Zhaba-676-1,,Qiangic_Zhaba,676,cça⁵⁵pa⁵⁵,cça⁵⁵pa⁵⁵,c ç a ⁵⁵ + p a ⁵⁵,,Huang1992,544,true
+Qiangic_Zhaba-676-1,,Qiangic_Zhaba,676,cça⁵⁵pa⁵⁵,cça⁵⁵pa⁵⁵,cç a ⁵⁵ + p a ⁵⁵,,Huang1992,544,true
 Tibetan_Lhasa-748-1,,Tibetan_Lhasa,748,sø̃⁵⁵ ɕo⁵⁵,sø̃⁵⁵ ɕo⁵⁵,s ø̃ ∼ ⁵⁵ _ ɕ o ⁵⁵,,Huang1992,3588,false
 Tibetan_Xiahe-2307-1,,Tibetan_Xiahe,2307,ʂap wə,ʂap wə,ʂ a p _ w ə,,Huang1992,3192,false
 Jingpho_Jingpho-857-1,,Jingpho_Jingpho,857,n³¹luŋ³¹,n³¹luŋ³¹,n ³¹ + l u ŋ ³¹,,Huang1992,81,false
@@ -11139,7 +11139,7 @@ Khroskyabs_Wobzi-1052-1,,Khroskyabs_Wobzi,1052,jnjæ̂i,jnjæ̂i,j n j æ̂ i,,L
 Khroskyabs_Wobzi-478-1,,Khroskyabs_Wobzi,478,mtɕʰə́,mtɕʰə́,m tɕʰ ə́,mouth,Lai2017,10522,true
 Khroskyabs_Wobzi-1224-1,,Khroskyabs_Wobzi,1224,fsé/e,fsé/e,f s é/e,,Lai2017,2076,false
 Khroskyabs_Wobzi-1203-1,,Khroskyabs_Wobzi,1203,srɑ̂ɣ,srɑ̂ɣ,s r ɑ̂ ɣ,,Lai2017,547,false
-Khroskyabs_Wobzi-1392-1,,Khroskyabs_Wobzi,1392,ɕɑ́ɣ,ɕɑ́ɣ,ɕ ɑ́ ɣ,,Lai2017,2077,false
+Khroskyabs_Wobzi-1392-1,,Khroskyabs_Wobzi,1392,ɕɑ́ɣ,ɕɑ́ɣ,ɕ ɑ́ ɣ,,Lai2017,2077,true
 Khroskyabs_Wobzi-688-1,,Khroskyabs_Wobzi,688,rtsʰǽ/æ,rtsʰǽ/æ,r tsʰ ǽ/æ,,Lai2017,716,false
 Khroskyabs_Wobzi-2106-1,,Khroskyabs_Wobzi,2106,vɟú/u,vɟú/u,v ɟ ú/u,,Lai2017,3137,false
 Khroskyabs_Wobzi-1198-1,,Khroskyabs_Wobzi,1198,vɟæχtsə̂,vɟæχtsə̂,v ɟ æ χ ts ə̂,,Lai2017,3758,false
@@ -11157,7 +11157,7 @@ Khroskyabs_Wobzi-640-1,,Khroskyabs_Wobzi,640,ʁɲô/o,ʁɲô/o,ʁ ɲ ô/o,,Lai20
 Khroskyabs_Wobzi-2128-1,,Khroskyabs_Wobzi,2128,rdzé/e,rdzé/e,r dz é/e,,Lai2017,1194,false
 Khroskyabs_Wobzi-1405-1,,Khroskyabs_Wobzi,1405,rmê/e,rmê/e,r m ê/e,,Lai2017,18,false
 Khroskyabs_Wobzi-1267-1,,Khroskyabs_Wobzi,1267,ʁrô/o,ʁrô/o,ʁ r ô/o,,Lai2017,3763,false
-Khroskyabs_Wobzi-1942-1,,Khroskyabs_Wobzi,1942,kə+ntʰâ/a,kə+ntʰâ/a,k ə + n tʰ â/a,,Lai2017,1355,false
+Khroskyabs_Wobzi-1942-1,,Khroskyabs_Wobzi,1942,kə+ntʰâ/a,kə+ntʰâ/a,k ə + n tʰ â/a,,Lai2017,1355,true
 Khroskyabs_Wobzi-1333-1,,Khroskyabs_Wobzi,1333,fqə̂,fqə̂,f q ə̂,,Lai2017,695,false
 Khroskyabs_Wobzi-1382-1,,Khroskyabs_Wobzi,1382,ʁɑ̂v,ʁɑ̂v,ʁ ɑ̂ v,,Lai2017,10231,false
 Khroskyabs_Wobzi-1231-1,,Khroskyabs_Wobzi,1231,çsæ̂rpɑ,çsæ̂rpɑ,ç s æ̂ r p ɑ,,Lai2017,23,true
@@ -11173,7 +11173,7 @@ Khroskyabs_Wobzi-1337-1,,Khroskyabs_Wobzi,1337,pʰɑ̂ɣ,pʰɑ̂ɣ,pʰ ɑ̂ ɣ,,
 Khroskyabs_Wobzi-1486-1,,Khroskyabs_Wobzi,1486,jê/e,jê/e,j ê/e,,Lai2017,722,false
 Khroskyabs_Wobzi-1413-1,,Khroskyabs_Wobzi,1413,mbjavlâ/a,mbjavlâ/a,m b j a v l â/a,,Lai2017,3766,false
 Khroskyabs_Wobzi-1455-1,,Khroskyabs_Wobzi,1455,rɕə̂,rɕə̂,r ɕ ə̂,,Lai2017,2354,false
-Khroskyabs_Wobzi-1452-1,,Khroskyabs_Wobzi,1452,nskʰɑ́ɣ,nskʰɑ́ɣ,ns kʰ ɑ́ ɣ,,Lai2017,3767,false
+Khroskyabs_Wobzi-1452-1,,Khroskyabs_Wobzi,1452,nskʰɑ́ɣ,nskʰɑ́ɣ,n s kʰ ɑ́ ɣ,separation of n and s (yunfan 15/02/19),Lai2017,3767,false
 Khroskyabs_Wobzi-658-1,,Khroskyabs_Wobzi,658,mə̂,mə̂,m ə̂,,Lai2017,1164,false
 Khroskyabs_Wobzi-1733-1,,Khroskyabs_Wobzi,1733,ndʑɑ̂,ndʑɑ̂,n dʑ ɑ̂,,Lai2017,94,true
 Khroskyabs_Wobzi-156-1,,Khroskyabs_Wobzi,156,mnə̂ɣ,mnə̂ɣ,m n ə̂ ɣ,,Lai2017,1306,false
@@ -11185,7 +11185,7 @@ Khroskyabs_Wobzi-670-1,,Khroskyabs_Wobzi,670,srə́m,srə́m,s r ə́ m,,Lai2017
 Khroskyabs_Wobzi-1218-1,,Khroskyabs_Wobzi,1218,bré/e,bré/e,b r é/e,,Lai2017,10164,false
 Khroskyabs_Wobzi-1395-1,,Khroskyabs_Wobzi,1395,χtə̂m,χtə̂m,χ t ə̂ m,,Lai2017,3770,false
 Khroskyabs_Wobzi-1519-1,,Khroskyabs_Wobzi,1519,ʈʂʰʊ́ŋ_lǽ/æ,ʈʂʰʊ́ŋ_lǽ/æ,ʈʂʰ ʊ́ ŋ _ l ǽ/æ,,Lai2017,3771,false
-Khroskyabs_Wobzi-1274-1,,Khroskyabs_Wobzi,1274,tsʰí/i,tsʰí/i,tsʰ í/i,,Lai2017,4160,false
+Khroskyabs_Wobzi-1274-1,,Khroskyabs_Wobzi,1274,tsʰí/i,tsʰí/i,tsʰ í/i,,Lai2017,4160,true
 Khroskyabs_Wobzi-1091-1,,Khroskyabs_Wobzi,1091,tsʰrə́,tsʰrə́,tsʰ r ə́,,Lai2017,1006,false
 Khroskyabs_Wobzi-671-1,,Khroskyabs_Wobzi,671,rɟaqrá/a,rɟaqrá/a,r ɟ a q r á/a,,Lai2017,212,false
 Khroskyabs_Wobzi-1436-1,,Khroskyabs_Wobzi,1436,nsprɑɣvɑ́ɣ,nsprɑɣvɑ́ɣ,n s p r ɑ ɣ v ɑ́ ɣ,,Lai2017,2403,false
@@ -11284,7 +11284,7 @@ Chepang_Chepang-1251-1,,Chepang_Chepang,1251,joŋ,joŋ,j o ŋ,,Caughley2000,2115
 Chepang_Chepang-1485-1,,Chepang_Chepang,1485,tal+ge,tal+ge,t a l + g e,,Caughley2000,315,false
 Chepang_Chepang-1202-1,,Chepang_Chepang,1202,braw,braw,b r a w,,Caughley2000,3795,false
 Chepang_Chepang-937-1,,Chepang_Chepang,937,waʔ,waʔ,w a ʔ,,Caughley2000,10267,false
-Chepang_Chepang-1403-1,,Chepang_Chepang,1403,dʒəjk,dʒəjk,dʒ ə j k,,Caughley2000,2401,false
+Chepang_Chepang-1403-1,,Chepang_Chepang,1403,dʒəjk,dʒəjk,dʒ ə j k,,Caughley2000,2223,false
 Chepang_Chepang-163-1,,Chepang_Chepang,163,tik+tak,tik+tak,t i k + t a k,,Caughley2000,3796,false
 Chepang_Chepang-163-2,,Chepang_Chepang,163,gal,gal,g a l,,Caughley2000,3797,false
 Chepang_Chepang-946-1,,Chepang_Chepang,946,wi,wi,w i,,Caughley2000,29703,false
@@ -11522,7 +11522,7 @@ Garo_Garo-1251-1,,Garo_Garo,1251,bikma,bikma,b i k m a,there is a variant buk-ma
 Garo_Garo-1485-1,,Garo_Garo,1485,ka++ma,ka++ma,k a + + m a,-ma noun suffix: bik-ma 'belly',Burling2003,3917,false
 Garo_Garo-1202-1,,Garo_Garo,1202,dalʔ+a,dalʔ+a,d a l ʔ + a,,Burling2003,3918,false
 Garo_Garo-937-1,,Garo_Garo,937,doʔ,doʔ,d o ʔ,PBG (Joseph and Burling) *tao2,Burling2003,10146,false
-Garo_Garo-1403-1,,Garo_Garo,1403,chik+a,chik+a,ch i k + a,,Burling2003,2401,false
+Garo_Garo-1403-1,,Garo_Garo,1403,chik+a,chik+a,ch i k + a,,Burling2003,2223,false
 Garo_Garo-163-1,,Garo_Garo,163,gisim,gisim,g i s i m,,Burling2003,3919,false
 Garo_Garo-946-1,,Garo_Garo,946,hanʔ+chi,hanʔ+chi,h a n ʔ + ch i,,Burling2003,29703,false
 Garo_Garo-175-1,,Garo_Garo,175,spo+a,spo+a,s p o + a,,Burling2003,3920,false

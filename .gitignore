@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+work/
+raw/clean_data.py
+*.swp
 
 # C extensions
 *.so

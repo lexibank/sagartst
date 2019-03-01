@@ -1053,7 +1053,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 20550	Tibetan_Batang	green	green	dʑõ⁵⁵khᴜ⁵³	dʑ õ ∼ ⁵⁵ + kʰ u ⁵³				564	396984		STEDT/TBL	dʑõ⁵⁵khᴜ⁵³
 23706	Lisu	green	green	ni³⁵tʃhi̱³¹	n i ³⁵ + tʃʰ i̠ ³¹				2710	397021		STEDT/TBL	ni³⁵tʃhi̱³¹
 23799	Bokar	green	green	dʑe oː	dʑ e + oː				3117	397005		STEDT/TBL	dʑe oː
-23811	Zhaba_Daofu_County	green	green	dʑᴜ³³ nkhu⁵⁵	dʑ u ³³ _ n kʰ u ⁵⁵	!			3262	396995		STEDT/TBL	dʑᴜ³³ nkhu⁵⁵
+23811	Zhaba_Daofu_County	green	green	dʑᴜ³³ nkhu⁵⁵	dʑ u ³³ _ n kʰ u ⁵⁵	!	tib[ljang.khu] (yunfan 15/02/19)		3262	396995		STEDT/TBL	dʑᴜ³³ nkhu⁵⁵
 24753	Tibetan_Alike	green	green	rdʑaŋ khə	r dʑ a ŋ _ kʰ ə	!			564	396986		STEDT/TBL	rdʑaŋ khə
 25061	Yidu	green	green	tiŋ⁵⁵kɹiɑ⁵⁵	t i ŋ ⁵⁵ + k ɹ i ɑ ⁵⁵				1325	397006		STEDT/TBL	tiŋ⁵⁵kɹiɑ⁵⁵
 30854	Old_Chinese		green	pərok	p ə + r o k	or light blue		绿	1643		綠	SagartMa2016	*pə.rok
@@ -2005,7 +2005,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 30382	Limbu		near	niːttaŋ	n iː t t a ŋ				7				
 30925	Old_Chinese		near	nərʔ	n ə r ʔ			近	7		邇	SagartMa2016	*n[ə][r]ʔ
 31091	Old_Burmese		near	nīḥ	n iː h				7			Hill2016	
-31689	Wobzi_Khroskyabs		near	kə-ntʰâ	k ə + n tʰ â/a				1355			Lai2016	
+31689	Wobzi_Khroskyabs		near	kə-ntʰâ	k ə + n tʰ â/a		tib[thag] (yunfan 15/02/19)		1355			Lai2016	
 31956	Chepang	near, close	near	dyaŋ-	d j a ŋ				3859	482951		Caughley2000	
 32209	Garo	near (pp)	near	se-pang	s e p a ŋ				3982	467659		Burling2003	
 32432	Thulung		near	pharra	pʰ a r r a				3514				
@@ -2048,7 +2048,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 20025	Tibetan_Batang	new	new	sɛ⁵⁵ba⁵³	s ɛ ⁵⁵ + b a ⁵³				23	399010		STEDT/TBL	sɛ⁵⁵ba⁵³
 33437	Rongpo	new	new	nu:də	n uː d ə				257	547143		Sharma2003a	
 22243	Dulong	new	new	ɑŋ⁵⁵ɕɑɹ⁵⁵	ɑ ŋ ⁵⁵ + ɕ ɑ ɹ ⁵⁵				23	399027		STEDT/TBL	ɑŋ⁵⁵ɕɑɹ⁵⁵
-23970	Zhaba_Daofu_County	new	new	se⁵⁵pi⁵⁵	s e ⁵⁵ + p i ⁵⁵				23	399021		STEDT/TBL	se⁵⁵pi⁵⁵
+23970	Zhaba_Daofu_County	new	new	se⁵⁵pi⁵⁵	s e ⁵⁵ + p i ⁵⁵		tib[gsar.pa] ? (yunfan 15/02/19)		23	399021		STEDT/TBL	se⁵⁵pi⁵⁵
 24413	Darang_Taraon	new	new	miŋ⁵³iŋ⁵⁵	m i ŋ ⁵³ + i ŋ ⁵⁵	!			2881	399029		STEDT/TBL	miŋ⁵³iŋ⁵⁵
 24780	Tibetan_Alike	new	new	sho mæ	sʰ o _ m æ	!sh?			23	399012		STEDT/TBL	sho mæ
 24854	Lisu	new	new	ʃi̱³¹	ʃ i̠ ³¹				2944	399047		STEDT/TBL	ʃi̱³¹
@@ -3159,7 +3159,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 38575	Rabha	bamboo	the bamboo	bá	b á/a				501			Joseph2007	
 16623	Jingpho	bamboo	the bamboo	kă⁵⁵|wa⁵⁵	k ă ⁵⁵ + w a ⁵⁵	!			501	364928		STEDT/TBL	kă⁵⁵|wa⁵⁵
 16736	Motuo_Menba	bamboo	the bamboo	so	s o				292	364916		STEDT/TBL	so
-17613	rGyalrong_Maerkang	bamboo	the bamboo	ɟjo	ɟ j o				821	364920		STEDT/TBL	ɟjo
+17613	rGyalrong_Maerkang	bamboo	the bamboo	ɟjo	ɟʲ o				821	364920		STEDT/TBL	ɟjo
 17926	Tibetan_Lhasa	bamboo	the bamboo	ȵuŋ⁵⁵mə⁵⁵	ȵ u ŋ ⁵⁵ + m ə ⁵⁵				952	364911		STEDT/TBL	ȵuŋ⁵⁵mə⁵⁵
 18839	Daofu	bamboo	the bamboo	ʁɮə	ʁ ɮ ə	!			821	364921		STEDT/TBL	ʁɮə
 19552	Tibetan_Batang	bamboo	the bamboo	ȵu⁵⁵ma⁵³	ȵ u ⁵⁵ + m a ⁵³				952	364912		STEDT/TBL	ȵu⁵⁵ma⁵³
@@ -3291,7 +3291,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 17534	Motuo_Menba	bird	the bird	kha	kʰ a				778	361971		STEDT/TBL	kha
 17559	rGyalrong_Maerkang	bird	the bird	pɑ tsɑ	p ɑ _ ts ɑ				462	361975		STEDT/TBL	pɑ tsɑ
 17875	Tibetan_Lhasa	bird	the bird	tɕha¹³	tɕʰ a ¹³				264	361966		STEDT/TBL	tɕha¹³
-18787	Daofu	bird	the bird	vdʑɛ vdʑu	v dʑ ɛ + v dʑ u	!			1236	361976		STEDT/TBL	vdʑɛ vdʑu
+18787	Daofu	bird	the bird	vdʑɛ vdʑu	v dʑ ɛ + v dʑ u	!	tibetan[bya] (yunfan 15/02/19)		1236	361976		STEDT/TBL	vdʑɛ vdʑu
 19214	Dulong	bird	the bird	pɯ³¹tɕiʔ⁵⁵	p ɯ ³¹ + tɕ i ʔ ⁵⁵				1339	361984		STEDT/TBL	pɯ³¹tɕiʔ⁵⁵
 35980	Lushai	bird	the bird	sa◦va	s a + v a				10267	255574			
 20818	Tibetan_Batang	bird	the bird	ɕy¹³	ɕ y ¹³				264	361967		STEDT/TBL	ɕy¹³
@@ -3894,7 +3894,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 19039	Dulong	dust	the dust	pɑ³¹pu⁵⁵	p ɑ ³¹ + p u ⁵⁵				10348	347290		STEDT/TBL	pɑ³¹pu⁵⁵
 19265	Tibetan_Batang	dust	the dust	thei¹³kɑ⁵⁵	tʰ e i ¹³ + k ɑ ⁵⁵				835	347273		STEDT/TBL	thei¹³kɑ⁵⁵
 19266	Tibetan_Batang	dust	the dust	the⁵⁵wɑ⁵⁵	tʰ e ⁵⁵ + w ɑ ⁵⁵				835	347321		STEDT/TBL	the⁵⁵wɑ⁵⁵
-21144	Zhaba_Daofu_County	dust	the dust	di³¹	d i ³¹				507	347322		STEDT/TBL	di³¹
+21144	Zhaba_Daofu_County	dust	the dust	di³¹	d i ³¹		tib[rdul]? (Yunfan 15/02/19)		507	347322		STEDT/TBL	di³¹
 21285	Darang_Taraon	dust	the dust	khɯ³¹lɑi⁵⁵khɑu⁵³	kʰ ɯ ³¹ + l ɑ i ⁵⁵ + kʰ ɑ u ⁵³				2097	347292		STEDT/TBL	khɯ³¹lɑi⁵⁵khɑu⁵³
 21937	Tibetan_Xiahe	dust	the dust	sha du	sʰ a _ d u	???			507	347274		STEDT/TBL	sha du
 22320	Motuo_Menba	dust	the dust	phur tsi	pʰ u r _ ts i				10348	347277		STEDT/TBL	phur tsi
@@ -4238,7 +4238,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 16673	Motuo_Menba	feather / plume	the feather	dʐo	ɖʐ o		tib sgro		922	360578		STEDT/TBL	dʐo
 17854	Tibetan_Lhasa	feather / plume	the feather	tɕhə¹³pu⁵⁵	tɕʰ ə ¹³ + p u ⁵⁵				921	360573		STEDT/TBL	tɕhə¹³pu⁵⁵
 17855	Tibetan_Lhasa	feather / plume	the feather	tʂo¹³	ʈʂ o ¹³				922	360622		STEDT/TBL	tʂo¹³
-18763	Daofu	feather / plume	the feather	ɣra spə	ɣ r a + s p ə	!			921	360583		STEDT/TBL	ɣra spə
+18763	Daofu	feather / plume	the feather	ɣra spə	ɣ r a + s p ə	!	Tibetan spu		921	360583		STEDT/TBL	ɣra spə
 19197	Dulong	feather / plume	the feather	mɯn⁵⁵	m ɯ n ⁵⁵				159	360625		STEDT/TBL	mɯn⁵⁵
 19474	Tibetan_Batang	feather / plume	the feather	dʐᴜ⁵³	ɖʐ u ⁵³				922	360574		STEDT/TBL	dʐᴜ⁵³
 20061	rGyalrong_Maerkang	feather / plume	the feather	tɑ mŋi	t ɑ _ m ŋ i	!			1374	360582		STEDT/TBL	tɑ mŋi
@@ -5347,7 +5347,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 36787	Jieyang		the house	tsʰu¹³	tsʰ u ¹³	厝			1776		厝		
 36789	Xingning		the house	vuʔ²kʰa⁴⁵	v u ʔ ² kʰ a ⁴⁵				1775		屋囗		
 4789	Old_Tibetan		the house	kʰʲim	kʰ j i m				209				
-4818	Japhug		the house	kʰa	kʰ a				1523				kha
+4818	Japhug		the house	kʰa	kʰ a				29776				kha
 37640	Ukhrul	house	the house	ʃim	ʃ i m				209	526877			
 37845	Hayu	house, home (n)	the house	kem	k e m				209	120245			
 38223	Tangut		the house	kjɨɨr	k j ɨɨ/ɨː r				128		屋		
@@ -5753,11 +5753,11 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 16710	Motuo_Menba	louse	the louse	ɕiŋ	ɕ i ŋ				2077	363207		STEDT/TBL	ɕiŋ
 17583	rGyalrong_Maerkang	louse	the louse	sor	s o r				807	363211		STEDT/TBL	sor
 17899	Tibetan_Lhasa	louse	the louse	ɕi⁵²	ɕ i ⁵²				2077	363202		STEDT/TBL	ɕi⁵²
-18813	Daofu	louse	the louse	ɕo	ɕ o				2077	363212		STEDT/TBL	ɕo
+18813	Daofu	louse	the louse	ɕo	ɕ o		tib[shig] (yunfan 15/02/19)		2077	363212		STEDT/TBL	ɕo
 19234	Dulong	louse	the louse	ɕiʔ⁵⁵	ɕ i ʔ ⁵⁵				2077	363220		STEDT/TBL	ɕiʔ⁵⁵
 19526	Tibetan_Batang	louse	the louse	xiʔ⁵³	x i ʔ ⁵³				2077	363203		STEDT/TBL	xiʔ⁵³
 20571	Bokar	louse	the louse	ta jɯk	t a + j ɯ k				2077	363224		STEDT/TBL	ta jɯk
-21384	Zhaba_Daofu_County	louse	the louse	ɕha¹³	ɕʰ a ¹³				807	363214		STEDT/TBL	ɕha¹³
+21384	Zhaba_Daofu_County	louse	the louse	ɕha¹³	ɕʰ a ¹³		tib[shig] (yunfan 15/02/19)		807	363214		STEDT/TBL	ɕha¹³
 21500	Darang_Taraon	louse	the louse	tshɑɯ⁵³	tsʰ ɑ ɯ ⁵³				2213	363222		STEDT/TBL	tshɑɯ⁵³
 22142	Tibetan_Xiahe	louse	the louse	ɕhəχ	ɕʰ ə χ				2077	363204		STEDT/TBL	ɕhəχ
 23267	Lisu	louse	the louse	xɯ̱³³	x ɯ̠ ³³				807	363240		STEDT/TBL	xɯ̱³³fu̱³³
@@ -5766,7 +5766,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 24597	Yidu	louse	the louse	tshu⁵³	tsʰ u ⁵³				2213	363225		STEDT/TBL	tshu⁵³
 30905	Old_Chinese		the louse	srik	s r i k			虱子	2077		蝨	SagartMa2016	*srik
 31165	Old_Burmese		the louse	sanḥ	s a n h				807			Hill2016	
-31671	Wobzi_Khroskyabs		the louse	ɕɑ́ɣ	ɕ ɑ́ ɣ				2077			Lai2016	
+31671	Wobzi_Khroskyabs		the louse	ɕɑ́ɣ	ɕ ɑ́ ɣ		tib[shig] (yunfan 15/02/19)		2077			Lai2016	
 31938	Chepang	louse (of head)	the louse	srəyk	s r ə j k				2077	487093		Caughley2000	
 32187	Garo	louse (n)	the louse	tik	t i k				2077	467912		Burling2003	
 32502	Thulung		the louse	se:r	s eː r				807				
@@ -6654,7 +6654,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 30495	Limbu		the pig	phak	pʰ a k				2092				
 30938	Old_Chinese		the pig	l̥ajʔ	l̥ a j ʔ			猪	3653		豕	SagartMa2016	*l̥ajʔ
 31181	Old_Burmese		the pig	vak	v a k				2092			Hill2016	
-31701	Wobzi_Khroskyabs		the pig	pʰɑ̂ɣ	pʰ ɑ̂ ɣ		tib[pʰag]		2092			Lai2016	
+31701	Wobzi_Khroskyabs		the pig	pʰɑ̂ɣ	pʰ ɑ̂ ɣ		tib[pʰag]? (could be a native word, yunfan 19/02/19)		2092			Lai2016	
 31966	Chepang	pig	the pig	pyak	p j a k				2092	483819		Caughley2000	
 32222	Garo	pig (n)	the pig	wak	w a k				2092	467994		Burling2003	
 32349	Old_Tibetan		the pig	pʰag	pʰ a g				2092				
@@ -6878,7 +6878,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 19260	Tibetan_Batang	road	the road	lɑ̃¹³	l ɑ̃ ∼ ¹³				2206	346911		STEDT/TBL	lɑ̃¹³
 20490	Tibetan_Lhasa	road	the road	lam¹³	l a m ¹³				2206	346910		STEDT/TBL	lam¹³
 20797	Lisu	road	the road	dʑɑ̱³³gu̱³³	dʑ ɑ̠ ³³ + g u̠ ³³				1874	346948		STEDT/TBL	dʑɑ̱³³gu̱³³
-21139	Zhaba_Daofu_County	road	the road	ɟje³³lɛ⁵⁵	ɟ j e ³³ + l ɛ ⁵⁵				2017	346922		STEDT/TBL	ɟje³³lɛ⁵⁵
+21139	Zhaba_Daofu_County	road	the road	ɟje³³lɛ⁵⁵	ɟ j e ³³ + l ɛ ⁵⁵		tib[lam] (yunfan 15/02/19)		2017	346922		STEDT/TBL	ɟje³³lɛ⁵⁵
 21667	Darang_Taraon	road	the road	ɑ³¹lim⁵⁵	ɑ ³¹ + l i m ⁵⁵				2206	346930		STEDT/TBL	ɑ³¹lim⁵⁵
 21933	Tibetan_Xiahe	road	the road	lam	l a m				2206	346912		STEDT/TBL	lam
 23101	Bokar	road	the road	lam◦tə	l a m t ə	!			2206	346932		STEDT/TBL	lam◦tə
@@ -7029,7 +7029,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 19046	Dulong	salt	the salt	sɯ³¹lɑʔ⁵⁵	s ɯ ³¹ + l ɑ ʔ ⁵⁵				10587	348127		STEDT/TBL	sɯ³¹lɑʔ⁵⁵
 19280	Tibetan_Batang	salt	the salt	tsha⁵³	tsʰ a ⁵³				4160	348110		STEDT/TBL	tsha⁵³
 19535	Yidu	salt	the salt	pɹɑ³⁵	p ɹ ɑ ³⁵				2102	348132		STEDT/TBL	pɹɑ³⁵
-21156	Zhaba_Daofu_County	salt	the salt	tshɿ³¹	tsʰ ɿ ³¹				4160	348158		STEDT/TBL	tshɿ³¹
+21156	Zhaba_Daofu_County	salt	the salt	tshɿ³¹	tsʰ ɿ ³¹		tib[tsʰʷa] (yunfan 15/02/19)		4160	348158		STEDT/TBL	tshɿ³¹
 21293	Darang_Taraon	salt	the salt	plɑ³⁵	p l ɑ ³⁵				2102	348129		STEDT/TBL	plɑ³⁵
 21945	Tibetan_Xiahe	salt	the salt	tsha kə	tsʰ a _ k ə				4160	348111		STEDT/TBL	tsha kə
 23059	Lisu	salt	the salt	tshɑ³¹ bo̱³³	tsʰ ɑ ³¹ _ b o̠ ³³				4160	348147		STEDT/TBL	tshɑ³¹ bo̱³³
@@ -7042,7 +7042,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 30959	Old_Chinese		the salt	ɢrom	ɢ r o m			盐	687		鹽	SagartMa2016	*[ɢr][o]m
 30960	Old_Chinese		the salt	ɴ→tsˤaj	ɴ + tsˤ a j			盐	4160		鹺	SagartMa2016	*N-[ts]ˤaj
 31189	Old_Burmese		the salt	chāḥ	ch ā/aː h				4160			Hill2016	
-31718	Wobzi_Khroskyabs		the salt	tsʰí	tsʰ í/i				4160			Lai2016	
+31718	Wobzi_Khroskyabs		the salt	tsʰí	tsʰ í/i		tib[tsʰʷa] (yunfan 15/02/19)		4160			Lai2016	
 31985	Chepang	salt, salt-like substances	the salt	cheʔ	tʃʰ e ʔ				4160	481367		Caughley2000	
 32239	Garo	salt (n)	the salt	kai-sim	k a i + s i m				4003	466635		Burling2003	
 32526	Thulung		the salt	jo	j o				1413				
@@ -7253,7 +7253,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 38793	Old_Burmese		the shit	khliyḥ	kʰ l i y h				29700				
 37003	Longgang		the shit	si³²	s i ³²				10560		屎		
 30577	Tibetan_Batang	excrement (noun)	the shit	tɕa⁵⁵pa⁵³	tɕ a ⁵⁵ + p a ⁵³				544	352743		STEDT/TBL	tɕa⁵⁵pa⁵³
-30580	Daofu	excrement (noun)	the shit	ʂcçɑ xpɑ	ʂ c ç ɑ + x p ɑ				544	352752		STEDT/TBL	ʂcçɑ xpɑ
+30580	Daofu	excrement (noun)	the shit	ʂcçɑ xpɑ	ʂ cç ɑ + x p ɑ		tib skʲag.pa (yunfan, 14/02/2019), combien cç (yunfan 19/02/19)		544	352752		STEDT/TBL	ʂcçɑ xpɑ
 30603	Yidu	excrement (noun)	the shit	khɹi⁵⁵	kʰ ɹ i ⁵⁵				29700	352765		STEDT/TBL	khɹi⁵⁵
 30609	Tibetan_Lhasa	excrement (noun)	the shit	cak⁵⁵pa⁵⁵	c a k ⁵⁵ + p a ⁵⁵				544	352742		STEDT/TBL	cak⁵⁵pa⁵⁵
 30610	rGyalrong_Maerkang	excrement (noun)	the shit	tə phʃᴇ	t ə _ pʰ ʃ ᴇ/e				3581	352751		STEDT/TBL	tə phʃᴇ
@@ -7262,7 +7262,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 30639	Dulong	excrement (noun)	the shit	ni⁵⁵	n i ⁵⁵				3585	352760		STEDT/TBL	ni⁵⁵
 37875	Hayu	excrement (n)	the shit	ex◦pi	e x + p i	cf. Shorto PAA #794 *ʔic; *ʔiə[c]; *ʔ[ə]c excrement, faeces. A: (Mon, North Bahnaric, Aslian) Mon oik, Bahnar ic, Jeh ek, Halang ik, Central Sakai êch; → Kuki-Naga *eˑk (& similar Karen forms; BENEDICT 1972 26 n. 82, 146 n. 399).	AA		120	120166			
 30655	Bokar	excrement (noun)	the shit	eː	eː	cf. Shorto PAA #794 *ʔic; *ʔiə[c]; *ʔ[ə]c excrement, faeces. A: (Mon, North Bahnaric, Aslian) Mon oik, Bahnar ic, Jeh ek, Halang ik, Central Sakai êch; → Kuki-Naga *eˑk (& similar Karen forms; BENEDICT 1972 26 n. 82, 146 n. 399).	AA		120	352764		STEDT/TBL	eː
-30657	Zhaba_Daofu_County	excrement (noun)	the shit	cça⁵⁵pa⁵⁵	c ç a ⁵⁵ + p a ⁵⁵		tib skʲag.pa		544	352754		STEDT/TBL	cça⁵⁵pa⁵⁵
+30657	Zhaba_Daofu_County	excrement (noun)	the shit	cça⁵⁵pa⁵⁵	cç a ⁵⁵ + p a ⁵⁵		tib skʲag.pa, combien cç (yunfan 19/02/19)		544	352754		STEDT/TBL	cça⁵⁵pa⁵⁵
 30703	Tibetan_Xiahe	excrement (noun)	the shit	htɕaχ kwa	h tɕ a χ _ k w a				544	352744		STEDT/TBL	htɕaχ kwa
 30713	Darang_Taraon	excrement (noun)	the shit	klɑi⁵³	k l ɑ i ⁵³				29700	352762		STEDT/TBL	klɑi⁵³
 31050	Old_Chinese		the shit	qʰijʔ	qʰ i j ʔ			屎	10560		屎	SagartMa2016	*[qʰ]ijʔ
@@ -8541,7 +8541,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 38084	Tangut		the wing	dzjwɨ	dz j w ɨ				282		翼		
 38407	Mikir		the wing	kong	k o ng	from :cite:Walker1925<br>page in :cite:Walker1925 458			10493			Walker1925, Konnerth2014	kong [arvenkong, venkong]
 38676	Rabha	wing	the wing	kem-pʰak	k e m + pʰ a k				10492			Joseph2007	
-12315	Old_Tibetan		the wing	gɕog pa	g ɕ o g + p a			翅膀	755				
+12315	Old_Tibetan		the wing	gɕog pa	g ɕ o g + p a	separate pa (yunfan 19/02/19)		翅膀	755				
 12344	Japhug		the wing	ɯ-ʁar	ɯ + ʁ a r			翅膀	3315				ɯ-ʁar
 16563	Jingpho	wing	the wing	siŋ³¹ko̱³³	s i ŋ ³¹ + k o̠ ³³				158	360540		STEDT/TBL	siŋ³¹ko̱³³
 16836	Tibetan_Lhasa	wing	the wing	ɕok⁵⁵pa⁵⁵	ɕ o k ⁵⁵ + p a ⁵⁵				755	360523		STEDT/TBL	ɕok⁵⁵pa⁵⁵
@@ -8720,7 +8720,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 38674	Rabha	year	the year	bɨ-sɨr	b ɨ + s ɨ r	But té-bɨrsi 'last year' (Joseph p. 126)			10496			Joseph2007	
 34463	Bola	year 2	the year	tɛ̃⁵⁵	t ɛ̃ ∼ ⁵⁵				29742			Huang1992	
 12633	Old_Tibetan		the year	lo	l o			年	1204				
-12662	Japhug		the year	tɯ-xpa	t ɯ + x p a			年	4196				tɯ-xpa
+12662	Japhug		the year	tɯ-xpa	t ɯ + x p a			年	29777				tɯ-xpa
 15436	Tibetan_Alike	year	the year	lo	l o				1204	385004		STEDT/TBL	lo
 16843	Jingpho	year	the year	ʃă³¹niŋ³³	ʃ ă ³¹ + n i ŋ ³³				1866	385050		STEDT/TBL	ʃă³¹niŋ³³
 17008	Motuo_Menba	year	the year	ȵiŋ	ȵ i ŋ				1866	385006		STEDT/TBL	ȵiŋ
@@ -8733,7 +8733,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 21710	Darang_Taraon	year	the year	kɯ³¹nɯŋ⁵⁵	k ɯ ³¹ + n ɯ ŋ ⁵⁵				1866	385021		STEDT/TBL	kɯ³¹nɯŋ⁵⁵
 23532	Lisu	year	the year	kho̱³¹	kʰ o̠ ³¹				4196	385039		STEDT/TBL	kho̱³¹
 24131	Bokar	year	the year	ȵiŋ	ȵ i ŋ				1866	385023		STEDT/TBL	ȵiŋ
-24174	rGyalrong_Maerkang	year	the year	pɑ	p ɑ				4196	385010		STEDT/TBL	pɑ
+24174	rGyalrong_Maerkang	year	the year	pɑ	p ɑ				29777	385010		STEDT/TBL	pɑ
 24893	Yidu	year	the year	i⁵⁵nu⁵⁵	i ⁵⁵ + n u ⁵⁵				1866	385024		STEDT/TBL	i⁵⁵nu⁵⁵
 25396	Tibetan_Xiahe	year	the year	lo	l o				1204	385003		STEDT/TBL	lo
 38367	Mikir		the year	ningkán	n i ng k á/a n	from :cite:Konnerth2014<br>:cite:Walker1925 entry: «ningkan» (page: 461)			1866			Walker1925, Konnerth2014	ningkan
@@ -9037,7 +9037,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 33103	Bunan	alive	to be alive	sonpo	s o n p o	Comment (by Widmer2014): «WT gson po»	tib[gson.po]		280			Widmer2014	
 390	Old_Tibetan		to be alive	gson.po	g s o n + p o			活的	280				
 419	Japhug		to be alive	sɯsu	s ɯ s u			活的	280				sɯsu
-33339	Byangsi	alive	to be alive	t5aŋde	t̺ a ŋ d e				10407	542529		Sharma2003	
+33339	Byangsi	alive	to be alive	t̺aŋde	t̺ a ŋ d e	IPA column: t5 > t̺ (yunfan, 14/02/2019)			10407	542529		Sharma2003	
 33567	Rongpo	sit, live, be	to be alive	huŋ-, hunc-, hun-, hum-	h u ŋ				565	546746		Sharma2003a	
 33790	Kulung	live, survive (vi-4 [1: let- 2: lei- 3: len-])	to be alive	leima	l e i m a	Nepali: bāṃcnu. (Tolsma1999)			704			Tolsma1999	
 33863	Bantawa	to live, be safe	to be alive	hɨŋma	h ɨ ŋ				2550			Jongens2009:	
@@ -9086,7 +9086,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 33011	Bunan	sting, bite	to bite	kret	k r e t	Comment (by Widmer2014): «PTB *m-kret "to scratch, to scrape"»			2925			Widmer2014	
 33340	Byangsi	pinch, bite	to bite	cemo	c/tʃ e m o				421	541607		Sharma2003	
 669	Limbu	bite	to bite	haʔr-	h a ʔ r +			咬	3202		噬		haʔr-
-684	Japhug	bite	to bite	mtsɯɣ	m ts ɯ ɣ			咬	2401		噬		mtsɯɣ
+684	Japhug	bite	to bite	mtsɯɣ	m ts ɯ ɣ			咬	2223		噬		mtsɯɣ
 688	Tangut	bite	to bite	gioo¹	g i oː ¹			咬	10182		噬		gioo¹
 33791	Kulung	sting, bite, chew (vt-8 [1: khɔi- 2: khɔ- 3: khǝi- 4: khǝ- 5: khui- 6: khu- 7: kha- 8: khɔk-])	to bite	khɔma	kʰ ɔ m a	Nepali: ṭoknu. (Tolsma1999)			2470			Tolsma1999	
 33869	Bantawa	(antip) to bite	to bite	ŋekma	ŋ e k				748			Jongens2009:452	
@@ -9113,7 +9113,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 16852	Bokar	bite	to bite	gam	g a m				3415	431345		STEDT/TBL	gam
 17538	Jingpho	bite	to bite	kă³¹wa⁵⁵	k ă ³¹ + w a ⁵⁵				2634	431340		STEDT/TBL	kă³¹wa⁵⁵
 38789	Atsi		to bite	ŋat²¹	ŋ a t ²¹				2971				
-18531	rGyalrong_Maerkang	bite	to bite	khɑ mtʃik kɐ lɐt	kʰ ɑ _ m tʃ i k _ k ɐ _ l ɐ t	!			2401	431332		STEDT/TBL	khɑ mtʃik kɐ lɐt
+18531	rGyalrong_Maerkang	bite	to bite	khɑ mtʃik kɐ lɐt	kʰ ɑ _ m tʃ i k _ k ɐ _ l ɐ t	!			2223	431332		STEDT/TBL	khɑ mtʃik kɐ lɐt
 18947	Tibetan_Lhasa	bite	to bite	so⁵⁵ ca¹³²	s o ⁵⁵ _ c a ¹³²				2552	431323		STEDT/TBL	so⁵⁵ ca¹³²
 19876	Daofu	bite	to bite	ʂcçhɛ	ʂ cçʰ ɛ	!			1933	431333		STEDT/TBL	ʂcçhɛ
 20241	Dulong	bite	to bite	gɹɑt⁵⁵	g ɹ ɑ t ⁵⁵				1430	431341		STEDT/TBL	gɹɑt⁵⁵
@@ -9130,8 +9130,8 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 30770	Old_Chinese		to bite	det←s	d e t + s			咬	3617		噬	SagartMa2016	*[d]e[t]-s
 31221	Old_Burmese		to bite	ko₂k	k o₂/o k				1023			Hill2016	
 31564	Wobzi_Khroskyabs		to bite	nrcʰɑ́	n r cʰ ɑ́				1933			Lai2016	
-31818	Chepang	bite (not insect bites)	to bite	jəyk-	dʒ ə j k				2401	481487		Caughley2000	
-32081	Garo	bite (vt)	to bite	chik-a	ch i k + a				2401	465732		Burling2003	
+31818	Chepang	bite (not insect bites)	to bite	jəyk-	dʒ ə j k				2223	481487		Caughley2000	
+32081	Garo	bite (vt)	to bite	chik-a	ch i k + a				2223	465732		Burling2003	
 32332	Old_Tibetan		to bite	rmug	r m u g				4046				
 32566	Thulung		to bite	khrenmu	kʰ r e t				2925				
 32654	Hakha_Chin	bite (v.)	to bite	seh	s e ʔ				1561			VanBik2014	
@@ -10789,7 +10789,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 31249	Old_Burmese		to push	to₁nḥ	t o₁/o n h				1301			Hill2016	
 31250	Old_Burmese		to push	tuivḥ	t ui v h				3694			Hill2016	
 31251	Old_Burmese		to push	nhip	nh i p				3695			Hill2016	
-31705	Wobzi_Khroskyabs		to push	nskʰɑ́ɣ	ns kʰ ɑ́ ɣ				3767			Lai2016	
+31705	Wobzi_Khroskyabs		to push	nskʰɑ́ɣ	n s kʰ ɑ́ ɣ	separation of n and s (yunfan 15/02/19)			3767			Lai2016	
 31971	Chepang	push, shove object	to push	dhus-	dʱ u s				3869	483095		Caughley2000	
 32226	Garo	push (vt)	to push	sik-ru-ru-a	s i k + r u + r u + a				3994	467691		Burling2003	
 32597	Thulung		to push	unmu	u t				4105				
@@ -11084,7 +11084,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 21934	Zhaba_Daofu_County	sing	to sing	a³³ko⁵⁵	a ³³ + k o ⁵⁵		ch?		2331	405292		STEDT/TBL	a³³ko⁵⁵
 21963	Darang_Taraon	sing	to sing	tɑ³¹ɕiŋ⁵³	t ɑ ³¹ + ɕ i ŋ ⁵³				2339	405300		STEDT/TBL	tɑ³¹ɕiŋ⁵³
 22676	Tibetan_Xiahe	sing	to sing	len	l e n				2497	405282		STEDT/TBL	len
-22742	Dulong	sing	to sing	wɑ⁵³	w ɑ ⁵³				2514	405298		STEDT/TBL	wɑ⁵³
+22742	Dulong	sing	to sing	wɑ⁵³	w ɑ ⁵³				29775	405298		STEDT/TBL	wɑ⁵³
 23923	Bokar	sing	to sing	taŋ	t a ŋ				2775	405302		STEDT/TBL	taŋ
 23924	Bokar	sing	to sing	ben	b e n				2776	405329		STEDT/TBL	ben
 24309	Tibetan_Batang	sing	to sing	theĩ⁵⁵	tʰ e ĩ ∼ ⁵⁵				2856	405281		STEDT/TBL	theĩ⁵⁵
@@ -11475,12 +11475,12 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 17247	Tibetan_Lhasa	throw / hurl	to throw	ju⁵²	j u ⁵²				928	428263		STEDT/TBL	ju⁵²
 17482	Jingpho	throw / hurl	to throw	tʃiŋ³¹ khjen⁵⁵	tʃ i ŋ ³¹ _ kʰ j e n ⁵⁵				2554	428278		STEDT/TBL	tʃiŋ³¹ khjen⁵⁵
 18480	rGyalrong_Maerkang	throw / hurl	to throw	kɐ nɐ stəm	k ɐ _ n ɐ _ s t ə m	!			3336	428271		STEDT/TBL	kɐ nɐ stəm
-19834	Daofu	throw / hurl	to throw	ɟjɛr qɛ	ɟ j ɛ r + q ɛ				3350	428272		STEDT/TBL	ɟjɛr qɛ
+19834	Daofu	throw / hurl	to throw	ɟjɛr qɛ	ɟʲ ɛ r + q ɛ	combine ɟj (yunfan 19/02/19)			3350	428272		STEDT/TBL	ɟjɛr qɛ
 20024	Motuo_Menba	throw / hurl	to throw	taŋ	t a ŋ				2308	428267		STEDT/TBL	taŋ
 20198	Dulong	throw / hurl	to throw	tɑt⁵⁵	t ɑ t ⁵⁵				2537	428279		STEDT/TBL	tɑt⁵⁵
 20458	Tibetan_Batang	throw / hurl	to throw	dʑõ¹³	dʑ õ ∼ ¹³				2906	428264		STEDT/TBL	dʑõ¹³
 20459	Tibetan_Batang	throw / hurl	to throw	ʑuʔ⁵³	ʑ u ʔ ⁵³				928	428307		STEDT/TBL	ʑuʔ⁵³
-22262	Zhaba_Daofu_County	throw / hurl	to throw	a³³ ɟjo⁵⁵	a ³³ _ ɟ j o ⁵⁵				3409	428274		STEDT/TBL	a³³ ɟjo⁵⁵
+22262	Zhaba_Daofu_County	throw / hurl	to throw	a³³ ɟjo⁵⁵	a ³³ _ ɟʲ o ⁵⁵	combine ɟj (yunfan 19/02/19)			3409	428274		STEDT/TBL	a³³ ɟjo⁵⁵
 22918	Tibetan_Xiahe	throw / hurl	to throw	hen	h e n				873	428265		STEDT/TBL	hen
 24152	Lisu	throw / hurl	to throw	lo⁵⁵	l o ⁵⁵				2815	428298		STEDT/TBL	lo⁵⁵
 24247	Bokar	throw / hurl	to throw	or	o r				2844	428282		STEDT/TBL	or
@@ -11574,7 +11574,7 @@ ID	DOCULECT	GLOSS_IN_SOURCE	CONCEPT	IPA	TOKENS	NOTE	BORROWING	CHINESE	COGID	RGEN
 11573	Old_Tibetan	walk	to walk	ɴgro-	ɴ g r o +			走	3003		行		ɴgro-
 11586	Khaling	walk	to walk	lɛm-thi-	l ɛ m + tʰ i +			走	2524		行		lɛm-thi-
 11587	Limbu	walk	to walk	laŋ-ghek-	l a ŋ + gʰ e k +			走	4048		行		laŋ-ghek-
-11602	Japhug	walk	to walk	ŋke	ŋ k e			走	2841		行		ŋke
+11602	Japhug	walk	to walk	ŋke	ŋ k e			走	29778		行		ŋke
 11606	Tangut	walk	to walk	dʑji	dʑ j i			走	4192		行		dʑji
 17580	Jingpho	walk	to walk	khom³³	kʰ o m ³³				2677	434198		STEDT/TBL	khom³³
 17908	Tibetan_Lhasa	walk	to walk	tʂo¹³	ʈʂ o ¹³				3003	434181		STEDT/TBL	tʂo¹³

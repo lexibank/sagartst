@@ -22,8 +22,8 @@ Available online at http://dighl.github.io/sinotibetan/
 - **Concepts:** 250
 - **Lexemes:** 12,180
 - **Synonymy:** 1.06
-- **Cognacy:** 8,711 cognates in 1,652 cognate sets
+- **Cognacy:** 8,707 cognates in 1,651 cognate sets
 - **Invalid lexemes:** 0
-- **Tokens:** 60,885
-- **Segments:** 480 (1 BIPA errors, 1 CTLS sound class errors, 474 CLTS modified)
-- **Inventory size (avg):** 51.76
+- **Tokens:** 60,881
+- **Segments:** 479 (1 BIPA errors, 1 CTLS sound class errors, 473 CLTS modified)
+- **Inventory size (avg):** 51.64
