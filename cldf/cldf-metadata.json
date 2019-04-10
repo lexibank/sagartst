@@ -1,6 +1,6 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
-    "dc:bibliographicCitation": "Laurent Sagart, Jacques, Guillaume, Yunfan Lai, and Johann-Mattis List (2018): Sino-Tibetan Database of Lexical Cognates. Jena, Max Planck Institute for the Science of Human History.",
+    "dc:bibliographicCitation": "Laurent Sagart, Jacques, Guillaume, Yunfan Lai, and Johann-Mattis List (2019): Sino-Tibetan Database of Lexical Cognates. Jena, Max Planck Institute for the Science of Human History.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:identifier": "http://dighl.github.io/sinotibetan/",
     "dc:license": "http://www.opensource.org/licenses/GPL-3.0",
@@ -16,8 +16,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "pyglottolog-1.2.1-77-g24ddcfb",
-                "concepticon_version": "pyconcepticon-1.4.0-81-g0e705c2"
+                "glottolog_version": "v3.4-1-g07a9b54e37",
+                "concepticon_version": "pyconcepticon-1.4.0-206-g1ad282b"
             }
         }
     ],
@@ -51,7 +51,7 @@
                     },
                     {
                         "datatype": "string",
-                        "propertyUrl": "http://linguistics-ontology.org/gold/2010/FormUnit",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
                         "required": true,
                         "name": "Value"
                     },
@@ -153,6 +153,26 @@
                         "name": "Macroarea"
                     },
                     {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": -90,
+                            "maximum": 90
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
+                        "required": false,
+                        "name": "Latitude"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": -180,
+                            "maximum": 180
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
+                        "required": false,
+                        "name": "Longitude"
+                    },
+                    {
                         "datatype": "string",
                         "name": "Family"
                     },
@@ -171,14 +191,6 @@
                     {
                         "datatype": "string",
                         "name": "Coverage"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Longitude"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Latitude"
                     },
                     {
                         "datatype": "string",
