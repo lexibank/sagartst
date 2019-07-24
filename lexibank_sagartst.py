@@ -71,15 +71,16 @@ class Dataset(BaseDataset):
         with self.cldf as ds:
             ds.add_sources(*self.raw.read_bib())
             ds.add_languages(id_factory=lambda l: l['Name'])
-            for c in self.concepts:
+            for c in self.conceptlist.concepts.values():
                 ds.add_concept(
-                        ID=c['CONCEPTICON_ID'],
-                        TBL_ID=c['TBL_ID'],
-                        Name=c['ENGLISH'],
-                        Coverage=c['Coverage'],
-                        Concepticon_ID=c['CONCEPTICON_ID']
+                        ID=c.concepticon_id,
+                        TBL_ID=c.attributes['huang_1992_1820'],
+                        Name=c.english,
+                        Coverage=c.attributes['coverage'],
+                        Concepticon_ID=c.concepticon_id
                         )
-            concept2id = {c['ENGLISH']: c['CONCEPTICON_ID'] for c in self.concepts}
+            concept2id = {c.english: c.concepticon_id for c in
+                    self.conceptlist.concepts.values()}
             source_dict = {}
             concept_dict = {}
             for l in self.languages:
