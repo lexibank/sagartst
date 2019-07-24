@@ -8,6 +8,14 @@ This dataset is licensed under a GPL-3.0 license
 
 Available online at http://dighl.github.io/sinotibetan/
 
+Conceptlists in Concepticon:
+- [Sagart-2019-250](http://concepticon.clld.org/contributions/Sagart-2019-250)
+
+## Notes
+
+
+
+
 ## Statistics
 
 
@@ -21,6 +29,7 @@ Available online at http://dighl.github.io/sinotibetan/
 - **Varieties:** 50
 - **Concepts:** 250
 - **Lexemes:** 12,180
+- **Sources:** 25
 - **Synonymy:** 1.06
 - **Cognacy:** 12,180 cognates in 5,121 cognate sets (3,469 singletons)
 - **Cognate Diversity:** 0.41

@@ -1,7 +1,7 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss,TBL_ID,Coverage
 1741,above,1741,ABOVE,731,0.46
 98,all,98,ALL,962,0.47
-587,the ant,587,ANT,365,1
+587,the ant,587,ANT,365,1.0
 1886,the armpit,1886,ARMPIT,92,0.49
 1292,bad,1292,BAD,1053,0.61
 1927,the bamboo,1927,BAMBOO,389,0.98
@@ -9,22 +9,22 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,TBL_ID,Coverage
 1422,to be alive,1422,BE ALIVE,1087,0.96
 1251,the belly,1251,BELLY,96,0.98
 1485,"below, under",1485,BELOW OR UNDER,732,0.45
-1202,big,1202,BIG,964,1
-937,the bird,937,BIRD,326,1
+1202,big,1202,BIG,964,1.0
+937,the bird,937,BIRD,326,1.0
 1403,to bite,1403,BITE,1753,0.98
-163,black,163,BLACK,1005,1
-946,the blood,946,BLOOD,129,1
+163,black,163,BLACK,1005,1.0
+946,the blood,946,BLOOD,129,1.0
 175,to blow (of wind),175,BLOW (OF WIND),1738,0.56
 189,the body hair (hair or fur),189,HAIR (BODY),266,0.52
 1394,the bone,1394,BONE,133,0.98
 1531,the branch,1531,BRANCH,374,0.9
 1402,the breast (female),1402,BREAST,94,0.98
 1428,to burn [intransitive],1428,BURNING,1269,0.96
-1869,to buy,1869,BUY,1516,1
+1869,to buy,1869,BUY,1516,1.0
 321,to chew,321,CHEW,1424,0.94
 1304,the child (young human),1304,CHILD (YOUNG HUMAN),169,0.47
-1489,the cloud,1489,CLOUD,7,1
-1287,cold (of temperature),1287,COLD,1063,1
+1489,the cloud,1489,CLOUD,7,1.0
+1287,cold (of temperature),1287,COLD,1063,1.0
 1446,to come,1446,COME,1491,0.98
 1725,correct (right),1725,CORRECT (RIGHT),1045,0.4
 1420,to count,1420,COUNT,1640,0.98
@@ -32,10 +32,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,TBL_ID,Coverage
 706,dark,706,DARK,1013,0.48
 1357,the daughter,1357,DAUGHTER,222,0.53
 1977,the dew,1977,DEW,15,0.92
-1494,to die,1494,DIE,1651,1
+1494,to die,1494,DIE,1651,1.0
 1418,to dig,1418,DIG,1698,0.96
 1230,dirty,1230,DIRTY,1086,0.92
-2009,the dog,2009,DOG,289,1
+2009,the dog,2009,DOG,289,1.0
 2374,the dream,2374,DREAM,699,0.98
 1401,to drink,1401,DRINK,1370,0.98
 1398,dry,1398,DRY,1028,0.98
@@ -44,25 +44,25 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,TBL_ID,Coverage
 672,early,672,EARLY,1018,0.88
 1228,the earth (soil),1228,EARTH (SOIL),40,0.94
 2350,the earthworm,2350,EARTHWORM,363,0.49
-1336,to eat,1336,EAT,1198,1
-744,the egg,744,EGG,450,1
+1336,to eat,1336,EAT,1198,1.0
+744,the egg,744,EGG,450,1.0
 1705,eight,1705,EIGHT,804,0.88
 1248,the eye,1248,EYE,79,0.98
-1406,far,1406,FAR,974,1
+1406,far,1406,FAR,974,1.0
 1217,the father,1217,FATHER,218,0.59
 1201,the feather,1201,FEATHER,299,0.9
 1423,to fight,1423,FIGHT,1234,0.96
-221,the fire,221,FIRE,18,1
+221,the fire,221,FIRE,18,1.0
 10,firewood,10,FIREWOOD,534,0.46
-227,the fish,227,FISH,351,1
+227,the fish,227,FISH,351,1.0
 493,five,493,FIVE,801,0.94
 232,the flea,232,FLEA,355,0.88
 1574,to float,1574,FLOAT,1553,0.43
 2003,to flow,2003,FLOW,1502,0.43
-239,the flower,239,FLOWER,377,1
-1441,to fly (move through air),1441,FLY (MOVE THROUGH AIR),1318,1
+239,the flower,239,FLOWER,377,1.0
+1441,to fly (move through air),1441,FLY (MOVE THROUGH AIR),1318,1.0
 249,the fog,249,FOG,16,0.56
-1301,the foot,1301,FOOT,103,1
+1301,the foot,1301,FOOT,103,1.0
 420,the forest,420,FOREST,50,0.96
 1523,to forget,1523,FORGET,1704,0.96
 1500,four,1500,FOUR,800,0.94
@@ -70,21 +70,21 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,TBL_ID,Coverage
 503,the frog,503,FROG,349,0.98
 2194,the front (front side),2194,FRONT (PART),712,0.92
 2034,the frost,2034,FROST,14,0.48
-1507,the fruit,1507,FRUIT,378,1
+1507,the fruit,1507,FRUIT,378,1.0
 1429,full,1429,FULL,984,0.92
 1447,to give,1447,GIVE,1345,0.98
 1502,the goat,1502,GOAT,276,0.92
-1035,good,1035,GOOD,1052,1
+1035,good,1035,GOOD,1052,1.0
 606,the grass,606,GRASS,436,0.98
 1425,green,1425,GREEN,1009,0.96
 609,the hail,609,HAIL,13,0.9
-1040,the hair (of the head),1040,HAIR,75,1
+1040,the hair (of the head),1040,HAIR,75,1.0
 1277,the hand,1277,HAND,107,0.98
 1884,hard,1884,HARD,1034,0.98
 262,he or she [third person singular],262,HE OR SHE OR IT,934,0.94
-1256,the head,1256,HEAD,74,1
+1256,the head,1256,HEAD,74,1.0
 1408,to hear,1408,HEAR,1682,0.98
-1223,the heart,1223,HEART,144,1
+1223,the heart,1223,HEART,144,1.0
 1210,heavy,1210,HEAVY,1014,0.96
 136,here,136,HERE,944,0.53
 602,to hide (conceal),602,HIDE (CONCEAL),1169,0.98
@@ -94,7 +94,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,TBL_ID,Coverage
 2376,horizontal,2376,HORIZONTAL,1001,0.47
 1393,the horn (keratinized skin),1393,HORN (ANATOMY),263,0.98
 615,the horse,615,HORSE,268,0.45
-1286,hot,1286,HOT,1062,1
+1286,hot,1286,HOT,1062,1.0
 1252,the house,1252,HOUSE,494,0.98
 1634,hundred,1634,HUNDRED,824,0.51
 1435,to hunt,1435,HUNT,1230,0.98
@@ -102,49 +102,49 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,TBL_ID,Coverage
 1209,I [first person singular],1209,I,928,0.98
 617,the ice,617,ICE,17,0.52
 1606,inside,1606,INSIDE,715,0.98
-1417,to kill,1417,KILL,1602,1
+1417,to kill,1417,KILL,1602,1.0
 274,to knead,274,KNEAD,1594,0.43
 1371,the knee,1371,KNEE,101,0.98
 1352,knife,1352,KNIFE,549,0.43
 1410,to know (something),1410,KNOW (SOMETHING),1798,0.55
 624,the lake,624,LAKE,31,0.57
 477,late,477,LATE,1019,0.94
-1355,to laugh,1355,LAUGH,1735,1
-628,the leaf,628,LEAF,376,1
+1355,to laugh,1355,LAUGH,1735,1.0
+628,the leaf,628,LEAF,376,1.0
 504,to learn,504,LEARN,1742,0.49
 244,left,244,LEFT,710,0.96
-319,to lick,319,LICK,1674,1
+319,to lick,319,LICK,1674,1.0
 215,to lie down,215,LIE DOWN,1661,0.48
 1052,light (of weight),1052,LIGHT (WEIGHT),1015,0.98
 478,the lip (the lips),478,LIP,85,0.98
-1224,the liver,1224,LIVER,145,1
-1203,long,1203,LONG,972,1
-1392,the louse,1392,LOUSE,356,1
+1224,the liver,1224,LIVER,145,1.0
+1203,long,1203,LONG,972,1.0
+1392,the louse,1392,LOUSE,356,1.0
 688,the lung,688,LUNG,143,0.98
 2106,the man (male human),2106,MALE PERSON,173,0.96
 1198,many,1198,MANY,987,0.96
 2164,to marry (a man marries a woman),2164,MARRY (AS MAN),1578,0.42
-634,the meat,634,MEAT,443,1
+634,the meat,634,MEAT,443,1.0
 1093,middle,1093,MIDDLE,708,0.92
 1313,the moon,1313,MOON,4,0.98
 1339,morning,1339,MORNING,749,0.96
 1509,the mosquito,1509,MOSQUITO,360,0.58
 1216,the mother,1216,MOTHER,219,0.64
-639,the mountain,639,MOUNTAIN,23,1
-2139,the mouse or rat,2139,MUROID (MOUSE OR RAT),320,1
+639,the mountain,639,MOUNTAIN,23,1.0
+2139,the mouse or rat,2139,MUROID (MOUSE OR RAT),320,1.0
 674,the mouth,674,MOUTH,84,0.98
 640,the mud,640,MUD,46,0.92
-2128,the nail (fingernail or claw),2128,CLAW OR NAIL,113,1
-1405,the name,1405,NAME,687,1
+2128,the nail (fingernail or claw),2128,CLAW OR NAIL,113,1.0
+1405,the name,1405,NAME,687,1.0
 1267,narrow,1267,NARROW,977,0.9
 1942,near,1942,NEAR,975,0.98
-1333,the neck,1333,NECK,89,1
+1333,the neck,1333,NECK,89,1.0
 1382,the needle (for sewing),1382,NEEDLE (FOR SEWING),578,0.96
 1231,new,1231,NEW,1050,0.98
 1483,nine,1483,NINE,805,0.88
 267,the nit,267,NIT,357,0.33
 12,noon,12,MIDDAY,750,0.49
-1221,the nose,1221,NOSE,80,1
+1221,the nose,1221,NOSE,80,1.0
 2112,old (of person),2112,OLD (AGED),1058,0.96
 1493,one,1493,ONE,797,0.98
 15,the otter,15,OTTER,317,0.35
@@ -159,10 +159,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,TBL_ID,Coverage
 156,red,156,RED,1007,0.96
 1099,to reside (live),1099,RESIDE,1452,0.94
 2026,the rice plant,2026,RICE PLANT,439,0.39
-1019,right,1019,RIGHT,711,1
+1019,right,1019,RIGHT,711,1.0
 666,the river,666,RIVER,30,0.55
 667,the road,667,ROAD,38,0.98
-670,the root,670,ROOT,375,1
+670,the root,670,ROOT,375,1.0
 1218,the rope,1218,ROPE,619,0.96
 1395,round,1395,ROUND,990,0.94
 1519,to run,1519,RUN,1544,0.49
@@ -186,25 +186,25 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,TBL_ID,Coverage
 763,the skin,763,SKIN,120,0.98
 1732,the sky,1732,SKY,1,0.96
 1585,to sleep,1585,SLEEP,1646,0.96
-1246,small,1246,SMALL,965,1
+1246,small,1246,SMALL,965,1.0
 1586,to smell (perceive odor) [transitive],1586,SMELL (PERCEIVE),1707,0.92
-778,the smoke,778,SMOKE (EXHAUST),19,1
+778,the smoke,778,SMOKE (EXHAUST),19,1.0
 1234,smooth,1234,SMOOTH,1037,0.56
-730,the snake,730,SNAKE,347,1
+730,the snake,730,SNAKE,347,1.0
 784,the snow,784,SNOW,12,0.9
-1856,soft,1856,SOFT,1035,1
-1620,the son,1620,SON,220,1
+1856,soft,1856,SOFT,1035,1.0
+1620,the son,1620,SON,220,1.0
 1854,the sparrow,1854,SPARROW,336,0.42
 843,the spider,843,SPIDER,361,0.96
 1440,to spit,1440,SPIT,1688,0.98
-1442,to stand,1442,STAND,1784,1
-1430,the star,1430,STAR,5,1
+1442,to stand,1442,STAND,1784,1.0
+1430,the star,1430,STAR,5,1.0
 713,to steal,713,STEAL,1686,0.96
 1295,the stick,1295,STICK,586,0.94
-857,the stone (a piece of),857,STONE,43,1
+857,the stone (a piece of),857,STONE,43,1.0
 1404,straight,1404,STRAIGHT,1003,0.94
-1343,the sun,1343,SUN,2,1
-1220,the tail,1220,TAIL,267,1
+1343,the sun,1343,SUN,2,1.0
+1220,the tail,1220,TAIL,267,1.0
 1515,ten,1515,TEN,806,0.9
 78,that,78,THAT,947,0.52
 1937,there,1937,THERE,950,0.52
@@ -220,23 +220,23 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,TBL_ID,Coverage
 846,the tiger,846,TIGER,304,0.54
 1283,today,1283,TODAY,738,0.53
 1329,tomorrow,1329,TOMORROW,742,0.54
-1205,the tongue,1205,TONGUE,139,1
-1380,the tooth (front),1380,TOOTH,137,1
+1205,the tongue,1205,TONGUE,139,1.0
+1380,the tooth (front),1380,TOOTH,137,1.0
 906,the tree,906,TREE,372,0.96
 1710,twenty,1710,TWENTY,816,0.38
 1498,two,1498,TWO,798,0.98
 1278,to vomit,1278,VOMIT,1535,0.98
-1443,to walk,1443,WALK,1815,1
-948,the water,948,WATER,47,1
+1443,to walk,1443,WALK,1815,1.0
+948,the water,948,WATER,47,1.0
 1131,we [first person plural inclusive],1131,WE (INCLUSIVE),930,0.53
-1726,wet,1726,WET,1029,1
+1726,wet,1726,WET,1029,1.0
 1236,what,1236,WHAT,954,0.52
 1077,the wheat,1077,WHEAT,410,0.46
 1237,where,1237,WHERE,955,0.53
-1335,white,1335,WHITE,1006,1
-1235,who,1235,WHO,953,1
+1335,white,1335,WHITE,1006,1.0
+1235,who,1235,WHO,953,1.0
 1199,the wife,1199,WIFE,248,0.53
-960,the wind,960,WIND,9,1
+960,the wind,960,WIND,9,1.0
 1257,the wing,1257,WING,298,0.92
 1454,to wipe,1454,WIPE,1163,0.96
 522,the wolf,522,WOLF,324,0.42
