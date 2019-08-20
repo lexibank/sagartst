@@ -502,44 +502,44 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:---------------------------|:--------------------|----------:|:--------------|:-----------------------------|
-| Sinitic_Old_Chinese-1091-1 | Sinitic_Old_Chinese | 1091 | *Cə.[g]ˤr[o]m | <s> C/ </s> ə + gˤ r o m |
-| Sinitic_Old_Chinese-1150-1 | Sinitic_Old_Chinese | 1150 | *C.rˤuj | <s> C/ </s> + rˤ u j |
-| Sinitic_Old_Chinese-1172-1 | Sinitic_Old_Chinese | 1172 | *Cə.lAk-s | <s> C/ </s> ə + l ɑ̟ k + s |
-| Sinitic_Old_Chinese-1203-1 | Sinitic_Old_Chinese | 1203 | *Cə-[N]-traŋ | <s> C/ </s> ə + ɴ + t r a ŋ |
-| Sinitic_Old_Chinese-1218-1 | Sinitic_Old_Chinese | 1218 | *Cə-m.rəŋ | <s> C/ </s> ə + m r ə ŋ |
-| Sinitic_Old_Chinese-1226-1 | Sinitic_Old_Chinese | 1226 | *C.nˤi[ŋ] | <s> C/ </s> + nˤ i ŋ |
-| Sinitic_Old_Chinese-1244-1 | Sinitic_Old_Chinese | 1244 | *Cə.[g]ˤ(r)oʔ | <s> C/ </s> ə + gˤ o ʔ |
-| Sinitic_Old_Chinese-1247-1 | Sinitic_Old_Chinese | 1247 | *C.nəʔ | <s> C/ </s> + n ə ʔ |
-| Sinitic_Old_Chinese-1248-1 | Sinitic_Old_Chinese | 1248 | *C.m(r)[u]k | <s> C/ </s> + m u k |
-| Sinitic_Old_Chinese-1265-2 | Sinitic_Old_Chinese | 1265 | *Cə.[k]ˤaw | <s> C/ </s> ə + kˤ a w |
-| Sinitic_Old_Chinese-1286-1 | Sinitic_Old_Chinese | 1286 | *C.nat | <s> C/ </s> + n a t |
-| Sinitic_Old_Chinese-1287-3 | Sinitic_Old_Chinese | 1287 | *C.raŋ | <s> C/ </s> + r a ŋ |
-| Sinitic_Old_Chinese-1287-4 | Sinitic_Old_Chinese | 1287 | *Cə.[g]ˤa[n] | <s> C/ </s> ə + gˤ a n |
-| Sinitic_Old_Chinese-1343-1 | Sinitic_Old_Chinese | 1343 | *C.nik | <s> C/ </s> + n i k |
-| Sinitic_Old_Chinese-1352-1 | Sinitic_Old_Chinese | 1352 | *C.tˤaw | <s> C/ </s> + tˤ a w |
-| Sinitic_Old_Chinese-1393-1 | Sinitic_Old_Chinese | 1393 | *C.[k]ˤrok | <s> C/ </s> + kˤ r o k |
-| Sinitic_Old_Chinese-1396-1 | Sinitic_Old_Chinese | 1396 | *C.ri[t]-s | <s> C/ </s> + r i t + s |
-| Sinitic_Old_Chinese-1405-1 | Sinitic_Old_Chinese | 1405 | *C.meŋ | <s> C/ </s> + m e ŋ |
-| Sinitic_Old_Chinese-1406-1 | Sinitic_Old_Chinese | 1406 | *C.ɢʷanʔ | <s> C/ </s> + ɢʷ a n ʔ |
-| Sinitic_Old_Chinese-1428-1 | Sinitic_Old_Chinese | 1428 | *C.na[n] | <s> C/ </s> + n a n |
-| Sinitic_Old_Chinese-1441-1 | Sinitic_Old_Chinese | 1441 | *Cə.pə[r] | <s> C/ </s> ə + p ə r |
-| Sinitic_Old_Chinese-1443-1 | Sinitic_Old_Chinese | 1443 | *Cə.[g]ˤraŋ | <s> C/ </s> ə + gˤ r a ŋ |
-| Sinitic_Old_Chinese-1509-1 | Sinitic_Old_Chinese | 1509 | *C.mə[r] | <s> C/ </s> + m ə r |
-| Sinitic_Old_Chinese-189-1 | Sinitic_Old_Chinese | 189 | *C.mˤaw | <s> C/ </s> + mˤ a w |
-| Sinitic_Old_Chinese-2112-1 | Sinitic_Old_Chinese | 2112 | *C.rˤuʔ | <s> C/ </s> + rˤ u ʔ |
-| Sinitic_Old_Chinese-2374-1 | Sinitic_Old_Chinese | 2374 | *C.məŋ-s | <s> C/ </s> + m ə ŋ + s |
-| Sinitic_Old_Chinese-2376-1 | Sinitic_Old_Chinese | 2376 | *C.gʷˤraŋ | <s> C/ </s> + gʷˤ r a ŋ |
-| Sinitic_Old_Chinese-319-1 | Sinitic_Old_Chinese | 319 | *Cə.leʔ | <s> C/ </s> ə + l e ʔ |
-| Sinitic_Old_Chinese-493-1 | Sinitic_Old_Chinese | 493 | *C.ŋˤaʔ | <s> C/ </s> + ŋˤ a ʔ |
-| Sinitic_Old_Chinese-606-2 | Sinitic_Old_Chinese | 606 | *Cə.tsˤə[r]-s | <s> C/ </s> ə + tsˤ ə r + s |
-| Sinitic_Old_Chinese-609-1 | Sinitic_Old_Chinese | 609 | *C.[b]ˤruk | <s> C/ </s> + bˤ r u k |
-| Sinitic_Old_Chinese-640-1 | Sinitic_Old_Chinese | 640 | *C.nˤ[əj] | <s> C/ </s> + nˤ ə j |
-| Sinitic_Old_Chinese-658-1 | Sinitic_Old_Chinese | 658 | *C.ɢʷ(r)aʔ | <s> C/ </s> + ɢʷ a ʔ |
-| Sinitic_Old_Chinese-667-1 | Sinitic_Old_Chinese | 667 | *Cə.rˤak-s | <s> C/ </s> ə + rˤ a k + s |
-| Sinitic_Old_Chinese-730-1 | Sinitic_Old_Chinese | 730 | *Cə.lAj | <s> C/ </s> ə + l ɑ̟ j |
-| Sinitic_Old_Chinese-906-1 | Sinitic_Old_Chinese | 906 | *C.mˤok | <s> C/ </s> + mˤ o k |
-| Tibetan_Lhasa-2003-1 | Tibetan_Lhasa | 2003 | tɕhu⁵⁵ Cu¹³² | tɕʰ u ⁵⁵ _ <s> C/ </s> u ¹³² |
+|:------------------|:-----------|----------:|:-------------|:-----------------------------|
+| Lhasa-2003-1 | Lhasa | 2003 | tɕhu⁵⁵ Cu¹³² | tɕʰ u ⁵⁵ _ <s> C/ </s> u ¹³² |
+| OldChinese-1091-1 | OldChinese | 1091 | Cəgˤrom | <s> C/ </s> ə + gˤ r o m |
+| OldChinese-1150-1 | OldChinese | 1150 | Crˤuj | <s> C/ </s> + rˤ u j |
+| OldChinese-1172-1 | OldChinese | 1172 | Cəlᴀk←s | <s> C/ </s> ə + l ɑ̟ k + s |
+| OldChinese-1203-1 | OldChinese | 1203 | Cə→ɴ→traŋ | <s> C/ </s> ə + ɴ + t r a ŋ |
+| OldChinese-1218-1 | OldChinese | 1218 | Cə→mrəŋ | <s> C/ </s> ə + m r ə ŋ |
+| OldChinese-1226-1 | OldChinese | 1226 | Cnˤiŋ | <s> C/ </s> + nˤ i ŋ |
+| OldChinese-1244-1 | OldChinese | 1244 | Cəgˤoʔ | <s> C/ </s> ə + gˤ o ʔ |
+| OldChinese-1247-1 | OldChinese | 1247 | Cnəʔ | <s> C/ </s> + n ə ʔ |
+| OldChinese-1248-1 | OldChinese | 1248 | Cmuk | <s> C/ </s> + m u k |
+| OldChinese-1265-2 | OldChinese | 1265 | Cəkˤaw | <s> C/ </s> ə + kˤ a w |
+| OldChinese-1286-1 | OldChinese | 1286 | Cnat | <s> C/ </s> + n a t |
+| OldChinese-1287-3 | OldChinese | 1287 | Craŋ | <s> C/ </s> + r a ŋ |
+| OldChinese-1287-4 | OldChinese | 1287 | Cəgˤan | <s> C/ </s> ə + gˤ a n |
+| OldChinese-1343-1 | OldChinese | 1343 | Cnik | <s> C/ </s> + n i k |
+| OldChinese-1352-1 | OldChinese | 1352 | Ctˤaw | <s> C/ </s> + tˤ a w |
+| OldChinese-1393-1 | OldChinese | 1393 | Ckˤrok | <s> C/ </s> + kˤ r o k |
+| OldChinese-1396-1 | OldChinese | 1396 | Crit←s | <s> C/ </s> + r i t + s |
+| OldChinese-1405-1 | OldChinese | 1405 | Cmeŋ | <s> C/ </s> + m e ŋ |
+| OldChinese-1406-1 | OldChinese | 1406 | Cɢʷanʔ | <s> C/ </s> + ɢʷ a n ʔ |
+| OldChinese-1428-1 | OldChinese | 1428 | Cnan | <s> C/ </s> + n a n |
+| OldChinese-1441-1 | OldChinese | 1441 | Cəpər | <s> C/ </s> ə + p ə r |
+| OldChinese-1443-1 | OldChinese | 1443 | Cəgˤraŋ | <s> C/ </s> ə + gˤ r a ŋ |
+| OldChinese-1509-1 | OldChinese | 1509 | Cmər | <s> C/ </s> + m ə r |
+| OldChinese-189-1 | OldChinese | 189 | Cmˤaw | <s> C/ </s> + mˤ a w |
+| OldChinese-2112-1 | OldChinese | 2112 | Crˤuʔ | <s> C/ </s> + rˤ u ʔ |
+| OldChinese-2374-1 | OldChinese | 2374 | Cməŋ←s | <s> C/ </s> + m ə ŋ + s |
+| OldChinese-2376-1 | OldChinese | 2376 | Cgʷˤraŋ | <s> C/ </s> + gʷˤ r a ŋ |
+| OldChinese-319-1 | OldChinese | 319 | Cəleʔ | <s> C/ </s> ə + l e ʔ |
+| OldChinese-493-1 | OldChinese | 493 | Cŋˤaʔ | <s> C/ </s> + ŋˤ a ʔ |
+| OldChinese-606-2 | OldChinese | 606 | Cətsˤər←s | <s> C/ </s> ə + tsˤ ə r + s |
+| OldChinese-609-1 | OldChinese | 609 | Cbˤruk | <s> C/ </s> + bˤ r u k |
+| OldChinese-640-1 | OldChinese | 640 | Cnˤəj | <s> C/ </s> + nˤ ə j |
+| OldChinese-658-1 | OldChinese | 658 | Cɢʷaʔ | <s> C/ </s> + ɢʷ a ʔ |
+| OldChinese-667-1 | OldChinese | 667 | Cərˤak←s | <s> C/ </s> ə + rˤ a k + s |
+| OldChinese-730-1 | OldChinese | 730 | Cəlᴀj | <s> C/ </s> ə + l ɑ̟ j |
+| OldChinese-906-1 | OldChinese | 906 | Cmˤok | <s> C/ </s> + mˤ o k |
 
 (37 rows)
 
