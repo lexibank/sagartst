@@ -35,7 +35,6 @@ class Dataset(BaseDataset):
         self.raw_dir.download(data['url'], 'sino-tibetan-raw.tsv')
 
     def cmd_makecldf(self, args):
-        data = json.loads(self.raw_dir.joinpath('data.json').read_text(encoding='utf8'))
         wl = lingpy.Wordlist(str(self.raw_dir / 'sino-tibetan-raw.tsv'))
         segments = json.loads(
                 self.etc_dir.joinpath('segments.json').read_text(encoding="utf8"))
