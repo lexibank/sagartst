@@ -36,8 +36,6 @@ class Dataset(BaseDataset):
 
     def cmd_makecldf(self, args):
         wl = lingpy.Wordlist(str(self.raw_dir / 'sino-tibetan-raw.tsv'))
-        segments = json.loads(
-                self.etc_dir.joinpath('segments.json').read_text(encoding="utf8"))
         args.writer.add_sources()
         concepts = {}
         for concept in self.conceptlists[0].concepts.values():
@@ -58,17 +56,12 @@ class Dataset(BaseDataset):
             sources[language['Name_in_Source']] = language['Source']
         for idx in progressbar(wl, desc='cldfify'):
             if wl[idx, 'tokens']:
-                row = args.writer.add_form_with_segments(
+                row = args.writer.add_form(
                     Language_ID=languages[wl[idx, 'doculect']],
                     Parameter_ID=concepts[wl[idx, 'concept']],
                     Value=wl[idx, 'entry_in_source'].strip()
                         or ''.join(wl[idx, 'tokens']) or wl[idx, 'ipa'],
-                    Form=wl[idx, 'ipa'] or wl[idx, 'entry_in_source'] or ''.join(wl[idx, 'tokens']),
-                    Segments=' '.join(
-                        [segments.get(
-                            x,
-                            segments.get(x.split('/')[1] if '/' in x else x, x)
-                            ) for x in wl[idx, 'tokens']]).split(),
+                    Form='.'.join(wl[idx, 'tokens']),
                     Source=sources[wl[idx, 'doculect']].split(','),
                     Comment=wl[idx, 'note'],
                     Cognacy=wl[idx, 'cogid'],
