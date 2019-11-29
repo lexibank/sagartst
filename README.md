@@ -19,7 +19,7 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/sagartst.svg?branch=master)](https://travis-ci.org/lexibank/sagartst)
+[![Build Status](https://travis-ci.org/digling/sinotibetan-data.svg?branch=master)](https://travis-ci.org/digling/sinotibetan-data)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -31,9 +31,9 @@ Conceptlists in Concepticon:
 - **Lexemes:** 12,180
 - **Sources:** 25
 - **Synonymy:** 1.06
-- **Cognacy:** 12,180 cognates in 5,121 cognate sets (3,469 singletons)
-- **Cognate Diversity:** 0.41
+- **Cognacy:** 12,180 cognates in 4,853 cognate sets (3,115 singletons)
+- **Cognate Diversity:** 0.39
 - **Invalid lexemes:** 0
 - **Tokens:** 60,885
-- **Segments:** 480 (1 BIPA errors, 1 CTLS sound class errors, 474 CLTS modified)
-- **Inventory size (avg):** 51.76
+- **Segments:** 495 (1 BIPA errors, 1 CTLS sound class errors, 476 CLTS modified)
+- **Inventory size (avg):** 52.04

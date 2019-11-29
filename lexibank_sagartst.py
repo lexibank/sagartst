@@ -9,12 +9,12 @@ from pylexibank import Concept, Language, Dataset as BaseDataset, progressbar
 
 
 @attr.s
-class OurConcept(Concept):
+class CustomConcept(Concept):
     TBL_ID = attr.ib(default=None)
     Coverage = attr.ib(default=None)
 
 @attr.s
-class OurLanguage(Language):
+class CustomLanguage(Language):
     Name_in_Text = attr.ib(default=None)
     Name_in_Source = attr.ib(default=None)
     SubGroup = attr.ib(default=None)
@@ -24,11 +24,10 @@ class OurLanguage(Language):
     Source = attr.ib(default=None)
     Number = attr.ib(default=None)
 
-
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
-    concept_class = OurConcept
-    language_class = OurLanguage
+    concept_class = CustomConcept
+    language_class = CustomLanguage
     id = 'sagartst'
 
     def cmd_download(self, args):
@@ -38,64 +37,48 @@ class Dataset(BaseDataset):
     def cmd_makecldf(self, args):
         data = json.loads(self.raw_dir.joinpath('data.json').read_text(encoding='utf8'))
         wl = lingpy.Wordlist(str(self.raw_dir / 'sino-tibetan-raw.tsv'))
-        profile = {l[0]: l[1] for l in lingpy.csv2list(str(self.raw_dir / 'profile.tsv'))}
-
-        for idx, tokens in progressbar(wl.iter_rows('tokens'), desc='tokenize'):
-            tks = []
-            for token in tokens:
-                tks.extend(
-                    profile.get(
-                        token,
-                        profile.get(token.split('/')[1] if '/' in token else token, token)
-                    ).split(' '))
-            wl[idx, 'tokens'] = [x.strip() for x in tks if x != 'NULL' and x.strip()]
-
+        segments = json.loads(
+                self.etc_dir.joinpath('segments.json').read_text(encoding="utf8"))
         args.writer.add_sources()
-        args.writer.add_languages()
-        concept2id = {}
-        for c in self.conceptlists[0].concepts.values():
+        concepts = {}
+        for concept in self.conceptlists[0].concepts.values():
+            idx = concept.id.split('-')[-1] + "_" + slug(concept.english)
             args.writer.add_concept(
-                ID=c.concepticon_id,
-                TBL_ID=c.attributes['huang_1992_1820'],
-                Name=c.english,
-                Coverage=c.attributes['coverage'],
-                Concepticon_ID=c.concepticon_id
+                ID=idx,
+                TBL_ID=concept.attributes['huang_1992_1820'],
+                Name=concept.english,
+                Coverage=concept.attributes['coverage'],
+                Concepticon_ID=concept.concepticon_id,
+                Concepticon_Gloss=concept.concepticon_gloss
             )
-            concept2id[c.english] = c.concepticon_id
-
-        source_dict, langs_dict = {}, {}
-        for l in self.languages:
-            source_dict[l['Name']] = l['Source']
-            langs_dict[l['Name']] = l['ID']
-
-        wl.output(
-            'tsv',
-            filename=str(self.raw_dir / 'sino-tibetan-cleaned'),
-            subset=True,
-            rows={"ID": "not in "+str(data['blacklist'])}
-        )
-
-        for k in progressbar(wl, desc='wl-to-cldf'):
-            if wl[k, 'tokens']:
+            concepts[concept.english] = idx
+        languages, sources = {}, {}
+        for language in self.languages:
+            args.writer.add_language(**language)
+            languages[language['Name_in_Source']] = language['ID']
+            sources[language['Name_in_Source']] = language['Source']
+        for idx in progressbar(wl, desc='cldfify'):
+            if wl[idx, 'tokens']:
                 row = args.writer.add_form_with_segments(
-                    Language_ID=langs_dict.get(
-                        data['taxa'].get(wl[k, 'doculect'], wl[k, 'doculect'])),
-                    Parameter_ID=concept2id[wl[k, 'concept']],
-                    Value=wl[k, 'entry_in_source'].strip()
-                        or ''.join(wl[k, 'tokens']) or wl[k, 'ipa'],
-                    Form=wl[k, 'ipa'] or wl[k, 'entry_in_source'] or ''.join(wl[k, 'tokens']),
-                    Segments=wl[k, 'tokens'],
-                    Source=source_dict.get(data['taxa'].get(
-                        wl[k, 'doculect'], wl[k, 'doculect'])).split(','),
-                    Comment=wl[k, 'note'],
-                    Cognacy=wl[k, 'cogid'],
-                    Loan=True if wl[k,'borrowing'].strip() else False
+                    Language_ID=languages[wl[idx, 'doculect']],
+                    Parameter_ID=concepts[wl[idx, 'concept']],
+                    Value=wl[idx, 'entry_in_source'].strip()
+                        or ''.join(wl[idx, 'tokens']) or wl[idx, 'ipa'],
+                    Form=wl[idx, 'ipa'] or wl[idx, 'entry_in_source'] or ''.join(wl[idx, 'tokens']),
+                    Segments=' '.join(
+                        [segments.get(
+                            x,
+                            segments.get(x.split('/')[1] if '/' in x else x, x)
+                            ) for x in wl[idx, 'tokens']]).split(),
+                    Source=sources[wl[idx, 'doculect']].split(','),
+                    Comment=wl[idx, 'note'],
+                    Cognacy=wl[idx, 'cogid'],
+                    Loan=True if wl[idx,'borrowing'].strip() else False
                 )
 
-                cid = slug(wl[k, 'concept'])+'-'+'{0}'.format(wl[k, 'cogid'])
                 args.writer.add_cognate(
                     lexeme=row,
-                    Cognateset_ID=cid,
+                    Cognateset_ID=wl[idx, 'cogid'],
                     Source='Sagart2018',
                     Alignment='',
                     Alignment_Source=''

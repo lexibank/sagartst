@@ -74,11 +74,11 @@
 | f | 105 | ✓ | ✓ |
 | ɨ | 104 | ✓ | ✓ |
 | ʈʂ | 101 | ✓ | ✓ |
-| ă | 99 | ✓ | ✓ |
+| ă | 99 | ✓ | ✓ |
 | ch | 95 | ✓ | ✓ |
 | ng | 94 | ✓ | ✓ |
 | ʊ | 93 | ✓ | ✓ |
-| ĩ | 91 | ✓ | ✓ |
+| ĩ | 90 | ✓ | ✓ |
 | ɿ | 86 | ✓ | ✓ |
 | a̰ | 83 | ✓ | ✓ |
 | æ | 82 | ✓ | ✓ |
@@ -91,7 +91,6 @@
 | ⁴ | 66 | ✓ | ✓ |
 | ⁰ | 64 | ✓ | ✓ |
 | n̥ | 62 | ✓ | ✓ |
-| â/a | 59 | ✓ | ✓ |
 | ɲ | 59 | ✓ | ✓ |
 | ⁵² | 59 | ✓ | ✓ |
 | eː | 58 | ✓ | ✓ |
@@ -110,35 +109,34 @@
 | ³ | 45 | ✓ | ✓ |
 | ɛ̃ | 45 | ✓ | ✓ |
 | ¹¹ | 44 | ✓ | ✓ |
-| ā/aː | 42 | ✓ | ✓ |
+| ā/aː | 42 | ✓ | ✓ |
+| â/a | 40 | ✓ | ✓ |
 | ɴ | 40 | ✓ | ✓ |
-| ũ | 39 | ✓ | ✓ |
-| ṵ | 39 | ✓ | ✓ |
-| á/a | 38 | ✓ | ✓ |
+| ṵ | 39 | ✓ | ✓ |
 | ɵ | 38 | ✓ | ✓ |
 | C/ | 37 | ? | ? |
+| á/a | 37 | ✓ | ✓ |
 | ³² | 37 | ✓ | ✓ |
+| ã | 36 | ✓ | ✓ |
 | r̥ | 36 | ✓ | ✓ |
-| ã | 36 | ✓ | ✓ |
-| î/i | 36 | ✓ | ✓ |
+| ũ | 36 | ✓ | ✓ |
 | ɔː | 36 | ✓ | ✓ |
 | ʉ | 36 | ✓ | ✓ |
 | l̥ | 35 | ✓ | ✓ |
 | ṅ/n | 35 | ✓ | ✓ |
 | m̥ | 34 | ✓ | ✓ |
-| û/u | 34 | ✓ | ✓ |
 | a̠ | 33 | ✓ | ✓ |
+| õ | 33 | ✓ | ✓ |
 | o̠ | 33 | ✓ | ✓ |
 | q | 33 | ✓ | ✓ |
 | u̠ | 33 | ✓ | ✓ |
-| ê/e | 33 | ✓ | ✓ |
-| õ | 33 | ✓ | ✓ |
 | ʒ | 33 | ✓ | ✓ |
+| ê/e | 32 | ✓ | ✓ |
 | ɟ | 32 | ✓ | ✓ |
 | i̠ | 31 | ✓ | ✓ |
 | ²³ | 31 | ✓ | ✓ |
 | ɔ̰ | 31 | ✓ | ✓ |
-| à/a | 30 | ✓ | ✓ |
+| î/i | 30 | ✓ | ✓ |
 | ɑ̠ | 30 | ✓ | ✓ |
 | ɦ | 30 | ✓ | ✓ |
 | ᴇ/e | 30 | ✓ | ✓ |
@@ -146,63 +144,64 @@
 | ²³¹ | 29 | ✓ | ✓ |
 | ə̆ | 28 | ✓ | ✓ |
 | ɖʐ | 27 | ✓ | ✓ |
-| í/i | 26 | ✓ | ✓ |
+| à/a | 26 | ✓ | ✓ |
+| í/i | 26 | ✓ | ✓ |
 | ɛ̠ | 25 | ✓ | ✓ |
 | dʒ | 24 | ✓ | ✓ |
 | nʲ | 24 | ✓ | ✓ |
+| ú/u | 24 | ✓ | ✓ |
 | ²¹⁴/²¹ | 24 | ✓ | ✓ |
-| ú/u | 24 | ✓ | ✓ |
 | ō/oː | 24 | ✓ | ✓ |
 | ⁵⁴ | 24 | ✓ | ✓ |
 | ui | 23 | ✓ | ✓ |
+| û/u | 23 | ✓ | ✓ |
 | ɑ́ | 23 | ✓ | ✓ |
 | ɑ̂ | 23 | ✓ | ✓ |
-| è/e | 22 | ✓ | ✓ |
+| è/e | 22 | ✓ | ✓ |
 | ŋ̍ | 22 | ✓ | ✓ |
 | œ | 22 | ✓ | ✓ |
+| ç | 21 | ✓ | ✓ |
+| ḭ | 21 | ✓ | ✓ |
 | ¹³² | 21 | ✓ | ✓ |
-| ç | 21 | ✓ | ✓ |
-| ì/i | 21 | ✓ | ✓ |
-| ḭ | 21 | ✓ | ✓ |
-| é/e | 20 | ✓ | ✓ |
+| é/e | 20 | ✓ | ✓ |
 | ŋ̊ | 20 | ✓ | ✓ |
 | ⁵³/⁵⁵ | 20 | ✓ | ✓ |
+| ẽ | 19 | ✓ | ✓ |
+| ó/o | 19 | ✓ | ✓ |
 | o₂/o | 19 | ✓ | ✓ |
 | xʰ | 19 | ✓ | ✓ |
-| ó/o | 19 | ✓ | ✓ |
+| â/a | 19 | ✓ | ✓ |
 | ɛ̰ | 19 | ✓ | ✓ |
-| ẽ | 19 | ✓ | ✓ |
 | dh | 18 | ✓ | ✓ |
 | e̠ | 18 | ✓ | ✓ |
 | qʰ | 18 | ✓ | ✓ |
 | y/i | 18 | ✓ | ✓ |
-| âa/a | 18 | ✓ | ✓ |
 | ʅ | 18 | ✓ | ✓ |
 | c/tʃ | 17 | ✓ | ✓ |
 | cʰ | 17 | ✓ | ✓ |
 | m̩ | 17 | ✓ | ✓ |
 | nh | 17 | ✓ | ✓ |
-| ŏ | 17 | ✓ | ✓ |
+| ŏ | 17 | ✓ | ✓ |
 | ɽ | 17 | ✓ | ✓ |
 | kˤ | 16 | ✓ | ✓ |
-| ǎa/a | 16 | ✓ | ✓ |
 | ɕʰ | 16 | ✓ | ✓ |
 | ɘ | 16 | ✓ | ✓ |
-| cç | 15 | ✓ | ✓ |
+| cç | 15 | ✓ | ✓ |
 | nd | 15 | ✓ | ✓ |
-| ū | 15 | ✓ | ✓ |
+| ū | 15 | ✓ | ✓ |
 | ə́ | 15 | ✓ | ✓ |
-| cçʰ | 14 | ✓ | ✓ |
+| ò/o | 14 | ✓ | ✓ |
 | o̰ | 14 | ✓ | ✓ |
-| ò/o | 14 | ✓ | ✓ |
+| âa/a | 14 | ✓ | ✓ |
+| ǎa/a | 14 | ✓ | ✓ |
 | ɖ | 14 | ✓ | ✓ |
 | əː | 14 | ✓ | ✓ |
 | ʈ | 14 | ✓ | ✓ |
 | bh | 13 | ✓ | ✓ |
 | gh | 13 | ✓ | ✓ |
 | o₁/o | 13 | ✓ | ✓ |
+| ǽ/æ | 13 | ✓ | ✓ |
 | ǎ/a | 13 | ✓ | ✓ |
-| ǽ/æ | 13 | ✓ | ✓ |
 | ɔ̆ | 13 | ✓ | ✓ |
 | ə̰ | 13 | ✓ | ✓ |
 | ɬ | 13 | ✓ | ✓ |
@@ -211,7 +210,9 @@
 | æ̂ | 12 | ✓ | ✓ |
 | bʱ | 11 | ✓ | ✓ |
 | gˤ | 11 | ✓ | ✓ |
+| ì/i | 11 | ✓ | ✓ |
 | ²¹/³⁵ | 11 | ✓ | ✓ |
+| û/u | 11 | ✓ | ✓ |
 | ɛː | 11 | ✓ | ✓ |
 | ai | 10 | ✓ | ✓ |
 | dʱ | 10 | ✓ | ✓ |
@@ -219,6 +220,7 @@
 | mb | 10 | ✓ | ✓ |
 | rˤ | 10 | ✓ | ✓ |
 | tsˤ | 10 | ✓ | ✓ |
+| ì/i | 10 | ✓ | ✓ |
 | ɯ̠ | 10 | ✓ | ✓ |
 | ⁵³/³⁵ | 10 | ✓ | ✓ |
 | ⁵⁵/¹¹ | 10 | ✓ | ✓ |
@@ -228,36 +230,39 @@
 | ø̃ | 9 | ✓ | ✓ |
 | ɳ | 9 | ✓ | ✓ |
 | n̥ʲ | 8 | ✓ | ✓ |
-| àa/a | 8 | ✓ | ✓ |
-| ô/o | 8 | ✓ | ✓ |
+| ô/o | 8 | ✓ | ✓ |
+| ỹ | 8 | ✓ | ✓ |
 | ɑː | 8 | ✓ | ✓ |
 | ɛ̰̃ | 8 | ✓ | ✓ |
 | ɥ | 8 | ✓ | ✓ |
 | ɨɨ/ɨː | 8 | ✓ | ✓ |
 | ʌ̄ | 8 | ✓ | ✓ |
 | β | 8 | ✓ | ✓ |
-| ỹ | 8 | ✓ | ✓ |
 | a./a | 7 | ✓ | ✓ |
+| cçʰ | 7 | ✓ | ✓ |
+| cçʰ | 7 | ✓ | ✓ |
 | dzʰ | 7 | ✓ | ✓ |
 | h/ʔ | 7 | ✓ | ✓ |
 | tː | 7 | ✓ | ✓ |
 | tˤ | 7 | ✓ | ✓ |
+| ṵː | 7 | ✓ | ✓ |
 | ²¹⁴/³⁵ | 7 | ✓ | ✓ |
+| àa/a | 7 | ✓ | ✓ |
 | îi/i | 7 | ✓ | ✓ |
 | ȵ̥ | 7 | ✓ | ✓ |
 | ɢ | 7 | ✓ | ✓ |
 | ɢʷ | 7 | ✓ | ✓ |
 | ʔʲ | 7 | ✓ | ✓ |
-| ṵː | 7 | ✓ | ✓ |
 | ⁴⁵/³⁵ | 7 | ✓ | ✓ |
 | c/tʃʰ | 6 | ✓ | ✓ |
 | ei | 6 | ✓ | ✓ |
+| ḛ | 6 | ✓ | ✓ |
 | i./i | 6 | ✓ | ✓ |
 | u./u | 6 | ✓ | ✓ |
+| ù | 6 | ✓ | ✓ |
 | ³⁵/¹¹ | 6 | ✓ | ✓ |
-| ù | 6 | ✓ | ✓ |
+| î/i | 6 | ✓ | ✓ |
 | ʋ | 6 | ✓ | ✓ |
-| ḛ | 6 | ✓ | ✓ |
 | ị/i | 6 | ✓ | ✓ |
 | a̰ː | 5 | ✓ | ✓ |
 | gʱ | 5 | ✓ | ✓ |
@@ -270,19 +275,19 @@
 | pˤ | 5 | ✓ | ✓ |
 | tsʰˤ | 5 | ✓ | ✓ |
 | ññ/ɲ | 5 | ✓ | ✓ |
-| ûu/u | 5 | ✓ | ✓ |
 | ěe/e | 5 | ✓ | ✓ |
 | ŋg | 5 | ✓ | ✓ |
-| ǐ/i | 5 | ✓ | ✓ |
 | ǔ/u | 5 | ✓ | ✓ |
 | ɑ̟ | 5 | ✓ | ✓ |
 | ɔ̰̃ | 5 | ✓ | ✓ |
 | ɵ̂ | 5 | ✓ | ✓ |
 | ⁵/² | 5 | ✓ | ✓ |
 | aa/a | 4 | ✓ | ✓ |
+| âa/a | 4 | ✓ | ✓ |
 | bʰ | 4 | ✓ | ✓ |
 | dzʱ | 4 | ✓ | ✓ |
 | dʰ | 4 | ✓ | ✓ |
+| ĕ | 4 | ✓ | ✓ |
 | lˤ | 4 | ✓ | ✓ |
 | mh/m̥ | 4 | ✓ | ✓ |
 | ndz | 4 | ✓ | ✓ |
@@ -291,7 +296,7 @@
 | qˤ | 4 | ✓ | ✓ |
 | r/ɐ | 4 | ✓ | ✓ |
 | w/u | 4 | ✓ | ✓ |
-| ĕ | 4 | ✓ | ✓ |
+| à/a | 4 | ✓ | ✓ |
 | ŋˤ | 4 | ✓ | ✓ |
 | ə̰ː | 4 | ✓ | ✓ |
 | ɟʲ | 4 | ✓ | ✓ |
@@ -302,6 +307,7 @@
 | ạ/a | 4 | ✓ | ✓ |
 | ⁴⁴ | 4 | ✓ | ✓ |
 | au | 3 | ✓ | ✓ |
+| âː/aː | 3 | ✓ | ✓ |
 | dʒʰ | 3 | ✓ | ✓ |
 | dˤ | 3 | ✓ | ✓ |
 | gʰ | 3 | ✓ | ✓ |
@@ -313,10 +319,12 @@
 | uɑ | 3 | ✓ | ✓ |
 | ²/⁵ | 3 | ✓ | ✓ |
 | ²³/³⁵ | 3 | ✓ | ✓ |
-| âː/aː | 3 | ✓ | ✓ |
 | èe/e | 3 | ✓ | ✓ |
 | òo/o | 3 | ✓ | ✓ |
+| ûu/u | 3 | ✓ | ✓ |
 | ı̂/i | 3 | ✓ | ✓ |
+| ũ | 3 | ✓ | ✓ |
+| ǐ/i | 3 | ✓ | ✓ |
 | ǐi/i | 3 | ✓ | ✓ |
 | ə˞ | 3 | ✓ | ✓ |
 | ɛ̀ | 3 | ✓ | ✓ |
@@ -327,12 +335,21 @@
 | ʊ̃ː | 3 | ✓ | ✓ |
 | ⁵⁴/⁵⁵ | 3 | ✓ | ✓ |
 | ⁿdz | 3 | ✓ | ✓ |
+| àː/aː | 2 | ✓ | ✓ |
+| āː/aː | 2 | ✓ | ✓ |
+| ǎ | 2 | ✓ | ✓ |
+| ǎa/a | 2 | ✓ | ✓ |
 | bˤ | 2 | ✓ | ✓ |
 | d̺ | 2 | ✓ | ✓ |
 | e./e | 2 | ✓ | ✓ |
 | ee/e | 2 | ✓ | ✓ |
+| êː/eː | 2 | ✓ | ✓ |
+| ẽ̠ | 2 | ✓ | ✓ |
 | gʷˤ | 2 | ✓ | ✓ |
 | iɛ | 2 | ✓ | ✓ |
+| ĩː | 2 | ✓ | ✓ |
+| ǐ/i | 2 | ✓ | ✓ |
+| ḭː | 2 | ✓ | ✓ |
 | kk | 2 | ✓ | ✓ |
 | kʷˤ | 2 | ✓ | ✓ |
 | lʰ | 2 | ✓ | ✓ |
@@ -340,31 +357,27 @@
 | o./o | 2 | ✓ | ✓ |
 | oi | 2 | ✓ | ✓ |
 | oːi | 2 | ✓ | ✓ |
+| ôː/oː | 2 | ✓ | ✓ |
 | ps | 2 | ✓ | ✓ |
 | qh | 2 | ✓ | ✓ |
 | qʷʰˤ | 2 | ✓ | ✓ |
 | qʷˤ | 2 | ✓ | ✓ |
+| ùi/ui | 2 | ✓ | ✓ |
+| ûu/u | 2 | ✓ | ✓ |
+| ũː | 2 | ✓ | ✓ |
+| ǔ | 2 | ✓ | ✓ |
+| ǔu/u | 2 | ✓ | ✓ |
 | ²¹/³³ | 2 | ✓ | ✓ |
 | ³¹/¹¹ | 2 | ✓ | ✓ |
 | ¹³/⁵³ | 2 | ✓ | ✓ |
-| àː/aː | 2 | ✓ | ✓ |
 | êe/e | 2 | ✓ | ✓ |
-| êː/eː | 2 | ✓ | ✓ |
 | ìi/i | 2 | ✓ | ✓ |
-| ôː/oː | 2 | ✓ | ✓ |
 | ø̰ | 2 | ✓ | ✓ |
 | ù/u | 2 | ✓ | ✓ |
-| ùi/ui | 2 | ✓ | ✓ |
 | ùu/u | 2 | ✓ | ✓ |
-| āː/aː | 2 | ✓ | ✓ |
-| ĩː | 2 | ✓ | ✓ |
 | ı̀i/i | 2 | ✓ | ✓ |
 | ŋ̩ | 2 | ✓ | ✓ |
-| ũː | 2 | ✓ | ✓ |
-| ǎ | 2 | ✓ | ✓ |
 | ǒo/o | 2 | ✓ | ✓ |
-| ǔ | 2 | ✓ | ✓ |
-| ǔu/u | 2 | ✓ | ✓ |
 | ɑ̠̆ | 2 | ✓ | ✓ |
 | ɔ̰ː | 2 | ✓ | ✓ |
 | ɖh | 2 | ✓ | ✓ |
@@ -377,22 +390,28 @@
 | ɵ̂ː | 2 | ✓ | ✓ |
 | ʈʰ | 2 | ✓ | ✓ |
 | ʉː | 2 | ✓ | ✓ |
-| ḭː | 2 | ✓ | ✓ |
-| ẽ̠ | 2 | ✓ | ✓ |
 | ⁵³/¹¹ | 2 | ✓ | ✓ |
 | ⁵⁵/²¹ | 2 | ✓ | ✓ |
 | ← | 2 | ✓ | ✓ |
 | a/r | 1 | ✓ | ✓ |
 | aà/a | 1 | ✓ | ✓ |
+| àa/a | 1 | ✓ | ✓ |
+| ài | 1 | ✓ | ✓ |
+| ãː | 1 | ✓ | ✓ |
 | bʲ | 1 | ✓ | ✓ |
 | ch/tsʰ | 1 | ✓ | ✓ |
 | ch/tʃ | 1 | ✓ | ✓ |
 | dzˤ | 1 | ✓ | ✓ |
 | eˀ | 1 | ✓ | ✓ |
+| êe/eː | 1 | ✓ | ✓ |
+| ě | 1 | ✓ | ✓ |
 | e̱ː | 1 | ✓ | ✓ |
 | gʲ | 1 | ✓ | ✓ |
 | ie | 1 | ✓ | ✓ |
 | iˀ | 1 | ✓ | ✓ |
+| ìi/iː | 1 | ✓ | ✓ |
+| ĭ | 1 | ✓ | ✓ |
+| ĩ̠ | 1 | ✓ | ✓ |
 | kʰˤ | 1 | ✓ | ✓ |
 | kʲ | 1 | ✓ | ✓ |
 | kʲʰ | 1 | ✓ | ✓ |
@@ -405,6 +424,9 @@
 | o./a | 1 | ✓ | ✓ |
 | oo/a | 1 | ✓ | ✓ |
 | oo/o | 1 | ✓ | ✓ |
+| ôo/oː | 1 | ✓ | ✓ |
+| ǒ | 1 | ✓ | ✓ |
+| ŏ̰ | 1 | ✓ | ✓ |
 | pp | 1 | ✓ | ✓ |
 | r/i | 1 | ✓ | ✓ |
 | r/o | 1 | ✓ | ✓ |
@@ -424,6 +446,7 @@
 | ua | 1 | ✓ | ✓ |
 | uu/u | 1 | ✓ | ✓ |
 | uˀ | 1 | ✓ | ✓ |
+| ûː/uː | 1 | ✓ | ✓ |
 | xʷ | 1 | ✓ | ✓ |
 | yː | 1 | ✓ | ✓ |
 | zˤ | 1 | ✓ | ✓ |
@@ -433,25 +456,17 @@
 | ²¹⁴/⁵⁵ | 1 | ✓ | ✓ |
 | ³³/²⁴ | 1 | ✓ | ✓ |
 | ³³/⁵ | 1 | ✓ | ✓ |
-| ài | 1 | ✓ | ✓ |
-| ãː | 1 | ✓ | ✓ |
+| á/a | 1 | ✓ | ✓ |
 | çʰ | 1 | ✓ | ✓ |
-| êe/eː | 1 | ✓ | ✓ |
-| ìi/iː | 1 | ✓ | ✓ |
+| ê/e | 1 | ✓ | ✓ |
 | îi/a | 1 | ✓ | ✓ |
 | ôo/o | 1 | ✓ | ✓ |
-| ôo/oː | 1 | ✓ | ✓ |
-| ûː/uː | 1 | ✓ | ✓ |
-| ě | 1 | ✓ | ✓ |
 | ě/e | 1 | ✓ | ✓ |
-| ĩ̠ | 1 | ✓ | ✓ |
+| ĩ | 1 | ✓ | ✓ |
 | ī/iː | 1 | ✓ | ✓ |
-| ĭ | 1 | ✓ | ✓ |
 | ŋʷ | 1 | ✓ | ✓ |
 | ŋʷˤ | 1 | ✓ | ✓ |
 | ō₁/oː | 1 | ✓ | ✓ |
-| ŏ̰ | 1 | ✓ | ✓ |
-| ǒ | 1 | ✓ | ✓ |
 | ǒ/a | 1 | ✓ | ✓ |
 | ȶʃ | 1 | ✓ | ✓ |
 | ɑu | 1 | ✓ | ✓ |
@@ -486,7 +501,7 @@
 | ẹ/e | 1 | ✓ | ✓ |
 | ụ/u | 1 | ✓ | ✓ |
 
-(480 rows)
+(495 rows)
 
 
 
@@ -502,44 +517,44 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:------------------|:-----------|----------:|:-------------|:-----------------------------|
-| Lhasa-2003-1 | Lhasa | 2003 | tɕhu⁵⁵ Cu¹³² | tɕʰ u ⁵⁵ _ <s> C/ </s> u ¹³² |
-| OldChinese-1091-1 | OldChinese | 1091 | Cəgˤrom | <s> C/ </s> ə + gˤ r o m |
-| OldChinese-1150-1 | OldChinese | 1150 | Crˤuj | <s> C/ </s> + rˤ u j |
-| OldChinese-1172-1 | OldChinese | 1172 | Cəlᴀk←s | <s> C/ </s> ə + l ɑ̟ k + s |
-| OldChinese-1203-1 | OldChinese | 1203 | Cə→ɴ→traŋ | <s> C/ </s> ə + ɴ + t r a ŋ |
-| OldChinese-1218-1 | OldChinese | 1218 | Cə→mrəŋ | <s> C/ </s> ə + m r ə ŋ |
-| OldChinese-1226-1 | OldChinese | 1226 | Cnˤiŋ | <s> C/ </s> + nˤ i ŋ |
-| OldChinese-1244-1 | OldChinese | 1244 | Cəgˤoʔ | <s> C/ </s> ə + gˤ o ʔ |
-| OldChinese-1247-1 | OldChinese | 1247 | Cnəʔ | <s> C/ </s> + n ə ʔ |
-| OldChinese-1248-1 | OldChinese | 1248 | Cmuk | <s> C/ </s> + m u k |
-| OldChinese-1265-2 | OldChinese | 1265 | Cəkˤaw | <s> C/ </s> ə + kˤ a w |
-| OldChinese-1286-1 | OldChinese | 1286 | Cnat | <s> C/ </s> + n a t |
-| OldChinese-1287-3 | OldChinese | 1287 | Craŋ | <s> C/ </s> + r a ŋ |
-| OldChinese-1287-4 | OldChinese | 1287 | Cəgˤan | <s> C/ </s> ə + gˤ a n |
-| OldChinese-1343-1 | OldChinese | 1343 | Cnik | <s> C/ </s> + n i k |
-| OldChinese-1352-1 | OldChinese | 1352 | Ctˤaw | <s> C/ </s> + tˤ a w |
-| OldChinese-1393-1 | OldChinese | 1393 | Ckˤrok | <s> C/ </s> + kˤ r o k |
-| OldChinese-1396-1 | OldChinese | 1396 | Crit←s | <s> C/ </s> + r i t + s |
-| OldChinese-1405-1 | OldChinese | 1405 | Cmeŋ | <s> C/ </s> + m e ŋ |
-| OldChinese-1406-1 | OldChinese | 1406 | Cɢʷanʔ | <s> C/ </s> + ɢʷ a n ʔ |
-| OldChinese-1428-1 | OldChinese | 1428 | Cnan | <s> C/ </s> + n a n |
-| OldChinese-1441-1 | OldChinese | 1441 | Cəpər | <s> C/ </s> ə + p ə r |
-| OldChinese-1443-1 | OldChinese | 1443 | Cəgˤraŋ | <s> C/ </s> ə + gˤ r a ŋ |
-| OldChinese-1509-1 | OldChinese | 1509 | Cmər | <s> C/ </s> + m ə r |
-| OldChinese-189-1 | OldChinese | 189 | Cmˤaw | <s> C/ </s> + mˤ a w |
-| OldChinese-2112-1 | OldChinese | 2112 | Crˤuʔ | <s> C/ </s> + rˤ u ʔ |
-| OldChinese-2374-1 | OldChinese | 2374 | Cməŋ←s | <s> C/ </s> + m ə ŋ + s |
-| OldChinese-2376-1 | OldChinese | 2376 | Cgʷˤraŋ | <s> C/ </s> + gʷˤ r a ŋ |
-| OldChinese-319-1 | OldChinese | 319 | Cəleʔ | <s> C/ </s> ə + l e ʔ |
-| OldChinese-493-1 | OldChinese | 493 | Cŋˤaʔ | <s> C/ </s> + ŋˤ a ʔ |
-| OldChinese-606-2 | OldChinese | 606 | Cətsˤər←s | <s> C/ </s> ə + tsˤ ə r + s |
-| OldChinese-609-1 | OldChinese | 609 | Cbˤruk | <s> C/ </s> + bˤ r u k |
-| OldChinese-640-1 | OldChinese | 640 | Cnˤəj | <s> C/ </s> + nˤ ə j |
-| OldChinese-658-1 | OldChinese | 658 | Cɢʷaʔ | <s> C/ </s> + ɢʷ a ʔ |
-| OldChinese-667-1 | OldChinese | 667 | Cərˤak←s | <s> C/ </s> ə + rˤ a k + s |
-| OldChinese-730-1 | OldChinese | 730 | Cəlᴀj | <s> C/ </s> ə + l ɑ̟ j |
-| OldChinese-906-1 | OldChinese | 906 | Cmˤok | <s> C/ </s> + mˤ o k |
+|:---------------------------------------|:-----------|:--------------------------|:-------------|:-----------------------------|
+| Lhasa-60_toflow-1 | Lhasa | 60_toflow | tɕhu⁵⁵ Cu¹³² | tɕʰ u ⁵⁵ _ <s> C/ </s> u ¹³² |
+| OldChinese-107_knife-1 | OldChinese | 107_knife | Ctˤaw | <s> C/ </s> + tˤ a w |
+| OldChinese-115_tolick-1 | OldChinese | 115_tolick | Cəleʔ | <s> C/ </s> ə + l e ʔ |
+| OldChinese-120_long-1 | OldChinese | 120_long | Cə→ɴ→traŋ | <s> C/ </s> ə + ɴ + t r a ŋ |
+| OldChinese-130_themosquito-1 | OldChinese | 130_themosquito | Cmər | <s> C/ </s> + m ə r |
+| OldChinese-135_themud-1 | OldChinese | 135_themud | Cnˤəj | <s> C/ </s> + nˤ ə j |
+| OldChinese-137_thename-1 | OldChinese | 137_thename | Cmeŋ | <s> C/ </s> + m e ŋ |
+| OldChinese-147_oldofperson-1 | OldChinese | 147_oldofperson | Crˤuʔ | <s> C/ </s> + rˤ u ʔ |
+| OldChinese-156_therain-1 | OldChinese | 156_therain | Cɢʷaʔ | <s> C/ </s> + ɢʷ a ʔ |
+| OldChinese-163_theroad-1 | OldChinese | 163_theroad | Cərˤak←s | <s> C/ </s> ə + rˤ a k + s |
+| OldChinese-165_therope-1 | OldChinese | 165_therope | Cə→mrəŋ | <s> C/ </s> ə + m r ə ŋ |
+| OldChinese-169_salty-1 | OldChinese | 169_salty | Cəgˤrom | <s> C/ </s> ə + gˤ r o m |
+| OldChinese-176_sharp-1 | OldChinese | 176_sharp | Crit←s | <s> C/ </s> + r i t + s |
+| OldChinese-178_toshootanarrow-1 | OldChinese | 178_toshootanarrow | Cəlᴀk←s | <s> C/ </s> ə + l ɑ̟ k + s |
+| OldChinese-17_thebodyhairhairorfur-1 | OldChinese | 17_thebodyhairhairorfur | Cmˤaw | <s> C/ </s> + mˤ a w |
+| OldChinese-192_thesnake-1 | OldChinese | 192_thesnake | Cəlᴀj | <s> C/ </s> ə + l ɑ̟ j |
+| OldChinese-205_thesun-1 | OldChinese | 205_thesun | Cnik | <s> C/ </s> + n i k |
+| OldChinese-210_thick-1 | OldChinese | 210_thick | Cəgˤoʔ | <s> C/ </s> ə + gˤ o ʔ |
+| OldChinese-218_thethunder-1 | OldChinese | 218_thethunder | Crˤuj | <s> C/ </s> + rˤ u j |
+| OldChinese-21_toburnintransitive-1 | OldChinese | 21_toburnintransitive | Cnan | <s> C/ </s> + n a n |
+| OldChinese-224_thetree-1 | OldChinese | 224_thetree | Cmˤok | <s> C/ </s> + mˤ o k |
+| OldChinese-228_towalk-1 | OldChinese | 228_towalk | Cəgˤraŋ | <s> C/ </s> ə + gˤ r a ŋ |
+| OldChinese-245_theyear-1 | OldChinese | 245_theyear | Cnˤiŋ | <s> C/ </s> + nˤ i ŋ |
+| OldChinese-26_coldoftemperature-3 | OldChinese | 26_coldoftemperature | Craŋ | <s> C/ </s> + r a ŋ |
+| OldChinese-26_coldoftemperature-4 | OldChinese | 26_coldoftemperature | Cəgˤan | <s> C/ </s> ə + gˤ a n |
+| OldChinese-38_thedream-1 | OldChinese | 38_thedream | Cməŋ←s | <s> C/ </s> + m ə ŋ + s |
+| OldChinese-42_theear-1 | OldChinese | 42_theear | Cnəʔ | <s> C/ </s> + n ə ʔ |
+| OldChinese-49_theeye-1 | OldChinese | 49_theeye | Cmuk | <s> C/ </s> + m u k |
+| OldChinese-50_far-1 | OldChinese | 50_far | Cɢʷanʔ | <s> C/ </s> + ɢʷ a n ʔ |
+| OldChinese-57_five-1 | OldChinese | 57_five | Cŋˤaʔ | <s> C/ </s> + ŋˤ a ʔ |
+| OldChinese-62_toflymovethroughair-1 | OldChinese | 62_toflymovethroughair | Cəpər | <s> C/ </s> ə + p ə r |
+| OldChinese-77_thegrass-2 | OldChinese | 77_thegrass | Cətsˤər←s | <s> C/ </s> ə + tsˤ ə r + s |
+| OldChinese-79_thehail-1 | OldChinese | 79_thehail | Cbˤruk | <s> C/ </s> + bˤ r u k |
+| OldChinese-90_hightall-2 | OldChinese | 90_hightall | Cəkˤaw | <s> C/ </s> ə + kˤ a w |
+| OldChinese-93_horizontal-1 | OldChinese | 93_horizontal | Cgʷˤraŋ | <s> C/ </s> + gʷˤ r a ŋ |
+| OldChinese-94_thehornkeratinizedskin-1 | OldChinese | 94_thehornkeratinizedskin | Ckˤrok | <s> C/ </s> + kˤ r o k |
+| OldChinese-96_hot-1 | OldChinese | 96_hot | Cnat | <s> C/ </s> + n a t |
 
 (37 rows)
 

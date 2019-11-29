@@ -1,50 +1,43 @@
 appdirs==1.4.3
-atomicwrites==1.1.5
-bs4==0.0.1
-certifi==2018.4.16
+certifi==2019.11.28
 chardet==3.0.4
-cldfbench==1.0.1
-cldfcatalog==1.3.0
-clldutils==3.5.0
-colorlog==3.1.4
-configparser==3.5.0
+-e git+https://github.com/cldf/cldfbench/@f373855e3b9cde029578e77c26136f0df26a82fa#egg=cldfbench
+-e git+https://github.com/cldf/cldfcatalog@f26c9ac38c1ab111a55682ae83f4ac1cb03333c3#egg=cldfcatalog
+-e git+https://github.com/LinguList/clldutils.git@a862d78e9145a931dec172708afd25ffd9920f7d#egg=clldutils
+colorlog==4.0.2
 csvw==1.6.0
-dbfread==2.0.7
-decorator==4.3.0
-fuzzywuzzy==0.17.0
-idna==2.6
+decorator==4.4.1
+idna==2.8
 isodate==0.6.0
-jdcal==1.4
-lingpy==2.6.6
-lxml==4.2.3
-Markdown==2.6.11
-networkx==2.1
-newick==0.9.2
-numpy==1.14.3
-openpyxl==2.5.5
-pluggy==0.6.0
+jdcal==1.4.1
+-e git+https://github.com/lingpy/lingpy.git@fe7f07708bb95671c5552214f143aecf3d5ef520#egg=lingpy
+Markdown==3.1.1
+networkx==2.2
+newick==1.0.0
+numpy==1.17.4
+openpyxl==3.0.2
+packaging==19.2
+pluggy==0.13.1
 purl==1.5
-py==1.5.3
+py==1.8.0
 pybtex==0.22.2
 pycldf==1.9.0
-pyclts==2.0.0
-pyconcepticon==2.5.1
-pycountry==18.12.8
-pyglottolog==3.0.0
-pylexibank==2.1.0
-pytest==3.6.1
-regex==2018.2.21
+-e git+https://github.com/cldf-clts/pyclts@4842f1fd9613de6ef20a917dbc3bd723e8d0ffbb#egg=pyclts
+-e git+https://github.com/concepticon/pyconcepticon.git@4459760fde272b6bbae1bc5d4f4038fa4bcebb06#egg=pyconcepticon
+pycountry==19.8.18
+-e git+https://github.com/clld/pyglottolog.git@0f24f24a46d1f510c975337e4c0d8c23b357c8bd#egg=pyglottolog
+-e git+https://github.com/lexibank/pylexibank.git@434fa0890ba15e3f1a3ceb446edee0456b020bd2#egg=pylexibank
+pytest==5.3.1
+regex==2019.11.1
 requests==2.22.0
-rfc3986==1.1.0
+rfc3986==1.3.2
 segments==2.1.3
 six==1.13.0
-soupsieve==1.7.3
 SQLAlchemy==1.3.11
-tabulate==0.8.2
+tabulate==0.8.6
 termcolor==1.1.0
-tqdm==4.23.4
-Unidecode==1.0.22
+tqdm==4.39.0
 uritemplate==3.0.0
 urllib3==1.25.7
 wcwidth==0.1.7
-xlrd==1.1.0
+xlrd==1.2.0
