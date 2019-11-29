@@ -18,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/digling/sinotibetan-data",
-            "dc:created": "v1.1.0-10-g89e1cfc"
+            "dc:created": "v1.1.0-12-g1f18454"
         },
         {
             "rdf:type": "prov:Entity",
