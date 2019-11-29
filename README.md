@@ -8,9 +8,9 @@ This dataset is licensed under a GPL-3.0 license
 
 Available online at http://dighl.github.io/sinotibetan/
 
-Conceptlists in Concepticon:
-- [Sagart-2019-250](http://concepticon.clld.org/contributions/Sagart-2019-250)
 
+Conceptlists in Concepticon:
+- [Sagart-2019-250](https://concepticon.clld.org/contributions/Sagart-2019-250)
 ## Notes
 
 
@@ -19,7 +19,7 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
-
+[![Build Status](https://travis-ci.org/lexibank/sagartst.svg?branch=master)](https://travis-ci.org/lexibank/sagartst)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
