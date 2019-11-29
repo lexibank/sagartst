@@ -4,7 +4,7 @@ Cite the source dataset as
 
 > Laurent Sagart, Jacques, Guillaume, Yunfan Lai, and Johann-Mattis List (2019): Sino-Tibetan Database of Lexical Cognates. Jena, Max Planck Institute for the Science of Human History.
 
-This dataset is licensed under a GPL-3.0 license
+This dataset is licensed under a CC-BY-4.0 license
 
 Available online at http://dighl.github.io/sinotibetan/
 

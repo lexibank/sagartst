@@ -8,7 +8,7 @@
     ],
     "dc:identifier": "http://dighl.github.io/sinotibetan/",
     "dc:isVersionOf": null,
-    "dc:license": "http://www.opensource.org/licenses/GPL-3.0",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Sino-Tibetan Database of Lexical Cognates",
@@ -18,7 +18,13 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/sagartst",
-            "dc:created": "v1.1.0-4-g9488b83"
+            "dc:created": "v1.1.0-9-g15fc4f6"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "CLTS",
+            "rdf:about": "https://github.com/cldf-clts/clts",
+            "dc:created": "v1.4"
         },
         {
             "rdf:type": "prov:Entity",
@@ -31,12 +37,6 @@
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
             "dc:created": "v4.1"
-        },
-        {
-            "rdf:type": "prov:Entity",
-            "dc:title": "CLTS",
-            "rdf:about": "https://github.com/cldf-clts/clts",
-            "dc:created": "v1.4"
         }
     ],
     "prov:wasGeneratedBy": [
