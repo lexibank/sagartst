@@ -18,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/digling/sinotibetan-data",
-            "dc:created": "v1.1.0-14-g3fbfff3"
+            "dc:created": "v1.1.0-16-gd5da5ef"
         },
         {
             "rdf:type": "prov:Entity",
@@ -30,7 +30,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.3.0-11-g327397e"
+            "dc:created": "v2.3.0-29-g207180e"
         },
         {
             "rdf:type": "prov:Entity",
