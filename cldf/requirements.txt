@@ -1,49 +1,48 @@
 appdirs==1.4.3
-atomicwrites==1.3.0
 bs4==0.0.1
-certifi==2019.9.11
+certifi==2019.11.28
 chardet==3.0.4
--e git+https://github.com/cldf/cldfbench/@f373855e3b9cde029578e77c26136f0df26a82fa#egg=cldfbench
+-e git+https://github.com/cldf/cldfbench/@35218fae227ca24cb135d11606d338bb4b59255c#egg=cldfbench
 -e git+https://github.com/cldf/cldfcatalog@f26c9ac38c1ab111a55682ae83f4ac1cb03333c3#egg=cldfcatalog
 -e git+https://github.com/LinguList/clldutils.git@a862d78e9145a931dec172708afd25ffd9920f7d#egg=clldutils
-colorlog==4.0.2
+colorlog==4.1.0
 configparser==4.0.2
--e git+https://github.com/cldf/csvw.git@bcd398856fdfe6408567cc02c7ff8b67ba1c8e38#egg=csvw
-decorator==4.4.1
-idna==2.8
+-e git+https://github.com/cldf/csvw.git@2588b7f97105bfdc5ed7e31fba70be29f4e628f5#egg=csvw
+decorator==4.4.2
+gitdb==4.0.2
+idna==2.9
 isodate==0.6.0
 jdcal==1.4.1
--e git+https://github.com/lingpy/lingpy.git@fe7f07708bb95671c5552214f143aecf3d5ef520#egg=lingpy
-Markdown==3.1.1
+-e git+https://github.com/lingpy/lingpy.git@5d5cc32b5b02391ced9c91d53a5444696be4cf8f#egg=lingpy
+Markdown==3.2.1
 networkx==2.2
 newick==1.0.0
-numpy==1.17.4
-openpyxl==2.6.4
-packaging==19.2
-pathlib2==2.3.5
-pluggy==0.13.0
+numpy==1.18.1
+openpyxl==3.0.3
+packaging==20.3
+pluggy==0.13.1
 purl==1.5
-py==1.8.0
+py==1.8.1
 pybtex==0.22.2
-pycldf==1.8.2
+pycldf==1.13.0
 -e git+https://github.com/cldf-clts/pyclts@4842f1fd9613de6ef20a917dbc3bd723e8d0ffbb#egg=pyclts
--e git+https://github.com/concepticon/pyconcepticon.git@4459760fde272b6bbae1bc5d4f4038fa4bcebb06#egg=pyconcepticon
+-e git+https://github.com/concepticon/pyconcepticon.git@e98bb8c643f3aeb6474500f0173710d576627367#egg=pyconcepticon
 pycountry==19.8.18
 -e git+https://github.com/clld/pyglottolog.git@0f24f24a46d1f510c975337e4c0d8c23b357c8bd#egg=pyglottolog
--e git+https://github.com/lexibank/pylexibank.git@ca25c9e6d8f1a521896915c3830989dd09f59574#egg=pylexibank
-pytest==5.2.2
-regex==2019.11.1
-requests==2.22.0
+-e git+https://github.com/lexibank/pylexibank.git@2e5f817203b7f6067c34cac9065975adcafca85c#egg=pylexibank
+pytest==5.3.5
+regex==2020.2.20
+requests==2.23.0
 rfc3986==1.3.2
-segments==2.1.2
-six==1.13.0
-soupsieve==1.9.5
-SQLAlchemy==1.3.10
-tabulate==0.8.5
+segments==2.1.3
+six==1.14.0
+smmap==3.0.1
+soupsieve==2.0
+SQLAlchemy==1.3.13
+tabulate==0.8.6
 termcolor==1.1.0
-tqdm==4.38.0
-uritemplate==3.0.0
-urllib3==1.25.6
-wcwidth==0.1.7
+tqdm==4.43.0
+uritemplate==3.0.1
+urllib3==1.25.8
+wcwidth==0.1.8
 xlrd==1.2.0
-zipp==0.6.0

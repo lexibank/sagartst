@@ -20,6 +20,10 @@ setup(
             'sagartst=lexibank_sagartst:Dataset',
         ]
     },
+    extras_require={
+        'test': [
+            'pytest-cldf',
+        ]},
     install_requires=[
         'pylexibank>=2.1',
     ]
