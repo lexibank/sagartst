@@ -1,51 +1,51 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Name_in_Text,Name_in_Source,SubGroup,Coverage,Source,Number
-Achang,Burmish_Achang,acha1249,Longchuan Achang,acn,Eurasia,24.466605,97.89503,Sino-Tibetan,Achang,Achang_Longchuan,Burmish,197,"Huang1992,Hill2017",1
-Atsi,Burmish_Atsi,zaiw1241,Zaiwa,atb,Eurasia,24.193367,97.806689,Sino-Tibetan,Atsi,Atsi,Burmish,197,"Huang1992,Hill2017",2
-Bahing,Kiranti_Bahing,bahi1252,Bahing,bhj,Eurasia,27.309472,86.430334,Sino-Tibetan,Bahing,Bahing,Kiranti,178,Michailovsky1989,3
-Bantawa,Kiranti_Bantawa,bant1281,Bantawa,bap,Eurasia,27.117894,87.049995,Sino-Tibetan,Bantawa,Bantawa,Kiranti,195,Jongens2009,4
-Beijing,Sinitic_Beijing,beij1235,Beijingic,,,39.909056,116.397422,Sino-Tibetan,Beijing Chinese,Beijing,Sinitic,217,Lai2017FN,5
-Bokar,Tani_Bokar,boka1249,Bokar-Ramo,,Eurasia,27.554547,93.15717,Sino-Tibetan,Bokar,Bokar,Tani,225,Huang1992,6
-Bola,Burmish_Bola,pela1242,Pela,bxd,Eurasia,24.405004,98.234243,Sino-Tibetan,Bola,Bola,Burmish,214,"Huang1992,Hill2017",7
-Bunan,TibetoKinauri_Bunan,gahr1239,Bunan,bfu,Eurasia,32.554766,77.076283,Sino-Tibetan,Bunan,Bunan,Tibeto-Kinauri,216,Widmer2014,8
-Byangsi,TibetoKinauri_Byangsi,byan1241,Byangsi,bee,Eurasia,29.583838,80.22309,Sino-Tibetan,Byangsi,Byangsi,Tibeto-Kinauri,195,Sharma2003a,9
-Chaozhou,Sinitic_Chaozhou,chao1238,Chaozhou,,Eurasia,23.657699,116.622317,Sino-Tibetan,Chaozhou Chinese,Chaozhou,Sinitic,205,Lai2017FN,10
-Chepang,Chepang_Chepang,chep1245,Chepang,cdm,Eurasia,27.785164,84.908801,Sino-Tibetan,Chepang,Chepang,Chepang,202,Caughley2000,11
-Daofu,rGyalrong_Daofu,horp1240,Horpa,,,30.975281,101.123742,Sino-Tibetan,Daofu,Daofu,rGyalrong,223,Huang1992,12
-DarangTaraon,Deng_Darang_Taraon,diga1241,Tawra,mhu,Eurasia,28.657986,97.469136,Sino-Tibetan,Darang Taraon,Darang_Taraon,Deng,217,Huang1992,13
-Dulong,Nungic_Dulong,drun1238,Drung,duu,Eurasia,27.749017,98.691868,Sino-Tibetan,Dulong,Dulong,Nungic,224,Huang1992,14
-Garo,Garo_Garo,garo1247,Garo,grt,Eurasia,25.504744,90.333226,Sino-Tibetan,Garo,Garo,Garo,206,Burling2003,15
-Guangzhou,Sinitic_Guangzhou,guan1279,Guangzhou,,,23.131111,113.258099,Sino-Tibetan,Guangzhou Chinese,Guangzhou,Sinitic,218,Lai2017FN,16
-Hakha,Chin_Hakha,haka1240,Haka Chin,cnh,Eurasia,22.870089,92.820021,Sino-Tibetan,Hakha,Hakha_Chin,Chin,222,VanBik2014,17
-Hayu,Kiranti_Hayu,wayu1241,Wayu,vay,Eurasia,27.302102,86.099009,Sino-Tibetan,Hayu,Hayu,Kiranti,177,Michailovsky1989a,18
-Japhug,rGyalrong_Japhug,japh1234,Japhug,,Eurasia,32.207076,101.957636,Sino-Tibetan,Japhug,Japhug,rGyalrong,225,Jacques2015b,19
-Jieyang,Sinitic_Jieyang,chao1239,Chaoshan,,Eurasia,23.551122,116.373013,Sino-Tibetan,Jieyang Chinese,Jieyang,Sinitic,213,Lai2017FN,20
-Jingpho,Jingpho_Jingpho,jing1260,Jingpho,,,25.461826,97.329866,Sino-Tibetan,Jingpho,Jingpho,Jingpho,225,Huang1992,21
-Khaling,Kiranti_Khaling,khal1275,Khaling,klr,Eurasia,27.390595,87.510016,Sino-Tibetan,Khaling,Khaling,Kiranti,212,Jacques2017FN,22
-Kulung,Kiranti_Kulung,kulu1253,Kulung (Nepal),kle,Eurasia,27.690037,86.910944,Sino-Tibetan,Kulung,Kulung,Kiranti,195,Tolsma1999,23
-Lashi,Burmish_Lashi,lash1243,Lashi,lsi,Eurasia,24.111512,98.311333,Sino-Tibetan,Lashi,Lashi,Burmish,197,"Huang1992,Hill2017",24
-Limbu,Kiranti_Limbu,limb1266,Limbu,lif,Eurasia,27.272065,87.889909,Sino-Tibetan,Limbu,Limbu,Kiranti,198,Jacques2017FN,25
-Lisu,Loloish_Lisu,lisu1250,Lisu,lis,Eurasia,25.950046,98.848486,Sino-Tibetan,Lisu,Lisu,Loloish,224,Huang1992,26
-Longgang,Sinitic_Longgang,hakk1236,Hakka Chinese,hak,Eurasia,22.725545,114.243825,Sino-Tibetan,Longgang Chinese,Longgang,Sinitic,211,Lai2017FN,27
-Lushai,Mizo_Lushai,lush1249,Mizo,lus,Eurasia,22.60535,92.629457,Sino-Tibetan,Mizo (Lushai),Lushai,Mizo,200,Lorrain1940,28
-Maru,Burmish_Maru,maru1249,Maru,mhx,Eurasia,24.939981,99.83,Sino-Tibetan,Maru,Maru,Burmish,213,"Huang1992,Hill2017",29
-Mikir,Karbi,karb1241,Hills Karbi,mjw,Eurasia,25.735084,93.050494,Sino-Tibetan,Karbi (Mikir),Mikir,Mikir,179,"Walker1925,KonnerthFC,GruessnerNoDate",30
-MotuoMenba,Bodic_Tshangla,tsha1245,Tshangla,tsj,Eurasia,29.325414,95.340883,Sino-Tibetan,Tshangla,Motuo_Menba,Bodic,217,Huang1992,31
-OldBurmese,Burmish_Old_Burmese,oldb1235,Old Burmese,obr,Eurasia,21.624974,97.126742,Sino-Tibetan,Old Burmese,Old_Burmese,Burmish,214,Hill2017,32
-OldChinese,Sinitic_Old_Chinese,oldc1244,Old Chinese,och,Eurasia,34.101745,108.777868,Sino-Tibetan,Old Chinese,Old_Chinese,Sinitic,221,Baxter2014,33
-OldTibetan,Tibetan_Old_Tibetan,clas1254,Classical Tibetan,xct,Eurasia,30.027852,91.158704,Sino-Tibetan,Old Tibetan,Old_Tibetan,Tibetan,216,Huang1992,34
-Rabha,Rabha,rabh1238,Rabha,rah,Eurasia,25.820135,91.170064,Sino-Tibetan,Rabha,Rabha,Koch,171,Joseph2007,35
-Rangoon,Burmish_Rangoon,nucl1310,Burmese,mya,Eurasia,16.874207,96.190785,Sino-Tibetan,Rangoon Burmese,Rangoon,Burmish,216,"Huang1992,Hill2017",36
-Rongpo,Tibeto_Kinauri_Rongpo,rong1264,Rongpo,rnp,Eurasia,30.530044,79.569987,Sino-Tibetan,Rongpo,Rongpo,Tibeto-Kinauri,190,Sharma2003,37
-Tangut,Tangut,tang1334,Tangut,txg,Eurasia,38.477453,106.285383,Sino-Tibetan,Tangut,Tangut,Tangut,236,Li1997,38
-Thulung,Kiranti_Thulung,thul1246,Thulung,tdh,Eurasia,27.534944,87.609608,Sino-Tibetan,Thulung,Thulung,Kiranti,210,Allen1975,39
-Alike,Tibetan_Alike,amdo1237,Amdo Tibetan,adx,Eurasia,38.318508,92.839938,Sino-Tibetan,Alike Tibetan,Tibetan_Alike,Tibetan,209,Huang1992,40
-Batang,Tibetan_Batang,kham1282,Khams Tibetan,khg,Eurasia,30.00795,99.111944,Sino-Tibetan,Batang Tibetan,Tibetan_Batang,Tibetan,225,Huang1992,41
-Lhasa,Tibetan_Lhasa,utsa1239,Utsang,,Eurasia,29.653441,91.171493,Sino-Tibetan,Lhasa Tibetan,Tibetan_Lhasa,Tibetan,225,Huang1992,42
-Xiahe,Tibetan_Xiahe,amdo1237,Amdo Tibetan,adx,Eurasia,35.210549,102.524979,Sino-Tibetan,Xiahe Tibetan,Tibetan_Xiahe,Tibetan,225,Huang1992,43
-Ukhrul,Naga_Ukhrul,ukhr1238,Ukhrul,,Eurasia,25.092617,94.37045,Sino-Tibetan,Ukhrul,Ukhrul,Naga,247,Mortensen2012,44
-WobziKhroskyabs,Khroskyabs_Wobzi,eree1240,Ere (China),,Eurasia,31.62758,101.427999,Sino-Tibetan,Wobzi Khroskyabs,Wobzi_Khroskyabs,rGyalrong,224,Lai2017,45
-Xiandao,Burmish_Xiandao,xian1249,Xiandao,xia,Eurasia,24.494153,97.753173,Sino-Tibetan,Xiandao,Xiandao,Burmish,190,"Huang1992,Hill2017",46
-Xingning,Sinitic_Xingning,hakk1236,Hakka Chinese,hak,Eurasia,24.13674,115.732382,Sino-Tibetan,Xingning Chinese,Xingning,Sinitic,212,Lai2017FN,47
-Yidu,Deng_Yidu,idum1241,Idu,clk,Eurasia,29.448172,95.650179,Sino-Tibetan,Yidu,Yidu,Deng,213,Huang1992,48
-Zhaba,Qiangic_Zhaba,zhab1238,Zhaba,zhb,Eurasia,30.538892,101.058397,Sino-Tibetan,Zhaba,Zhaba_Daofu_County,Qiangic,224,Huang1992,49
-MaerkangrGyalrong,rGyalrong_Maerkang,situ1238,Situ,,Eurasia,31.868614,102.295293,Sino-Tibetan,Maerkang rGyalrong,rGyalrong_Maerkang,rGyalrong,225,Huang1992,50
+Achang,Burmish_Achang,acha1249,,,,24.466605,97.89503,,Achang,Achang_Longchuan,Burmish,197,"Huang1992,Hill2017",1
+Atsi,Burmish_Atsi,zaiw1241,,,,24.193367,97.806689,,Atsi,Atsi,Burmish,197,"Huang1992,Hill2017",2
+Bahing,Kiranti_Bahing,bahi1252,,,,27.309472,86.430334,,Bahing,Bahing,Kiranti,178,Michailovsky1989,3
+Bantawa,Kiranti_Bantawa,bant1281,,,,27.117894,87.049995,,Bantawa,Bantawa,Kiranti,195,Jongens2009,4
+Beijing,Sinitic_Beijing,beij1235,,,,39.909056,116.397422,,Beijing Chinese,Beijing,Sinitic,217,Lai2017FN,5
+Bokar,Tani_Bokar,boka1249,,,,27.554547,93.15717,,Bokar,Bokar,Tani,225,Huang1992,6
+Bola,Burmish_Bola,pela1242,,,,24.405004,98.234243,,Bola,Bola,Burmish,214,"Huang1992,Hill2017",7
+Bunan,TibetoKinauri_Bunan,gahr1239,,,,32.554766,77.076283,,Bunan,Bunan,Tibeto-Kinauri,216,Widmer2014,8
+Byangsi,TibetoKinauri_Byangsi,byan1241,,,,29.583838,80.22309,,Byangsi,Byangsi,Tibeto-Kinauri,195,Sharma2003a,9
+Chaozhou,Sinitic_Chaozhou,chao1238,,,,23.657699,116.622317,,Chaozhou Chinese,Chaozhou,Sinitic,205,Lai2017FN,10
+Chepang,Chepang_Chepang,chep1245,,,,27.785164,84.908801,,Chepang,Chepang,Chepang,202,Caughley2000,11
+Daofu,rGyalrong_Daofu,horp1240,,,,30.975281,101.123742,,Daofu,Daofu,rGyalrong,223,Huang1992,12
+DarangTaraon,Deng_Darang_Taraon,diga1241,,,,28.657986,97.469136,,Darang Taraon,Darang_Taraon,Deng,217,Huang1992,13
+Dulong,Nungic_Dulong,drun1238,,,,27.749017,98.691868,,Dulong,Dulong,Nungic,224,Huang1992,14
+Garo,Garo_Garo,garo1247,,,,25.504744,90.333226,,Garo,Garo,Garo,206,Burling2003,15
+Guangzhou,Sinitic_Guangzhou,guan1279,,,,23.131111,113.258099,,Guangzhou Chinese,Guangzhou,Sinitic,218,Lai2017FN,16
+Hakha,Chin_Hakha,haka1240,,,,22.870089,92.820021,,Hakha,Hakha_Chin,Chin,222,VanBik2014,17
+Hayu,Kiranti_Hayu,wayu1241,,,,27.302102,86.099009,,Hayu,Hayu,Kiranti,177,Michailovsky1989a,18
+Japhug,rGyalrong_Japhug,japh1234,,,,32.207076,101.957636,,Japhug,Japhug,rGyalrong,225,Jacques2015b,19
+Jieyang,Sinitic_Jieyang,chao1239,,,,23.551122,116.373013,,Jieyang Chinese,Jieyang,Sinitic,213,Lai2017FN,20
+Jingpho,Jingpho_Jingpho,jing1260,,,,25.461826,97.329866,,Jingpho,Jingpho,Jingpho,225,Huang1992,21
+Khaling,Kiranti_Khaling,khal1275,,,,27.390595,87.510016,,Khaling,Khaling,Kiranti,212,Jacques2017FN,22
+Kulung,Kiranti_Kulung,kulu1253,,,,27.690037,86.910944,,Kulung,Kulung,Kiranti,195,Tolsma1999,23
+Lashi,Burmish_Lashi,lash1243,,,,24.111512,98.311333,,Lashi,Lashi,Burmish,197,"Huang1992,Hill2017",24
+Limbu,Kiranti_Limbu,limb1266,,,,27.272065,87.889909,,Limbu,Limbu,Kiranti,198,Jacques2017FN,25
+Lisu,Loloish_Lisu,lisu1250,,,,25.950046,98.848486,,Lisu,Lisu,Loloish,224,Huang1992,26
+Longgang,Sinitic_Longgang,hakk1236,,,,22.725545,114.243825,,Longgang Chinese,Longgang,Sinitic,211,Lai2017FN,27
+Lushai,Mizo_Lushai,lush1249,,,,22.60535,92.629457,,Mizo (Lushai),Lushai,Mizo,200,Lorrain1940,28
+Maru,Burmish_Maru,maru1249,,,,24.939981,99.83,,Maru,Maru,Burmish,213,"Huang1992,Hill2017",29
+Mikir,Karbi,karb1241,,,,25.735084,93.050494,,Karbi (Mikir),Mikir,Mikir,179,"Walker1925,KonnerthFC,GruessnerNoDate",30
+MotuoMenba,Bodic_Tshangla,tsha1245,,,,29.325414,95.340883,,Tshangla,Motuo_Menba,Bodic,217,Huang1992,31
+OldBurmese,Burmish_Old_Burmese,oldb1235,,,,21.624974,97.126742,,Old Burmese,Old_Burmese,Burmish,214,Hill2017,32
+OldChinese,Sinitic_Old_Chinese,oldc1244,,,,34.101745,108.777868,,Old Chinese,Old_Chinese,Sinitic,221,Baxter2014,33
+OldTibetan,Tibetan_Old_Tibetan,clas1254,,,,30.027852,91.158704,,Old Tibetan,Old_Tibetan,Tibetan,216,Huang1992,34
+Rabha,Rabha,rabh1238,,,,25.820135,91.170064,,Rabha,Rabha,Koch,171,Joseph2007,35
+Rangoon,Burmish_Rangoon,nucl1310,,,,16.874207,96.190785,,Rangoon Burmese,Rangoon,Burmish,216,"Huang1992,Hill2017",36
+Rongpo,Tibeto_Kinauri_Rongpo,rong1264,,,,30.530044,79.569987,,Rongpo,Rongpo,Tibeto-Kinauri,190,Sharma2003,37
+Tangut,Tangut,tang1334,,,,38.477453,106.285383,,Tangut,Tangut,Tangut,236,Li1997,38
+Thulung,Kiranti_Thulung,thul1246,,,,27.534944,87.609608,,Thulung,Thulung,Kiranti,210,Allen1975,39
+Alike,Tibetan_Alike,amdo1237,,,,38.318508,92.839938,,Alike Tibetan,Tibetan_Alike,Tibetan,209,Huang1992,40
+Batang,Tibetan_Batang,kham1282,,,,30.00795,99.111944,,Batang Tibetan,Tibetan_Batang,Tibetan,225,Huang1992,41
+Lhasa,Tibetan_Lhasa,utsa1239,,,,29.653441,91.171493,,Lhasa Tibetan,Tibetan_Lhasa,Tibetan,225,Huang1992,42
+Xiahe,Tibetan_Xiahe,amdo1237,,,,35.210549,102.524979,,Xiahe Tibetan,Tibetan_Xiahe,Tibetan,225,Huang1992,43
+Ukhrul,Naga_Ukhrul,ukhr1238,,,,25.092617,94.37045,,Ukhrul,Ukhrul,Naga,247,Mortensen2012,44
+WobziKhroskyabs,Khroskyabs_Wobzi,eree1240,,,,31.62758,101.427999,,Wobzi Khroskyabs,Wobzi_Khroskyabs,rGyalrong,224,Lai2017,45
+Xiandao,Burmish_Xiandao,xian1249,,,,24.494153,97.753173,,Xiandao,Xiandao,Burmish,190,"Huang1992,Hill2017",46
+Xingning,Sinitic_Xingning,hakk1236,,,,24.13674,115.732382,,Xingning Chinese,Xingning,Sinitic,212,Lai2017FN,47
+Yidu,Deng_Yidu,idum1241,,,,29.448172,95.650179,,Yidu,Yidu,Deng,213,Huang1992,48
+Zhaba,Qiangic_Zhaba,zhab1238,,,,30.538892,101.058397,,Zhaba,Zhaba_Daofu_County,Qiangic,224,Huang1992,49
+MaerkangrGyalrong,rGyalrong_Maerkang,situ1238,,,,31.868614,102.295293,,Maerkang rGyalrong,rGyalrong_Maerkang,rGyalrong,225,Huang1992,50

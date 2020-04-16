@@ -58,6 +58,7 @@ class Dataset(BaseDataset):
             if wl[idx, 'tokens']:
                 row = args.writer.add_form(
                     Language_ID=languages[wl[idx, 'doculect']],
+                    Local_ID=idx,
                     Parameter_ID=concepts[wl[idx, 'concept']],
                     Value=wl[idx, 'entry_in_source'].strip()
                         or ''.join(wl[idx, 'tokens']) or wl[idx, 'ipa'],
