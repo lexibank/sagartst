@@ -1,8 +1,8 @@
 {
     "url": "http://dighl.github.io/sinotibetan/",
-    "citation": "Laurent Sagart, Jacques, Guillaume, Yunfan Lai, and Johann-Mattis List (2019): Sino-Tibetan Database of Lexical Cognates. Jena, Max Planck Institute for the Science of Human History.",
+    "citation": "Laurent Sagart, Jacques, Guillaume, Yunfan Lai, and Johann-Mattis List (2019): Sino-Tibetan Database of Lexical Cognates. Jena: Max Planck Institute for the Science of Human History.",
     "license": "CC-BY-4.0",
     "conceptlist": "Sagart-2019-250",
     "patron": "Johann-Mattis List",
-    "title": "Sino-Tibetan Database of Lexical Cognates"
+    "title": "CLDF dataset derived from Sagart et al.'s \"Sino-Tibetan Database of Lexical Cognates\" from 2019"
 }

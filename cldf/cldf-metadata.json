@@ -1,7 +1,7 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Laurent Sagart, Jacques, Guillaume, Yunfan Lai, and Johann-Mattis List (2019): Sino-Tibetan Database of Lexical Cognates. Jena, Max Planck Institute for the Science of Human History.",
+    "dc:bibliographicCitation": "Laurent Sagart, Jacques, Guillaume, Yunfan Lai, and Johann-Mattis List (2019): Sino-Tibetan Database of Lexical Cognates. Jena: Max Planck Institute for the Science of Human History.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": [
         "http://concepticon.clld.org/contributions/Sagart-2019-250"
@@ -11,14 +11,14 @@
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Sino-Tibetan Database of Lexical Cognates",
+    "dc:title": "CLDF dataset derived from Sagart et al.'s \"Sino-Tibetan Database of Lexical Cognates\" from 2019",
     "dcat:accessURL": "https://github.com/digling/sinotibetan-data",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/digling/sinotibetan-data",
-            "dc:created": "v1.1.0-16-gd5da5ef"
+            "dc:created": "v1.1.0-19-gc2e5783"
         },
         {
             "rdf:type": "prov:Entity",
@@ -30,7 +30,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.3.0-29-g207180e"
+            "dc:created": "v2.3.0-53-g324a045"
         },
         {
             "rdf:type": "prov:Entity",
@@ -118,6 +118,14 @@
                     {
                         "datatype": "boolean",
                         "name": "Loan"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Graphemes"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Profile"
                     }
                 ],
                 "foreignKeys": [

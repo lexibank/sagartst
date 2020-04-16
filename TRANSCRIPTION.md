@@ -486,7 +486,7 @@
 ## Unsegmentable lexemes (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM |
-||
+|------|------------|-----------|--------|
 
 (0 rows)
 

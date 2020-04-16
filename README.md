@@ -1,8 +1,8 @@
-# Sino-Tibetan Database of Lexical Cognates
+# CLDF dataset derived from Sagart et al.'s "Sino-Tibetan Database of Lexical Cognates" from 2019
 
 Cite the source dataset as
 
-> Laurent Sagart, Jacques, Guillaume, Yunfan Lai, and Johann-Mattis List (2019): Sino-Tibetan Database of Lexical Cognates. Jena, Max Planck Institute for the Science of Human History.
+> Laurent Sagart, Jacques, Guillaume, Yunfan Lai, and Johann-Mattis List (2019): Sino-Tibetan Database of Lexical Cognates. Jena: Max Planck Institute for the Science of Human History.
 
 This dataset is licensed under a CC-BY-4.0 license
 
@@ -37,3 +37,14 @@ Conceptlists in Concepticon:
 - **Tokens:** 60,541
 - **Segments:** 473 (1 BIPA errors, 1 CTLS sound class errors, 466 CLTS modified)
 - **Inventory size (avg):** 51.54
+
+# Contributors
+
+Name | GitHub user | Description | Role
+--- | --- | --- | ---
+Laurent Sagart | | cognate coding | Author
+Guillaume Jacques | | cognate coding | Author
+Yunfan Lai | | data managment | Author
+Johann-Mattis List | @LinguList | maintainer | Author
+
+
