@@ -15,6 +15,7 @@ idna==2.9
 isodate==0.6.0
 jdcal==1.4.1
 kiwisolver==1.2.0
+-e git+https://github.com/lingpy/lexibase.git@75bd8ce7f16c8f225a8a71d3ccb4da9e4c9a49fc#egg=lexibase
 -e git+https://github.com/lingpy/lingpy.git@5d5cc32b5b02391ced9c91d53a5444696be4cf8f#egg=lingpy
 -e git+https://github.com/lingpy/lingrex.git@03db1c4766c3d17559bd4a7f805959d5afb676b9#egg=lingrex
 Markdown==3.2.1

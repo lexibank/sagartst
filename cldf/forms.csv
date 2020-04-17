@@ -3273,7 +3273,7 @@ Lisu-12_thebird-1,23244,Lisu,12_thebird,niɛ³⁵khɯ³³,n.iɛ.³⁵,n iɛ ³�
 Batang-83_heorshethirdpersonsingular-1,23245,Batang,83_heorshethirdpersonsingular,khᴜ⁵³,kʰ.ᴜ.⁵³,kʰ u ⁵³,,Huang1992,788,false,^ kʰ . ᴜ . ⁵³ $,default
 Bokar-237_thewife-1,23247,Bokar,237_thewife,me |jaŋ,m.e._.j.a.ŋ,m e + j a ŋ,!,Huang1992,2927,false,^ m . e . _ . j . a. ŋ $,default
 Bokar-65_theforest-1,23248,Bokar,65_theforest,a tiː,a.+.t.iː,a + t iː,,Huang1992,2619,false,^ a. + . t . iː $,default
-Lhasa-60_toflow-1,23249,Lhasa,60_toflow,tɕhu⁵⁵ Cu¹³²,tɕʰ.u.⁵⁵._.C.u.¹³²,tɕʰ u ⁵⁵ + C/ u ¹³²,,Huang1992,2620,false,^ tɕʰ . u . ⁵⁵ . _ . C . u . ¹³² $,default
+Lhasa-60_toflow-1,23249,Lhasa,60_toflow,tɕhu⁵⁵ Cu¹³²,tɕʰ.u.⁵⁵._.C.u.¹³²,tɕʰ u ⁵⁵ + C/k u ¹³²,,Huang1992,2620,false,^ tɕʰ . u . ⁵⁵ . _ . C . u . ¹³² $,default
 Lisu-196_thesparrow-1,23250,Lisu,196_thesparrow,wɑ³¹lɑ³¹,d.ʑ.ɛ̱.³³.t.ɕh.ɑ.³¹,d ʑ ɛ̠ ³³ t ɕʰ ɑ ³¹,,Huang1992,0,false,^ d . ʑ . ɛ̱ . ³³ . t . ɕh . ɑ . ³¹ $,default
 Dulong-233_thewheat-1,23251,Dulong,233_thewheat,ɑ⁵⁵dʑuŋ⁵⁵,ɑ.⁵⁵.◦.dʑ.u.ŋ.⁵⁵,ɑ ⁵⁵ + dʑ u ŋ ⁵⁵,,Huang1992,3242,false,^ ɑ . ⁵⁵ . ◦ . dʑ . u . ŋ . ⁵⁵ $,default
 Xiahe-18_thebone-1,23257,Xiahe,18_thebone,rə pa,r.ə._.p.a,r ə + p a,,Huang1992,2,false,^ r . ə . _ . p . a $,default
@@ -4592,19 +4592,19 @@ OldChinese-14_black-1,30771,OldChinese,14_black,*[ts]rə,ts.r.ə,ts r ə,!remove
 OldChinese-14_black-2,30772,OldChinese,14_black,*m̥ˤək,m̥ˤ.ə.k,m̥ˤ ə k,,Baxter2014,519,false,^ m̥ˤ . ə . k $,default
 OldChinese-15_theblood-1,30773,OldChinese,15_theblood,*m̥ˤik,m̥ˤ.i.k,m̥ˤ i k,,Baxter2014,1715,false,^ m̥ˤ . i . k $,default
 OldChinese-16_toblowofwind-1,30774,OldChinese,16_toblowofwind,*tʰo[r],tʰ.o.r,tʰ o./o r,,Baxter2014,3157,false,^ tʰ . o. r $,default
-OldChinese-17_thebodyhairhairorfur-1,30775,OldChinese,17_thebodyhairhairorfur,*C.mˤaw,C/.+.mˤ.a.w,C/ + mˤ a w,also on head,Baxter2014,10163,false,^ C/ . + . mˤ . a. w $,default
+OldChinese-17_thebodyhairhairorfur-1,30775,OldChinese,17_thebodyhairhairorfur,*C.mˤaw,C/.+.mˤ.a.w,C/k + mˤ a w,also on head,Baxter2014,10163,false,^ C/ . + . mˤ . a. w $,default
 OldChinese-18_thebone-1,30776,OldChinese,18_thebone,*kˤut,kˤ.u.t,kˤ u t,,Baxter2014,1716,false,^ kˤ . u . t $,default
 OldChinese-19_thebranch-1,30777,OldChinese,19_thebranch,*ke,k.e,k e,,Baxter2014,1718,false,^ k . e $,default
 OldChinese-20_thebreastfemale-1,30778,OldChinese,20_thebreastfemale,*noʔ,n.o.ʔ,n o./o ʔ,,Baxter2014,10186,false,^ n . o. ʔ $,default
-OldChinese-21_toburnintransitive-1,30779,OldChinese,21_toburnintransitive,*C.na[n],C/.+.n.a.n,C/ + n a n,"final -n is between square brackets, probably -r based on the series",Baxter2014,3619,false,^ C/ . + . n . a. n $,default
+OldChinese-21_toburnintransitive-1,30779,OldChinese,21_toburnintransitive,*C.na[n],C/.+.n.a.n,C/k + n a n,"final -n is between square brackets, probably -r based on the series",Baxter2014,3619,false,^ C/ . + . n . a. n $,default
 OldChinese-22_tobuy-1,30780,OldChinese,22_tobuy,*mˤrajʔ,mˤ.r.a.j.ʔ,mˤ r a j ʔ,,Baxter2014,685,false,^ mˤ . r . a. j . ʔ $,default
 OldChinese-23_tochew-1,30781,OldChinese,23_tochew,*[dz]ewk-s,dz.e.w.k.+.s,dz e w k + s,,Baxter2014,1884,false,^ dz . e . w . k . + . s $,default
 OldChinese-24_thechildyounghuman-1,30782,OldChinese,24_thechildyounghuman,*ŋe,ŋ.e,ŋ e,,Baxter2014,3709,false,^ ŋ . e $,default
 OldChinese-25_thecloud-1,30783,OldChinese,25_thecloud,*[ɢ]ʷə[n],ɢʷ.ə.n,ɢʷ ə n,,Baxter2014,1721,false,^ ɢʷ . ə . n $,default
 OldChinese-26_coldoftemperature-1,30784,OldChinese,26_coldoftemperature,*[tsʰ]eŋ-s,tsʰ.e.ŋ.+.s,tsʰ e ŋ + s,!remove!,Baxter2014,3620,false,^ tsʰ . e . ŋ . + . s $,default
 OldChinese-26_coldoftemperature-2,30785,OldChinese,26_coldoftemperature,*[tsʰ]ˤaŋ,tsʰˤ.a.ŋ,tsʰˤ a ŋ,!remove!,Baxter2014,3621,false,^ tsʰˤ . a. ŋ $,default
-OldChinese-26_coldoftemperature-3,30786,OldChinese,26_coldoftemperature,*C.raŋ,C/.+.r.a.ŋ,C/ + r a ŋ,WT grang-ba,Baxter2014,933,false,^ C/ . + . r . a. ŋ $,default
-OldChinese-26_coldoftemperature-4,30787,OldChinese,26_coldoftemperature,*Cə.[g]ˤa[n],C/.ə.+.gˤ.a.n,C/ ə + gˤ a n,!remove!,Baxter2014,2663,false,^ C/ . ə . + . gˤ . a. n $,default
+OldChinese-26_coldoftemperature-3,30786,OldChinese,26_coldoftemperature,*C.raŋ,C/.+.r.a.ŋ,C/k + r a ŋ,WT grang-ba,Baxter2014,933,false,^ C/ . + . r . a. ŋ $,default
+OldChinese-26_coldoftemperature-4,30787,OldChinese,26_coldoftemperature,*Cə.[g]ˤa[n],C/.ə.+.gˤ.a.n,C/k ə + gˤ a n,!remove!,Baxter2014,2663,false,^ C/ . ə . + . gˤ . a. n $,default
 OldChinese-26_coldoftemperature-5,30788,OldChinese,26_coldoftemperature,*[r]ˤeŋʔ,rˤ.e.ŋ.ʔ,rˤ e ŋ ʔ,!remove!,Baxter2014,933,false,^ rˤ . e . ŋ . ʔ $,default
 OldChinese-27_tocome-1,30789,OldChinese,27_tocome,*mə.rˤək,m.ə.+.rˤ.ə.k,m ə + rˤ ə k,,Baxter2014,3410,false,^ m . ə . + . rˤ . ə . k $,default
 OldChinese-28_correctright-1,30790,OldChinese,28_correctright,*teŋ-s,t.e.ŋ.+.s,t e ŋ + s,,Baxter2014,3695,false,^ t . e . ŋ . + . s $,default
@@ -4618,11 +4618,11 @@ OldChinese-35_todig-1,30797,OldChinese,35_todig,*[g]ot,g.o.t,g o./o t,perhaps al
 OldChinese-35_todig-2,30798,OldChinese,35_todig,*[g]ˤut,gˤ.u.t,gˤ u t,!remove!,Baxter2014,3622,false,^ gˤ . u . t $,default
 OldChinese-36_dirty-1,30799,OldChinese,36_dirty,*qʷˤra,qʷˤ.r.a,qʷˤ r a,,Baxter2014,1876,false,^ qʷˤ . r . a $,default
 OldChinese-37_thedog-1,30800,OldChinese,37_thedog,*[k]ʷʰˤ[e][n]ʔ,kʷʰˤ.e.n.ʔ,kʷʰˤ e n ʔ,Probably kwh!ir?,Baxter2014,2065,false,^ kʷʰˤ . e . n . ʔ $,default
-OldChinese-38_thedream-1,30801,OldChinese,38_thedream,*C.məŋ-s,C/.+.m.ə.ŋ.+.s,C/ + m ə ŋ + s,,Baxter2014,10217,false,^ C/ . + . m . ə . ŋ . + . s $,default
+OldChinese-38_thedream-1,30801,OldChinese,38_thedream,*C.məŋ-s,C/.+.m.ə.ŋ.+.s,C/k + m ə ŋ + s,,Baxter2014,10217,false,^ C/ . + . m . ə . ŋ . + . s $,default
 OldChinese-39_todrink-1,30802,OldChinese,39_todrink,*q(r)[u]mʔ,q.u.m.ʔ,q u m ʔ,,Baxter2014,1898,false,^ q . u . m . ʔ $,default
 OldChinese-40_dry-1,30803,OldChinese,40_dry,*[k]ˤar,kˤ.a.r,kˤ a r,,Baxter2014,1636,false,^ kˤ . a. r $,default
 OldChinese-41_thedust-1,30804,OldChinese,41_thedust,*[d]rə[n],d.r.ə.n,d r ə n,,Baxter2014,507,false,^ d . r . ə . n $,default
-OldChinese-42_theear-1,30805,OldChinese,42_theear,*C.nəʔ,C/.+.n.ə.ʔ,C/ + n ə ʔ,,Baxter2014,32,false,^ C/ . + . n . ə . ʔ $,default
+OldChinese-42_theear-1,30805,OldChinese,42_theear,*C.nəʔ,C/.+.n.ə.ʔ,C/k + n ə ʔ,,Baxter2014,32,false,^ C/ . + . n . ə . ʔ $,default
 OldChinese-43_early-1,30806,OldChinese,43_early,*Nə.tsˤuʔ,ɴ.ə.+.tsˤ.u.ʔ,ɴ ə + tsˤ u ʔ,,Baxter2014,1638,false,^ ɴ . ə . + . tsˤ . u . ʔ $,default
 OldChinese-44_theearthsoil-1,30807,OldChinese,44_theearthsoil,*tʰˤaʔ,tʰˤ.a.ʔ,tʰˤ a ʔ,,Baxter2014,1732,false,^ tʰˤ . a. ʔ $,default
 OldChinese-45_theearthworm-1,30808,OldChinese,45_theearthworm,*[ɢ](r)ə[r]ʔ,ɢ.ə.r.ʔ,ɢ ə r ʔ,,Baxter2014,1736,false,^ ɢ . ə . r . ʔ $,default
@@ -4630,22 +4630,22 @@ OldChinese-46_toeat-1,30809,OldChinese,46_toeat,*mə-lək,m.ə.+.l.ə.k,m ə + l
 OldChinese-47_theegg-1,30810,OldChinese,47_theegg,*k.rˤorʔ,k.rˤ.o.r.ʔ,k rˤ o./o r ʔ,written and spoken but more literary than thur,Baxter2014,1739,false,^ k . rˤ . o. r . ʔ $,default
 OldChinese-47_theegg-2,30811,OldChinese,47_theegg,*tʰu[r],tʰ.u.r,tʰ u r,"unwritten. Limited to Hakka, Cantonese and some unclassified dialects and patois of the Chinese SE.",Baxter2014,3399,false,^ tʰ . u . r $,default
 OldChinese-48_eight-1,30812,OldChinese,48_eight,*pˤret,pˤ.r.e.t,pˤ r e t,,Baxter2014,183,false,^ pˤ . r . e . t $,default
-OldChinese-49_theeye-1,30813,OldChinese,49_theeye,*C.m(r)[u]k,C/.+.m.u.k,C/ + m u k,,Baxter2014,4,false,^ C/ . + . m . u . k $,default
-OldChinese-50_far-1,30814,OldChinese,50_far,*C.ɢʷanʔ,C/.+.ɢʷ.a.n.ʔ,C/ + ɢʷ a n ʔ,,Baxter2014,1639,false,^ C/ . + . ɢʷ . a. n . ʔ $,default
+OldChinese-49_theeye-1,30813,OldChinese,49_theeye,*C.m(r)[u]k,C/.+.m.u.k,C/k + m u k,,Baxter2014,4,false,^ C/ . + . m . u . k $,default
+OldChinese-50_far-1,30814,OldChinese,50_far,*C.ɢʷanʔ,C/.+.ɢʷ.a.n.ʔ,C/k + ɢʷ a n ʔ,,Baxter2014,1639,false,^ C/ . + . ɢʷ . a. n . ʔ $,default
 OldChinese-51_thefather-1,30815,OldChinese,51_thefather,*[N-p](r)aʔ,ɴ.+.p.a.ʔ,ɴ + p a ʔ,,Baxter2014,107,false,^ ɴ . + . p . a. ʔ $,default
 OldChinese-52_thefeather-1,30816,OldChinese,52_thefeather,*[ɢ]ʷ(r)aʔ,ɢʷ.a.ʔ,ɢʷ a ʔ,,Baxter2014,1745,false,^ ɢʷ . a. ʔ $,default
 OldChinese-53_tofight-1,30817,OldChinese,53_tofight,*tˤok-s,tˤ.o.k.+.s,tˤ o./o k + s,,Baxter2014,2672,false,^ tˤ . o. k . + . s $,default
 OldChinese-54_thefire-1,30818,OldChinese,54_thefire,*[qʷʰ]ˤəjʔ,qʷʰˤ.ə.j.ʔ,qʷʰˤ ə j ʔ,,Baxter2014,29759,false,^ qʷʰˤ . ə . j . ʔ $,default
 OldChinese-55_firewood-1,30819,OldChinese,55_firewood,*[s]i[n],s.i.n,s i n,,Baxter2014,6006,false,^ s . i . n $,default
 OldChinese-56_thefish-1,30820,OldChinese,56_thefish,*[r.ŋ]a,r.+.ŋ.a,r + ŋ a,,Baxter2014,186,false,^ r . + . ŋ . a $,default
-OldChinese-57_five-1,30821,OldChinese,57_five,*C.ŋˤaʔ,C/.+.ŋˤ.a.ʔ,C/ + ŋˤ a ʔ,,Baxter2014,10357,false,^ C/ . + . ŋˤ . a. ʔ $,default
+OldChinese-57_five-1,30821,OldChinese,57_five,*C.ŋˤaʔ,C/.+.ŋˤ.a.ʔ,C/k + ŋˤ a ʔ,,Baxter2014,10357,false,^ C/ . + . ŋˤ . a. ʔ $,default
 OldChinese-58_theflea-1,30822,OldChinese,58_theflea,*tsˤuʔ,tsˤ.u.ʔ,tsˤ u ʔ,,Baxter2014,10271,false,^ tsˤ . u . ʔ $,default
 OldChinese-59_tofloat-1,30823,OldChinese,59_tofloat,*[N-]ru,ɴ.+.r.u,ɴ + r u,,Baxter2014,428,false,^ ɴ . + . r . u $,default
 OldChinese-59_tofloat-2,30824,OldChinese,59_tofloat,*m.b(r)u,m.+.b.u,m + b u,,Baxter2014,3187,false,^ m . + . b . u $,default
 OldChinese-59_tofloat-3,30825,OldChinese,59_tofloat,*pʰ(r)[o]m-s,pʰ.o.m.+.s,pʰ o./o m + s,,Baxter2014,3626,false,^ pʰ . o. m . + . s $,default
 OldChinese-60_toflow-1,30826,OldChinese,60_toflow,*ru,r.u,r u,,Baxter2014,1582,false,^ r . u $,default
 OldChinese-61_theflower-1,30827,OldChinese,61_theflower,*N-qʷʰˤra,ɴ.+.qʷʰˤ.r.a,ɴ + qʷʰˤ r a,,Baxter2014,1750,false,^ ɴ . + . qʷʰˤ . r . a $,default
-OldChinese-62_toflymovethroughair-1,30828,OldChinese,62_toflymovethroughair,*Cə.pə[r],C/.ə.+.p.ə.r,C/ ə + p ə r,,Baxter2014,10210,false,^ C/ . ə . + . p . ə . r $,default
+OldChinese-62_toflymovethroughair-1,30828,OldChinese,62_toflymovethroughair,*Cə.pə[r],C/.ə.+.p.ə.r,C/k ə + p ə r,,Baxter2014,10210,false,^ C/ . ə . + . p . ə . r $,default
 OldChinese-63_thefog-1,30829,OldChinese,63_thefog,*kə.m(r)[o]k-s,k.ə.+.m.o.k.+.s,k ə + m o./o k + s,,Baxter2014,99,false,^ k . ə . + . m . o. k . + . s $,default
 OldChinese-64_thefoot-1,30830,OldChinese,64_thefoot,*[k]ak,k.a.k,k a k,,Baxter2014,1752,false,^ k . a. k $,default
 OldChinese-64_thefoot-2,30831,OldChinese,64_thefoot,*[ts]ok,ts.o.k,ts o./o k,!remove!,Baxter2014,3627,false,^ ts . o. k $,default
@@ -4667,10 +4667,10 @@ OldChinese-76_good-4,30848,OldChinese,76_good,*[ts]ˤaŋ,tsˤ.a.ŋ,tsˤ a ŋ,,Ba
 OldChinese-76_good-5,30849,OldChinese,76_good,*kˤ<r>aj,kˤ.r.a.j,kˤ r a j,!remove!,Baxter2014,3634,false,^ kˤ . r . a. j $,default
 OldChinese-76_good-6,30850,OldChinese,76_good,*qʰˤuʔ,qʰˤ.u.ʔ,qʰˤ u ʔ,,Baxter2014,1642,false,^ qʰˤ . u . ʔ $,default
 OldChinese-77_thegrass-1,30851,OldChinese,77_thegrass,*[tsʰ]ˤuʔ,tsʰˤ.u.ʔ,tsʰˤ u ʔ,,Baxter2014,959,false,^ tsʰˤ . u . ʔ $,default
-OldChinese-77_thegrass-2,30852,OldChinese,77_thegrass,*Cə.tsˤə[r]-s,C/.ə.+.tsˤ.ə.r.+.s,C/ ə + tsˤ ə r + s,!remove!,Baxter2014,3635,false,^ C/ . ə . + . tsˤ . ə . r . + . s $,default
+OldChinese-77_thegrass-2,30852,OldChinese,77_thegrass,*Cə.tsˤə[r]-s,C/.ə.+.tsˤ.ə.r.+.s,C/k ə + tsˤ ə r + s,!remove!,Baxter2014,3635,false,^ C/ . ə . + . tsˤ . ə . r . + . s $,default
 OldChinese-78_green-1,30853,OldChinese,78_green,*[tsʰ]ˤaŋ,tsʰˤ.a.ŋ,tsʰˤ a ŋ,or deep blue !remove!,Baxter2014,3636,false,^ tsʰˤ . a. ŋ $,default
 OldChinese-78_green-2,30854,OldChinese,78_green,*pə.rok,p.ə.+.r.o.k,p ə + r o./o k,or light blue,Baxter2014,1643,false,^ p . ə . + . r . o. k $,default
-OldChinese-79_thehail-1,30855,OldChinese,79_thehail,*C.[b]ˤruk,C/.+.bˤ.r.u.k,C/ + bˤ r u k,,Baxter2014,1764,false,^ C/ . + . bˤ . r . u . k $,default
+OldChinese-79_thehail-1,30855,OldChinese,79_thehail,*C.[b]ˤruk,C/.+.bˤ.r.u.k,C/k + bˤ r u k,,Baxter2014,1764,false,^ C/ . + . bˤ . r . u . k $,default
 OldChinese-80_thehairofthehead-1,30856,OldChinese,80_thehairofthehead,*pot,p.o.t,p o./o t,,Baxter2014,2759,false,^ p . o. t $,default
 OldChinese-81_thehand-1,30857,OldChinese,81_thehand,*n̥uʔ,n̥.u.ʔ,n̥ u ʔ,,Baxter2014,1766,false,^ n̥ . u . ʔ $,default
 OldChinese-82_hard-1,30858,OldChinese,82_hard,*kˤaŋ,kˤ.a.ŋ,kˤ a ŋ,,Baxter2014,10568,false,^ kˤ . a. ŋ $,default
@@ -4684,15 +4684,15 @@ OldChinese-88_here-1,30866,OldChinese,88_here,*[tsʰ]e(j)ʔ,tsʰ.e.ʔ,tsʰ e ʔ,
 OldChinese-89_tohideconceal-1,30867,OldChinese,89_tohideconceal,*[ʔ](r)ə[n]ʔ,ʔ.ə.n.ʔ,ʔ ə n ʔ,,Baxter2014,3640,false,^ ʔ . ə . n . ʔ $,default
 OldChinese-89_tohideconceal-2,30868,OldChinese,89_tohideconceal,*nr[ə]k,n.r.ə.k,n r ə k,,Baxter2014,3641,false,^ n . r . ə . k $,default
 OldChinese-90_hightall-1,30869,OldChinese,90_hightall,*[N-k](r)aw,ɴ.+.k.a.w,ɴ + k a w,!remove!,Baxter2014,1649,false,^ ɴ . + . k . a. w $,default
-OldChinese-90_hightall-2,30870,OldChinese,90_hightall,*Cə.[k]ˤaw,C/.ə.+.kˤ.a.w,C/ ə + kˤ a w,,Baxter2014,1649,false,^ C/ . ə . + . kˤ . a. w $,default
+OldChinese-90_hightall-2,30870,OldChinese,90_hightall,*Cə.[k]ˤaw,C/.ə.+.kˤ.a.w,C/k ə + kˤ a w,,Baxter2014,1649,false,^ C/ . ə . + . kˤ . a. w $,default
 OldChinese-90_hightall-3,30871,OldChinese,90_hightall,*tˤrawk,tˤ.r.a.w.k,tˤ r a w k,!remove!,Baxter2014,3642,false,^ tˤ . r . a. w . k $,default
 OldChinese-91_tohold-1,30872,OldChinese,91_tohold,*[d]rə,d.r.ə,d r ə,,Baxter2014,3643,false,^ d . r . ə $,default
 OldChinese-91_tohold-2,30873,OldChinese,91_tohold,*[t]ip,t.i.p,t i p,!remove!,Baxter2014,3644,false,^ t . i . p $,default
 OldChinese-92_thehoof-1,30874,OldChinese,92_thehoof,*tˤek,tˤ.e.k,tˤ e k,WT rje,Baxter2014,3645,false,^ tˤ . e . k $,default
-OldChinese-93_horizontal-1,30875,OldChinese,93_horizontal,*C.gʷˤraŋ,C/.+.gʷˤ.r.a.ŋ,C/ + gʷˤ r a ŋ,,Baxter2014,1651,false,^ C/ . + . gʷˤ . r . a. ŋ $,default
-OldChinese-94_thehornkeratinizedskin-1,30876,OldChinese,94_thehornkeratinizedskin,*C.[k]ˤrok,C/.+.kˤ.r.o.k,C/ + kˤ r o./o k,,Baxter2014,365,false,^ C/ . + . kˤ . r . o. k $,default
+OldChinese-93_horizontal-1,30875,OldChinese,93_horizontal,*C.gʷˤraŋ,C/.+.gʷˤ.r.a.ŋ,C/k + gʷˤ r a ŋ,,Baxter2014,1651,false,^ C/ . + . gʷˤ . r . a. ŋ $,default
+OldChinese-94_thehornkeratinizedskin-1,30876,OldChinese,94_thehornkeratinizedskin,*C.[k]ˤrok,C/.+.kˤ.r.o.k,C/k + kˤ r o./o k,,Baxter2014,365,false,^ C/ . + . kˤ . r . o. k $,default
 OldChinese-95_thehorse-1,30877,OldChinese,95_thehorse,*mˤraʔ,mˤ.r.a.ʔ,mˤ r a ʔ,final nasal lost: loan < Qiangic,Baxter2014,3149,true,^ mˤ . r . a. ʔ $,default
-OldChinese-96_hot-1,30878,OldChinese,96_hot,*C.nat,C/.+.n.a.t,C/ + n a t,,Baxter2014,1652,false,^ C/ . + . n . a. t $,default
+OldChinese-96_hot-1,30878,OldChinese,96_hot,*C.nat,C/.+.n.a.t,C/k + n a t,,Baxter2014,1652,false,^ C/ . + . n . a. t $,default
 OldChinese-97_thehouse-1,30879,OldChinese,97_thehouse,*qˤok,qˤ.o.k,qˤ o./o k,,Baxter2014,1775,false,^ qˤ . o. k $,default
 OldChinese-98_hundred-1,30880,OldChinese,98_hundred,*pˤrak,pˤ.r.a.k,pˤ r a k,,Baxter2014,185,false,^ pˤ . r . a. k $,default
 OldChinese-99_tohunt-1,30881,OldChinese,99_tohunt,*lˤiŋ,lˤ.i.ŋ,lˤ i ŋ,WT lings,Baxter2014,238,false,^ lˤ . i . ŋ $,default
@@ -4704,7 +4704,7 @@ OldChinese-102_theice-1,30886,OldChinese,102_theice,*p.rəŋ,p.r.ə.ŋ,p r ə ŋ
 OldChinese-103_inside-1,30887,OldChinese,103_inside,*nˤ[u]p-s,nˤ.u.p.←.s,nˤ u p + s,,Baxter2014,10564,false,^ nˤ . u . p . ← . s $,default
 OldChinese-104_tokill-1,30888,OldChinese,104_tokill,*s<r>at,s.r.a.t,s r a t,,Baxter2014,3125,false,^ s . r . a. t $,default
 OldChinese-106_theknee-1,30890,OldChinese,106_theknee,*s-tsik,s.+.ts.i.k,s + ts i k,,Baxter2014,1198,false,^ s . + . ts . i . k $,default
-OldChinese-107_knife-1,30891,OldChinese,107_knife,*C.tˤaw,C/.+.tˤ.a.w,C/ + tˤ a w,,Baxter2014,5130,false,^ C/ . + . tˤ . a. w $,default
+OldChinese-107_knife-1,30891,OldChinese,107_knife,*C.tˤaw,C/.+.tˤ.a.w,C/k + tˤ a w,,Baxter2014,5130,false,^ C/ . + . tˤ . a. w $,default
 OldChinese-108_toknowsomething-1,30892,OldChinese,108_toknowsomething,*tre,t.r.e,t r e,,Baxter2014,1930,false,^ t . r . e $,default
 OldChinese-109_thelake-1,30893,OldChinese,109_thelake,*[g]ˤa,gˤ.a,gˤ a,,Baxter2014,1781,false,^ gˤ . a $,default
 OldChinese-110_late-1,30894,OldChinese,110_late,*m[o][r]ʔ,m.o.r.ʔ,m o./o r ʔ,,Baxter2014,1658,false,^ m . o. r . ʔ $,default
@@ -4712,12 +4712,12 @@ OldChinese-111_tolaugh-1,30895,OldChinese,111_tolaugh,*[s-l]aw-s,s.+.l.a.w.+.s,s
 OldChinese-112_theleaf-1,30896,OldChinese,112_theleaf,*l[a]p,l.a.p,l a p,,Baxter2014,234,false,^ l . a. p $,default
 OldChinese-113_tolearn-1,30897,OldChinese,113_tolearn,*m-kˤruk,m.+.kˤ.r.u.k,m + kˤ r u k,,Baxter2014,1934,false,^ m . + . kˤ . r . u . k $,default
 OldChinese-114_left-1,30898,OldChinese,114_left,*tsˤa[j]ʔ,tsˤ.a.j.ʔ,tsˤ a j ʔ,,Baxter2014,1664,false,^ tsˤ . a. j . ʔ $,default
-OldChinese-115_tolick-1,30899,OldChinese,115_tolick,*Cə.leʔ,C/.ə.+.l.e.ʔ,C/ ə + l e ʔ,舐 zyeX < *Cə.leʔ,Baxter2014,101,false,^ C/ . ə . + . l . e . ʔ $,default
+OldChinese-115_tolick-1,30899,OldChinese,115_tolick,*Cə.leʔ,C/.ə.+.l.e.ʔ,C/k ə + l e ʔ,舐 zyeX < *Cə.leʔ,Baxter2014,101,false,^ C/ . ə . + . l . e . ʔ $,default
 OldChinese-116_toliedown-1,30900,OldChinese,116_toliedown,*[ŋ]ˤ[o]j-s,ŋˤ.o.j.+.s,ŋˤ o./o j + s,,Baxter2014,3648,false,^ ŋˤ . o. j . + . s $,default
 OldChinese-117_lightofweight-1,30901,OldChinese,117_lightofweight,*[kʰ]eŋ,kʰ.e.ŋ,kʰ e ŋ,,Baxter2014,1665,false,^ kʰ . e . ŋ $,default
 OldChinese-118_thelipthelips-1,30902,OldChinese,118_thelipthelips,*sə.dur,s.ə.+.d.u.r,s ə + d u r,,Baxter2014,10522,false,^ s . ə . + . d . u . r $,default
 OldChinese-119_theliver-1,30903,OldChinese,119_theliver,*s.kˤa[r],s.+.kˤ.a.r,s + kˤ a r,,Baxter2014,1782,false,^ s . + . kˤ . a. r $,default
-OldChinese-120_long-1,30904,OldChinese,120_long,*Cə-[N]-traŋ,C/.ə.+.ɴ.+.t.r.a.ŋ,C/ ə + ɴ + t r a ŋ,,Baxter2014,1667,false,^ C/ . ə . + . ɴ . + . t . r . a. ŋ $,default
+OldChinese-120_long-1,30904,OldChinese,120_long,*Cə-[N]-traŋ,C/.ə.+.ɴ.+.t.r.a.ŋ,C/k ə + ɴ + t r a ŋ,,Baxter2014,1667,false,^ C/ . ə . + . ɴ . + . t . r . a. ŋ $,default
 OldChinese-121_thelouse-1,30905,OldChinese,121_thelouse,*srik,s.r.i.k,s r i k,,Baxter2014,2077,false,^ s . r . i . k $,default
 OldChinese-122_thelung-1,30906,OldChinese,122_thelung,*pʰo[t]-s,pʰ.o.t.+.s,pʰ o./o t + s,,Baxter2014,50,false,^ pʰ . o. t . + . s $,default
 OldChinese-123_themanmalehuman-1,30907,OldChinese,123_themanmalehuman,*nˤ[ə]m,nˤ.ə.m,nˤ ə m,,Baxter2014,10273,false,^ nˤ . ə . m $,default
@@ -4728,14 +4728,14 @@ OldChinese-127_middle-1,30911,OldChinese,127_middle,*truŋ,t.r.u.ŋ,t r u ŋ,,Ba
 OldChinese-127_middle-2,30912,OldChinese,127_middle,*ʔaŋ,ʔ.a.ŋ,ʔ a ŋ,Jing po ka ang,Baxter2014,10160,false,^ ʔ . a. ŋ $,default
 OldChinese-128_themoon-1,30913,OldChinese,128_themoon,*[ŋ]ʷat,ŋʷ.a.t,ŋʷ a t,,Baxter2014,1790,false,^ ŋʷ . a. t $,default
 OldChinese-129_morning-1,30914,OldChinese,129_morning,*[d]әr,d.ə.r,d ə r,,Baxter2014,10295,false,^ d . ə . r $,default
-OldChinese-130_themosquito-1,30915,OldChinese,130_themosquito,*C.mə[r],C/.+.m.ə.r,C/ + m ə r,,Baxter2014,1791,false,^ C/ . + . m . ə . r $,default
+OldChinese-130_themosquito-1,30915,OldChinese,130_themosquito,*C.mə[r],C/.+.m.ə.r,C/k + m ə r,,Baxter2014,1791,false,^ C/ . + . m . ə . r $,default
 OldChinese-131_themother-1,30916,OldChinese,131_themother,*məʔ,m.ə.ʔ,m ə ʔ,,Baxter2014,1213,false,^ m . ə . ʔ $,default
 OldChinese-132_themountain-1,30917,OldChinese,132_themountain,*s-ŋrar,s.+.ŋ.r.a.r,s + ŋ r a r,,Baxter2014,1798,false,^ s . + . ŋ . r . a. r $,default
 OldChinese-133_themouseorrat-1,30918,OldChinese,133_themouseorrat,*[l̥]aʔ,l̥.a.ʔ,l̥ a ʔ,,Baxter2014,10274,false,^ l̥ . a. ʔ $,default
 OldChinese-134_themouth-1,30919,OldChinese,134_themouth,*kʰˤ(r)oʔ,kʰˤ.o.ʔ,kʰˤ o./o ʔ,,Baxter2014,3978,false,^ kʰˤ . o. ʔ $,default
-OldChinese-135_themud-1,30920,OldChinese,135_themud,*C.nˤ[əj],C/.+.nˤ.ə.j,C/ + nˤ ə j,,Baxter2014,1802,false,^ C/ . + . nˤ . ə . j $,default
+OldChinese-135_themud-1,30920,OldChinese,135_themud,*C.nˤ[əj],C/.+.nˤ.ə.j,C/k + nˤ ə j,,Baxter2014,1802,false,^ C/ . + . nˤ . ə . j $,default
 OldChinese-136_thenailfingernailorclaw-1,30921,OldChinese,136_thenailfingernailorclaw,*[ts]ˤ<r>uʔ,tsˤ.r.u.ʔ,tsˤ r u ʔ,,Baxter2014,1194,false,^ tsˤ . r . u . ʔ $,default
-OldChinese-137_thename-1,30922,OldChinese,137_thename,*C.meŋ,C/.+.m.e.ŋ,C/ + m e ŋ,,Baxter2014,18,false,^ C/ . + . m . e . ŋ $,default
+OldChinese-137_thename-1,30922,OldChinese,137_thename,*C.meŋ,C/.+.m.e.ŋ,C/k + m e ŋ,,Baxter2014,18,false,^ C/ . + . m . e . ŋ $,default
 OldChinese-138_narrow-1,30923,OldChinese,138_narrow,*N-kˤ<r>ep,ɴ.+.kˤ.r.e.p,ɴ + kˤ r e p,,Baxter2014,1677,false,^ ɴ . + . kˤ . r . e . p $,default
 OldChinese-139_near-1,30924,OldChinese,139_near,*N-kərʔ,ɴ.+.k.ə.r.ʔ,ɴ + k ə r ʔ,!remove!,Baxter2014,1678,false,^ ɴ . + . k . ə . r . ʔ $,default
 OldChinese-139_near-2,30925,OldChinese,139_near,*n[ə][r]ʔ,n.ə.r.ʔ,n ə r ʔ,,Baxter2014,7,false,^ n . ə . r . ʔ $,default
@@ -4746,7 +4746,7 @@ OldChinese-142_new-1,30929,OldChinese,142_new,*s.tsʰi[n],s.+.tsʰ.i.n,s + tsʰ 
 OldChinese-143_nine-1,30930,OldChinese,143_nine,*[k]uʔ,k.u.ʔ,k u ʔ,,Baxter2014,24,false,^ k . u . ʔ $,default
 OldChinese-145_noon-1,30932,OldChinese,145_noon,*[m].qʰˤaʔ,m.+.qʰˤ.a.ʔ,m + qʰˤ a ʔ,,Baxter2014,1683,false,^ m . + . qʰˤ . a. ʔ $,default
 OldChinese-146_thenose-1,30933,OldChinese,146_thenose,*m-bi[t]-s,m.+.b.i.t.+.s,m + b i t + s,,Baxter2014,1810,false,^ m . + . b . i . t . + . s $,default
-OldChinese-147_oldofperson-1,30934,OldChinese,147_oldofperson,*C.rˤuʔ,C/.+.rˤ.u.ʔ,C/ + rˤ u ʔ,,Baxter2014,1685,false,^ C/ . + . rˤ . u . ʔ $,default
+OldChinese-147_oldofperson-1,30934,OldChinese,147_oldofperson,*C.rˤuʔ,C/.+.rˤ.u.ʔ,C/k + rˤ u ʔ,,Baxter2014,1685,false,^ C/ . + . rˤ . u . ʔ $,default
 OldChinese-148_one-1,30935,OldChinese,148_one,*ʔi[t],ʔ.i.t,ʔ i t,,Baxter2014,1686,false,^ ʔ . i . t $,default
 OldChinese-149_theotter-1,30936,OldChinese,149_theotter,*r̥ˤat,r̥ˤ.a.t,r̥ˤ a t,also perhaps *[m-r̥]ˤat,Baxter2014,3652,false,^ r̥ˤ . a. t $,default
 OldChinese-150_outside-1,30937,OldChinese,150_outside,*[ŋ]ʷˤa[t]-s,ŋʷˤ.a.t.+.s,ŋʷˤ a t + s,WT ŋos 'surface',Baxter2014,1688,false,^ ŋʷˤ . a. t . + . s $,default
@@ -4756,7 +4756,7 @@ OldChinese-152_toplantvegetalsrice-2,30940,OldChinese,152_toplantvegetalsrice,*[
 OldChinese-153_toplay-1,30941,OldChinese,153_toplay,*[ŋ]ˤo[n]-s,ŋˤ.o.n.+.s,ŋˤ o./o n + s,,Baxter2014,1944,false,^ ŋˤ . o. n . + . s $,default
 OldChinese-154_topull-1,30942,OldChinese,154_topull,*l[a]t,l.a.t,l a t,many verbs,Baxter2014,3655,false,^ l . a. t $,default
 OldChinese-155_topush-1,30943,OldChinese,155_topush,*tʰˤuj,tʰˤ.u.j,tʰˤ u j,,Baxter2014,1954,false,^ tʰˤ . u . j $,default
-OldChinese-156_therain-1,30944,OldChinese,156_therain,*C.ɢʷ(r)aʔ,C/.+.ɢʷ.a.ʔ,C/ + ɢʷ a ʔ,,Baxter2014,10234,false,^ C/ . + . ɢʷ . a. ʔ $,default
+OldChinese-156_therain-1,30944,OldChinese,156_therain,*C.ɢʷ(r)aʔ,C/.+.ɢʷ.a.ʔ,C/k + ɢʷ a ʔ,,Baxter2014,10234,false,^ C/ . + . ɢʷ . a. ʔ $,default
 OldChinese-157_therainbow-1,30945,OldChinese,157_therainbow,*m-kˤoŋ,m.+.kˤ.o.ŋ,m + kˤ o./o ŋ,also perhaps *kˤroŋ-s,Baxter2014,1814,false,^ m . + . kˤ . o. ŋ $,default
 OldChinese-158_red-1,30946,OldChinese,158_red,*[t-qʰ](r)Ak,t.+.qʰ.ᴀ.k,t + qʰ ɑ̟ k,,Baxter2014,3656,false,^ t . + . qʰ . ᴀ . k $,default
 OldChinese-158_red-2,30947,OldChinese,158_red,*N-rˤu[m],ɴ.+.rˤ.u.m,ɴ + rˤ u m,!remove!,Baxter2014,3657,false,^ ɴ . + . rˤ . u . m $,default
@@ -4766,23 +4766,23 @@ OldChinese-159_toresidelive-1,30950,OldChinese,159_toresidelive,*m-tˤ<r>ak,m.+.
 OldChinese-160_thericeplant-1,30951,OldChinese,160_thericeplant,*[l]ˤuʔ,lˤ.u.ʔ,lˤ u ʔ,rice plant,Baxter2014,3790,false,^ lˤ . u . ʔ $,default
 OldChinese-161_right-1,30952,OldChinese,161_right,*[ɢ]ʷəʔ,ɢʷ.ə.ʔ,ɢʷ ə ʔ,,Baxter2014,1692,false,^ ɢʷ . ə . ʔ $,default
 OldChinese-162_theriver-1,30953,OldChinese,162_theriver,*s.turʔ,s.+.t.u.r.ʔ,s + t u r ʔ,,Baxter2014,3998,false,^ s . + . t . u . r . ʔ $,default
-OldChinese-163_theroad-1,30954,OldChinese,163_theroad,*Cə.rˤak-s,C/.ə.+.rˤ.a.k.+.s,C/ ə + rˤ a k + s,,Baxter2014,1818,false,^ C/ . ə . + . rˤ . a. k . + . s $,default
+OldChinese-163_theroad-1,30954,OldChinese,163_theroad,*Cə.rˤak-s,C/.ə.+.rˤ.a.k.+.s,C/k ə + rˤ a k + s,,Baxter2014,1818,false,^ C/ . ə . + . rˤ . a. k . + . s $,default
 OldChinese-164_theroot-1,30955,OldChinese,164_theroot,*[k]ˤə[r],kˤ.ə.r,kˤ ə r,,Baxter2014,1819,false,^ kˤ . ə . r $,default
-OldChinese-165_therope-1,30956,OldChinese,165_therope,*Cə-m.rəŋ,C/.ə.+.m.r.ə.ŋ,C/ ə + m r ə ŋ,,Baxter2014,10164,false,^ C/ . ə . + . m . r . ə . ŋ $,default
+OldChinese-165_therope-1,30956,OldChinese,165_therope,*Cə-m.rəŋ,C/.ə.+.m.r.ə.ŋ,C/k ə + m r ə ŋ,,Baxter2014,10164,false,^ C/ . ə . + . m . r . ə . ŋ $,default
 OldChinese-166_round-1,30957,OldChinese,166_round,*ɢʷ<r>en,ɢʷ.r.e.n,ɢʷ r e n,,Baxter2014,1693,false,^ ɢʷ . r . e . n $,default
 OldChinese-167_torun-1,30958,OldChinese,167_torun,*pˤur,pˤ.u.r,pˤ u r,,Baxter2014,3661,false,^ pˤ . u . r $,default
 OldChinese-168_thesalt-1,30959,OldChinese,168_thesalt,*[ɢr][o]m,ɢ.r.o.m,ɢ r o./o m,,Baxter2014,687,false,^ ɢ . r . o. m $,default
 OldChinese-168_thesalt-2,30960,OldChinese,168_thesalt,*N-[ts]ˤaj,ɴ.+.tsˤ.a.j,ɴ + tsˤ a j,,Baxter2014,4160,false,^ ɴ . + . tsˤ . a. j $,default
-OldChinese-169_salty-1,30961,OldChinese,169_salty,*Cə.[g]ˤr[o]m,C/.ə.+.gˤ.r.o.m,C/ ə + gˤ r o./o m,,Baxter2014,1694,false,^ C/ . ə . + . gˤ . r . o. m $,default
+OldChinese-169_salty-1,30961,OldChinese,169_salty,*Cə.[g]ˤr[o]m,C/.ə.+.gˤ.r.o.m,C/k ə + gˤ r o./o m,,Baxter2014,1694,false,^ C/ . ə . + . gˤ . r . o. m $,default
 OldChinese-170_thesand-1,30962,OldChinese,170_thesand,*sˤraj,sˤ.r.a.j,sˤ r a j,,Baxter2014,212,false,^ sˤ . r . a. j $,default
 OldChinese-171_toscratch-1,30963,OldChinese,171_toscratch,*s-[ts]ˤu,s.+.tsˤ.u,s + tsˤ u,,Baxter2014,3662,false,^ s . + . tsˤ . u $,default
 OldChinese-172_thesea-1,30964,OldChinese,172_thesea,*m̥ˤəʔ,m̥ˤ.ə.ʔ,m̥ˤ ə ʔ,,Baxter2014,3116,false,^ m̥ˤ . ə . ʔ $,default
 OldChinese-173_tosee-1,30965,OldChinese,173_tosee,*[k]ˤen-s,kˤ.e.n.+.s,kˤ e n + s,,Baxter2014,593,false,^ kˤ . e . n . + . s $,default
 OldChinese-174_theseed-1,30966,OldChinese,174_theseed,*k.toŋʔ,k.+.t.o.ŋ.ʔ,k + t o./o ŋ ʔ,,Baxter2014,1821,false,^ k . + . t . o. ŋ . ʔ $,default
 OldChinese-175_seven-1,30967,OldChinese,175_seven,*[tsʰ]i[t],tsʰ.i.t,tsʰ i t,,Baxter2014,55,false,^ tsʰ . i . t $,default
-OldChinese-176_sharp-1,30968,OldChinese,176_sharp,*C.ri[t]-s,C/.+.r.i.t.+.s,C/ + r i t + s,,Baxter2014,1698,false,^ C/ . + . r . i . t . + . s $,default
+OldChinese-176_sharp-1,30968,OldChinese,176_sharp,*C.ri[t]-s,C/.+.r.i.t.+.s,C/k + r i t + s,,Baxter2014,1698,false,^ C/ . + . r . i . t . + . s $,default
 OldChinese-177_thesheep-1,30969,OldChinese,177_thesheep,*ɢaŋ,ɢ.a.ŋ,ɢ a ŋ,,Baxter2014,342,false,^ ɢ . a. ŋ $,default
-OldChinese-178_toshootanarrow-1,30970,OldChinese,178_toshootanarrow,*Cə.lAk-s,C/.ə.+.l.ᴀ.k.+.s,C/ ə + l ɑ̟ k + s,,Baxter2014,1970,false,^ C/ . ə . + . l . ᴀ . k . + . s $,default
+OldChinese-178_toshootanarrow-1,30970,OldChinese,178_toshootanarrow,*Cə.lAk-s,C/.ə.+.l.ᴀ.k.+.s,C/k ə + l ɑ̟ k + s,,Baxter2014,1970,false,^ C/ . ə . + . l . ᴀ . k . + . s $,default
 OldChinese-179_short-1,30971,OldChinese,179_short,*tˤorʔ,tˤ.o.r.ʔ,tˤ o./o r ʔ,,Baxter2014,4179,false,^ tˤ . o. r . ʔ $,default
 OldChinese-180_theshoulder-1,30972,OldChinese,180_theshoulder,*[k]ˤe[n],kˤ.e.n,kˤ e n,,Baxter2014,543,false,^ kˤ . e . n $,default
 OldChinese-182_thesickle-1,30974,OldChinese,182_thesickle,*[r]em,r.e.m,r e m,,Baxter2014,3293,false,^ r . e . m $,default
@@ -4799,7 +4799,7 @@ OldChinese-188_small-3,30984,OldChinese,188_small,*məj,m.ə.j,m ə j,,Baxter201
 OldChinese-189_tosmellperceiveodortransitive-1,30985,OldChinese,189_tosmellperceiveodortransitive,*qʰu(ʔ)-s,qʰ.u.+.s,qʰ u + s,,Baxter2014,3669,false,^ qʰ . u . + . s $,default
 OldChinese-190_thesmoke-1,30986,OldChinese,190_thesmoke,*[q]ˤi[n],qˤ.i.n,qˤ i n,,Baxter2014,1825,false,^ qˤ . i . n $,default
 OldChinese-191_smooth-1,30987,OldChinese,191_smooth,*Nә-gˤrut,ɴ.ə.+.gˤ.r.u.t,ɴ ə + gˤ r u t,,Baxter2014,1701,false,^ ɴ . ə . + . gˤ . r . u . t $,default
-OldChinese-192_thesnake-1,30988,OldChinese,192_thesnake,*Cə.lAj,C/.ə.+.l.ᴀ.j,C/ ə + l ɑ̟ j,,Baxter2014,1828,false,^ C/ . ə . + . l . ᴀ . j $,default
+OldChinese-192_thesnake-1,30988,OldChinese,192_thesnake,*Cə.lAj,C/.ə.+.l.ᴀ.j,C/k ə + l ɑ̟ j,,Baxter2014,1828,false,^ C/ . ə . + . l . ᴀ . j $,default
 OldChinese-193_thesnow-1,30989,OldChinese,193_thesnow,*[s]ot,s.o.t,s o./o t,PNN (French) *swa:t 'rain',Baxter2014,1829,false,^ s . o. t $,default
 OldChinese-194_soft-1,30990,OldChinese,194_soft,*nu,n.u,n u,,Baxter2014,2300,false,^ n . u $,default
 OldChinese-195_theson-1,30991,OldChinese,195_theson,*tsəʔ,ts.ə.ʔ,ts ə ʔ,,Baxter2014,73,false,^ ts . ə . ʔ $,default
@@ -4812,12 +4812,12 @@ OldChinese-201_tosteal-1,30997,OldChinese,201_tosteal,*[d]ˤaw(k)-s,dˤ.a.w.+.s,
 OldChinese-202_thestick-1,30998,OldChinese,202_thestick,*m-[t]raŋʔ,m.+.t.r.a.ŋ.ʔ,m + t r a ŋ ʔ,,Baxter2014,1550,false,^ m . + . t . r . a. ŋ . ʔ $,default
 OldChinese-203_thestoneapieceof-1,30999,OldChinese,203_thestoneapieceof,*dAk,d.ᴀ.k,d ɑ̟ k,,Baxter2014,1841,false,^ d . ᴀ . k $,default
 OldChinese-204_straight-1,31000,OldChinese,204_straight,*N-t<r>ək,ɴ.+.t.r.ə.k,ɴ + t r ə k,,Baxter2014,1703,false,^ ɴ . + . t . r . ə . k $,default
-OldChinese-205_thesun-1,31001,OldChinese,205_thesun,*C.nik,C/.+.n.i.k,C/ + n i k,,Baxter2014,83,false,^ C/ . + . n . i . k $,default
+OldChinese-205_thesun-1,31001,OldChinese,205_thesun,*C.nik,C/.+.n.i.k,C/k + n i k,,Baxter2014,83,false,^ C/ . + . n . i . k $,default
 OldChinese-206_thetail-1,31002,OldChinese,206_thetail,*[m]əjʔ,m.ə.j.ʔ,m ə j ʔ,,Baxter2014,84,false,^ m . ə . j . ʔ $,default
 OldChinese-207_ten-1,31003,OldChinese,207_ten,*t.[g]əp,t.+.g.ə.p,t + g ə p,,Baxter2014,364,false,^ t . + . g . ə . p $,default
 OldChinese-208_that-1,31004,OldChinese,208_that,*pajʔ,p.a.j.ʔ,p a j ʔ,,Baxter2014,2692,false,^ p . a. j . ʔ $,default
 OldChinese-209_there-1,31005,OldChinese,209_there,*pajʔ,p.a.j.ʔ,p a j ʔ,"Wolgang, is this correct ?",Baxter2014,3807,false,^ p . a. j . ʔ $,default
-OldChinese-210_thick-1,31006,OldChinese,210_thick,*Cə.[g]ˤ(r)oʔ,C/.ə.+.gˤ.o.ʔ,C/ ə + gˤ o./o ʔ,,Baxter2014,1868,false,^ C/ . ə . + . gˤ . o. ʔ $,default
+OldChinese-210_thick-1,31006,OldChinese,210_thick,*Cə.[g]ˤ(r)oʔ,C/.ə.+.gˤ.o.ʔ,C/k ə + gˤ o./o ʔ,,Baxter2014,1868,false,^ C/ . ə . + . gˤ . o. ʔ $,default
 OldChinese-211_thethigh-1,31007,OldChinese,211_thethigh,*kʷˤaʔ,kʷˤ.a.ʔ,kʷˤ a ʔ,,Baxter2014,3671,false,^ kʷˤ . a. ʔ $,default
 OldChinese-212_thinobject-1,31008,OldChinese,212_thinobject,*pˤe[r]ʔ,pˤ.e.r.ʔ,pˤ e r ʔ,opposite of 'thick',Baxter2014,3672,false,^ pˤ . e . r . ʔ $,default
 OldChinese-213_tothinkreflect-1,31009,OldChinese,213_tothinkreflect,*[s]aŋʔ,s.a.ŋ.ʔ,s a ŋ ʔ,"想 attested 4th c. BCE, with phonetic 相 implying sqh- (Heqing Bai sh-; word-family connections to 鄉 ‘face， turn to' and 卿 'minister'). Connection to rGyalrongic so etc. is doubtful. LS",Baxter2014,1987,false,^ s . a. ŋ . ʔ $,default
@@ -4827,16 +4827,16 @@ OldChinese-215_thousecondpersonsingular-1,31012,OldChinese,215_thousecondpersons
 OldChinese-215_thousecondpersonsingular-2,31013,OldChinese,215_thousecondpersonsingular,*nˤ[ә][r]ʔ,nˤ.ə.r.ʔ,nˤ ə r ʔ,爾 nyeX < *n[ə][r]ʔ,Baxter2014,1871,false,^ nˤ . ə . r . ʔ $,default
 OldChinese-216_three-1,31014,OldChinese,216_three,*s.rum,s.r.u.m,s r u m,,Baxter2014,283,false,^ s . r . u . m $,default
 OldChinese-217_tothrow-1,31015,OldChinese,217_tothrow,*[d]ˤo,dˤ.o,dˤ o,,Baxter2014,3676,false,^ dˤ . o $,default
-OldChinese-218_thethunder-1,31016,OldChinese,218_thethunder,*C.rˤuj,C/.+.rˤ.u.j,C/ + rˤ u j,,Baxter2014,1846,false,^ C/ . + . rˤ . u . j $,default
+OldChinese-218_thethunder-1,31016,OldChinese,218_thethunder,*C.rˤuj,C/.+.rˤ.u.j,C/k + rˤ u j,,Baxter2014,1846,false,^ C/ . + . rˤ . u . j $,default
 OldChinese-219_thetiger-1,31017,OldChinese,219_thetiger,*qʰˤraʔ,qʰˤ.r.a.ʔ,qʰˤ r a ʔ,,Baxter2014,1849,false,^ qʰˤ . r . a. ʔ $,default
 OldChinese-220_today-1,31018,OldChinese,220_today,*[k]r[ә]m,k.r.ə.m,k r ə m,,Baxter2014,2005,false,^ k . r . ə . m $,default
 OldChinese-221_tomorrow-1,31019,OldChinese,221_tomorrow,*mraŋ,m.r.a.ŋ,m r a ŋ,,Baxter2014,2008,false,^ m . r . a. ŋ $,default
 OldChinese-222_thetongue-1,31020,OldChinese,222_thetongue,*mə.lat,m.ə.+.l.a.t,m ə + l a t,,Baxter2014,1850,false,^ m . ə . + . l . a. t $,default
 OldChinese-223_thetoothfront-1,31021,OldChinese,223_thetoothfront,*t-[k]ʰə(ŋ)ʔ,t.+.kʰ.ə.ʔ,t + kʰ ə ʔ,"#634 PTB *d-ŋa TUSK / TOOTH, or *t.ŋ̊əʔ",Baxter2014,3677,false,^ t . + . kʰ . ə . ʔ $,default
-OldChinese-224_thetree-1,31022,OldChinese,224_thetree,*C.mˤok,C/.+.mˤ.o.k,C/ + mˤ o./o k,cf. #243 'wood',Baxter2014,3678,false,^ C/ . + . mˤ . o. k $,default
+OldChinese-224_thetree-1,31022,OldChinese,224_thetree,*C.mˤok,C/.+.mˤ.o.k,C/k + mˤ o./o k,cf. #243 'wood',Baxter2014,3678,false,^ C/ . + . mˤ . o. k $,default
 OldChinese-226_two-1,31024,OldChinese,226_two,*ni[j]-s,n.i.j.+.s,n i j + s,,Baxter2014,102,false,^ n . i . j . + . s $,default
 OldChinese-227_tovomit-1,31025,OldChinese,227_tovomit,*qˤ(r)oʔ,qˤ.o.ʔ,qˤ o./o ʔ,WT skyug-pa,Baxter2014,10483,false,^ qˤ . o. ʔ $,default
-OldChinese-228_towalk-1,31026,OldChinese,228_towalk,*Cə.[g]ˤraŋ,C/.ə.+.gˤ.r.a.ŋ,C/ ə + gˤ r a ŋ,,Baxter2014,1996,false,^ C/ . ə . + . gˤ . r . a. ŋ $,default
+OldChinese-228_towalk-1,31026,OldChinese,228_towalk,*Cə.[g]ˤraŋ,C/.ə.+.gˤ.r.a.ŋ,C/k ə + gˤ r a ŋ,,Baxter2014,1996,false,^ C/ . ə . + . gˤ . r . a. ŋ $,default
 OldChinese-229_thewater-1,31027,OldChinese,229_thewater,*s.turʔ,s.t.u.r.ʔ,s t u r ʔ,,Baxter2014,2787,false,^ s . t . u . r . ʔ $,default
 OldChinese-231_wet-1,31029,OldChinese,231_wet,*[qʰ]ip,qʰ.i.p,qʰ i p,,Baxter2014,2013,false,^ qʰ . i . p $,default
 OldChinese-232_what-1,31030,OldChinese,232_what,*[g]ˤa,gˤ.a,gˤ a,,Baxter2014,3752,false,^ gˤ . a $,default
@@ -4854,7 +4854,7 @@ OldChinese-241_thewolf-1,31041,OldChinese,241_thewolf,*[r]ˤaŋ,rˤ.a.ŋ,rˤ a �
 OldChinese-242_thewoman-1,31042,OldChinese,242_thewoman,*nraʔ,n.r.a.ʔ,n r a ʔ,,Baxter2014,1862,false,^ n . r . a. ʔ $,default
 OldChinese-243_thewoodmaterial-1,31043,OldChinese,243_thewoodmaterial,*[dz]ˤə,d.zˤ.ə,d zˤ ə,,Baxter2014,3706,false,^ d . zˤ . ə $,default
 OldChinese-244_tosowbroadcastscatterseeds-1,31044,OldChinese,244_tosowbroadcastscatterseeds,*pˤar-s,pˤ.a.r.+.s,pˤ a r + s,to sow broadcast,Baxter2014,3294,false,^ pˤ . a. r . + . s $,default
-OldChinese-245_theyear-1,31045,OldChinese,245_theyear,*C.nˤi[ŋ],C/.+.nˤ.i.ŋ,C/ + nˤ i ŋ,,Baxter2014,1866,false,^ C/ . + . nˤ . i . ŋ $,default
+OldChinese-245_theyear-1,31045,OldChinese,245_theyear,*C.nˤi[ŋ],C/.+.nˤ.i.ŋ,C/k + nˤ i ŋ,,Baxter2014,1866,false,^ C/ . + . nˤ . i . ŋ $,default
 OldChinese-246_yellow-1,31046,OldChinese,246_yellow,*N-kʷˤaŋ,ɴ.+.kʷˤ.a.ŋ,ɴ + kʷˤ a ŋ,,Baxter2014,2023,false,^ ɴ . + . kʷˤ . a. ŋ $,default
 OldChinese-247_yesterday-1,31047,OldChinese,247_yesterday,*[dz]ˤak,dzˤ.a.k,dzˤ a k,,Baxter2014,2027,false,^ dzˤ . a. k $,default
 OldChinese-249_young-1,31049,OldChinese,249_young,*[ʔ](r)iw-s,ʔ.i.w.+.s,ʔ i w + s,,Baxter2014,3682,false,^ ʔ . i . w . + . s $,default

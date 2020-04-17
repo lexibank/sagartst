@@ -7,6 +7,9 @@
                 "+": [
                     "+"
                 ],
+                "C/k": [
+                    "k"
+                ],
                 "a": [
                     "a"
                 ],
@@ -1459,6 +1462,9 @@
             "replacements": {
                 "+": [
                     "+"
+                ],
+                "C/k": [
+                    "k"
                 ],
                 "a": [
                     "a"
@@ -2922,6 +2928,9 @@
                 "+": [
                     "+"
                 ],
+                "C/k": [
+                    "k"
+                ],
                 "a": [
                     "a"
                 ],
@@ -4374,6 +4383,9 @@
             "replacements": {
                 "+": [
                     "+"
+                ],
+                "C/k": [
+                    "k"
                 ],
                 "a": [
                     "a"
@@ -5829,6 +5841,9 @@
                 "+": [
                     "+"
                 ],
+                "C/k": [
+                    "k"
+                ],
                 "a": [
                     "a"
                 ],
@@ -7271,6 +7286,9 @@
             "replacements": {
                 "+": [
                     "+"
+                ],
+                "C/k": [
+                    "k"
                 ],
                 "a": [
                     "a"
@@ -8750,6 +8768,9 @@
                 "+": [
                     "+"
                 ],
+                "C/k": [
+                    "k"
+                ],
                 "a": [
                     "a"
                 ],
@@ -10228,6 +10249,9 @@
                 "+": [
                     "+"
                 ],
+                "C/k": [
+                    "k"
+                ],
                 "a": [
                     "a"
                 ],
@@ -11669,6 +11693,9 @@
             "replacements": {
                 "+": [
                     "+"
+                ],
+                "C/k": [
+                    "k"
                 ],
                 "a": [
                     "a"
@@ -13132,6 +13159,9 @@
                 "+": [
                     "+"
                 ],
+                "C/k": [
+                    "k"
+                ],
                 "a": [
                     "a"
                 ],
@@ -14576,6 +14606,9 @@
             "replacements": {
                 "+": [
                     "+"
+                ],
+                "C/k": [
+                    "k"
                 ],
                 "a": [
                     "a"
@@ -16038,6 +16071,9 @@
                 "+": [
                     "+"
                 ],
+                "C/k": [
+                    "k"
+                ],
                 "a": [
                     "a"
                 ],
@@ -17496,6 +17532,9 @@
                 "+": [
                     "+"
                 ],
+                "C/k": [
+                    "k"
+                ],
                 "a": [
                     "a"
                 ],
@@ -18942,6 +18981,9 @@
             "replacements": {
                 "+": [
                     "+"
+                ],
+                "C/k": [
+                    "k"
                 ],
                 "a": [
                     "a"
@@ -20413,6 +20455,9 @@
                 "+": [
                     "+"
                 ],
+                "C/k": [
+                    "k"
+                ],
                 "a": [
                     "a"
                 ],
@@ -21861,6 +21906,9 @@
                 "+": [
                     "+"
                 ],
+                "C/k": [
+                    "k"
+                ],
                 "a": [
                     "a"
                 ],
@@ -23307,6 +23355,9 @@
                 "+": [
                     "+"
                 ],
+                "C/k": [
+                    "k"
+                ],
                 "a": [
                     "a"
                 ],
@@ -24740,6 +24791,9 @@
             "replacements": {
                 "+": [
                     "+"
+                ],
+                "C/k": [
+                    "k"
                 ],
                 "a": [
                     "a"
@@ -26203,6 +26257,9 @@
             "replacements": {
                 "+": [
                     "+"
+                ],
+                "C/k": [
+                    "k"
                 ],
                 "a": [
                     "a"
@@ -27702,6 +27759,9 @@
                 "+": [
                     "+"
                 ],
+                "C/k": [
+                    "k"
+                ],
                 "a": [
                     "a"
                 ],
@@ -29155,6 +29215,9 @@
             "replacements": {
                 "+": [
                     "+"
+                ],
+                "C/k": [
+                    "k"
                 ],
                 "a": [
                     "a"
@@ -30622,6 +30685,9 @@
                 "+": [
                     "+"
                 ],
+                "C/k": [
+                    "k"
+                ],
                 "a": [
                     "a"
                 ],
@@ -32078,6 +32144,9 @@
                 "+": [
                     "+"
                 ],
+                "C/k": [
+                    "k"
+                ],
                 "a": [
                     "a"
                 ],
@@ -33520,6 +33589,9 @@
             "replacements": {
                 "+": [
                     "+"
+                ],
+                "C/k": [
+                    "k"
                 ],
                 "a": [
                     "a"
@@ -34999,6 +35071,9 @@
                 "+": [
                     "+"
                 ],
+                "C/k": [
+                    "k"
+                ],
                 "a": [
                     "a"
                 ],
@@ -36437,6 +36512,9 @@
             "replacements": {
                 "+": [
                     "+"
+                ],
+                "C/k": [
+                    "k"
                 ],
                 "a": [
                     "a"
@@ -37910,13 +37988,14 @@
             }
         },
         "Lhasa": {
-            "bipa_errors": [
-                "C/"
-            ],
-            "general_errors": 1,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "+": [
                     "+"
+                ],
+                "C/k": [
+                    "k"
                 ],
                 "a": [
                     "a"
@@ -39314,12 +39393,10 @@
                     "\u207fdz"
                 ]
             },
-            "sclass_errors": [
-                "C/"
-            ],
+            "sclass_errors": [],
             "segments": {
                 "+": 185,
-                "C/": 1,
+                "C/k": 1,
                 "a": 148,
                 "a\u02d0": 9,
                 "b": 1,
@@ -39383,6 +39460,9 @@
             "replacements": {
                 "+": [
                     "+"
+                ],
+                "C/k": [
+                    "k"
                 ],
                 "a": [
                     "a"
@@ -40841,6 +40921,9 @@
             "replacements": {
                 "+": [
                     "+"
+                ],
+                "C/k": [
+                    "k"
                 ],
                 "a": [
                     "a"
@@ -42321,6 +42404,9 @@
                 "+": [
                     "+"
                 ],
+                "C/k": [
+                    "k"
+                ],
                 "a": [
                     "a"
                 ],
@@ -43767,6 +43853,9 @@
             "replacements": {
                 "+": [
                     "+"
+                ],
+                "C/k": [
+                    "k"
                 ],
                 "a": [
                     "a"
@@ -45216,6 +45305,9 @@
             "replacements": {
                 "+": [
                     "+"
+                ],
+                "C/k": [
+                    "k"
                 ],
                 "a": [
                     "a"
@@ -46667,6 +46759,9 @@
             "replacements": {
                 "+": [
                     "+"
+                ],
+                "C/k": [
+                    "k"
                 ],
                 "a": [
                     "a"
@@ -48131,6 +48226,9 @@
                 "+": [
                     "+"
                 ],
+                "C/k": [
+                    "k"
+                ],
                 "a": [
                     "a"
                 ],
@@ -49589,6 +49687,9 @@
                 "+": [
                     "+"
                 ],
+                "C/k": [
+                    "k"
+                ],
                 "a": [
                     "a"
                 ],
@@ -51032,6 +51133,9 @@
             "replacements": {
                 "+": [
                     "+"
+                ],
+                "C/k": [
+                    "k"
                 ],
                 "a": [
                     "a"
@@ -52480,13 +52584,14 @@
             }
         },
         "OldChinese": {
-            "bipa_errors": [
-                "C/"
-            ],
-            "general_errors": 36,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "+": [
                     "+"
+                ],
+                "C/k": [
+                    "k"
                 ],
                 "a": [
                     "a"
@@ -53884,12 +53989,10 @@
                     "\u207fdz"
                 ]
             },
-            "sclass_errors": [
-                "C/"
-            ],
+            "sclass_errors": [],
             "segments": {
                 "+": 127,
-                "C/": 36,
+                "C/k": 36,
                 "a": 89,
                 "b": 4,
                 "b\u02e4": 2,
@@ -53966,6 +54069,9 @@
             "replacements": {
                 "+": [
                     "+"
+                ],
+                "C/k": [
+                    "k"
                 ],
                 "a": [
                     "a"
@@ -55418,6 +55524,9 @@
                 "+": [
                     "+"
                 ],
+                "C/k": [
+                    "k"
+                ],
                 "a": [
                     "a"
                 ],
@@ -56864,6 +56973,9 @@
             "replacements": {
                 "+": [
                     "+"
+                ],
+                "C/k": [
+                    "k"
                 ],
                 "a": [
                     "a"
@@ -58321,6 +58433,9 @@
             "replacements": {
                 "+": [
                     "+"
+                ],
+                "C/k": [
+                    "k"
                 ],
                 "a": [
                     "a"
@@ -59787,6 +59902,9 @@
             "replacements": {
                 "+": [
                     "+"
+                ],
+                "C/k": [
+                    "k"
                 ],
                 "a": [
                     "a"
@@ -61255,6 +61373,9 @@
                 "+": [
                     "+"
                 ],
+                "C/k": [
+                    "k"
+                ],
                 "a": [
                     "a"
                 ],
@@ -62713,6 +62834,9 @@
                 "+": [
                     "+"
                 ],
+                "C/k": [
+                    "k"
+                ],
                 "a": [
                     "a"
                 ],
@@ -64150,6 +64274,9 @@
             "replacements": {
                 "+": [
                     "+"
+                ],
+                "C/k": [
+                    "k"
                 ],
                 "a": [
                     "a"
@@ -65628,6 +65755,9 @@
                 "+": [
                     "+"
                 ],
+                "C/k": [
+                    "k"
+                ],
                 "a": [
                     "a"
                 ],
@@ -67089,6 +67219,9 @@
                 "+": [
                     "+"
                 ],
+                "C/k": [
+                    "k"
+                ],
                 "a": [
                     "a"
                 ],
@@ -68548,6 +68681,9 @@
             "replacements": {
                 "+": [
                     "+"
+                ],
+                "C/k": [
+                    "k"
                 ],
                 "a": [
                     "a"
@@ -70010,6 +70146,9 @@
                 "+": [
                     "+"
                 ],
+                "C/k": [
+                    "k"
+                ],
                 "a": [
                     "a"
                 ],
@@ -71462,6 +71601,9 @@
             "replacements": {
                 "+": [
                     "+"
+                ],
+                "C/k": [
+                    "k"
                 ],
                 "a": [
                     "a"
@@ -72937,278 +73079,19 @@
         }
     },
     "stats": {
-        "bad_words": [
-            [
-                "Lhasa-60_toflow-1",
-                "Lhasa",
-                "60_toflow",
-                "t\u0255\u02b0.u.\u2075\u2075._.C.u.\u00b9\u00b3\u00b2",
-                "t\u0255\u02b0 u \u2075\u2075 + <s> C/ </s> u \u00b9\u00b3\u00b2"
-            ],
-            [
-                "OldChinese-107_knife-1",
-                "OldChinese",
-                "107_knife",
-                "C/.+.t\u02e4.a.w",
-                "<s> C/ </s> + t\u02e4 a w"
-            ],
-            [
-                "OldChinese-115_tolick-1",
-                "OldChinese",
-                "115_tolick",
-                "C/.\u0259.+.l.e.\u0294",
-                "<s> C/ </s> \u0259 + l e \u0294"
-            ],
-            [
-                "OldChinese-120_long-1",
-                "OldChinese",
-                "120_long",
-                "C/.\u0259.+.\u0274.+.t.r.a.\u014b",
-                "<s> C/ </s> \u0259 + \u0274 + t r a \u014b"
-            ],
-            [
-                "OldChinese-130_themosquito-1",
-                "OldChinese",
-                "130_themosquito",
-                "C/.+.m.\u0259.r",
-                "<s> C/ </s> + m \u0259 r"
-            ],
-            [
-                "OldChinese-135_themud-1",
-                "OldChinese",
-                "135_themud",
-                "C/.+.n\u02e4.\u0259.j",
-                "<s> C/ </s> + n\u02e4 \u0259 j"
-            ],
-            [
-                "OldChinese-137_thename-1",
-                "OldChinese",
-                "137_thename",
-                "C/.+.m.e.\u014b",
-                "<s> C/ </s> + m e \u014b"
-            ],
-            [
-                "OldChinese-147_oldofperson-1",
-                "OldChinese",
-                "147_oldofperson",
-                "C/.+.r\u02e4.u.\u0294",
-                "<s> C/ </s> + r\u02e4 u \u0294"
-            ],
-            [
-                "OldChinese-156_therain-1",
-                "OldChinese",
-                "156_therain",
-                "C/.+.\u0262\u02b7.a.\u0294",
-                "<s> C/ </s> + \u0262\u02b7 a \u0294"
-            ],
-            [
-                "OldChinese-163_theroad-1",
-                "OldChinese",
-                "163_theroad",
-                "C/.\u0259.+.r\u02e4.a.k.+.s",
-                "<s> C/ </s> \u0259 + r\u02e4 a k + s"
-            ],
-            [
-                "OldChinese-165_therope-1",
-                "OldChinese",
-                "165_therope",
-                "C/.\u0259.+.m.r.\u0259.\u014b",
-                "<s> C/ </s> \u0259 + m r \u0259 \u014b"
-            ],
-            [
-                "OldChinese-169_salty-1",
-                "OldChinese",
-                "169_salty",
-                "C/.\u0259.+.g\u02e4.r.o.m",
-                "<s> C/ </s> \u0259 + g\u02e4 r o./o m"
-            ],
-            [
-                "OldChinese-176_sharp-1",
-                "OldChinese",
-                "176_sharp",
-                "C/.+.r.i.t.+.s",
-                "<s> C/ </s> + r i t + s"
-            ],
-            [
-                "OldChinese-178_toshootanarrow-1",
-                "OldChinese",
-                "178_toshootanarrow",
-                "C/.\u0259.+.l.\u1d00.k.+.s",
-                "<s> C/ </s> \u0259 + l \u0251\u031f k + s"
-            ],
-            [
-                "OldChinese-17_thebodyhairhairorfur-1",
-                "OldChinese",
-                "17_thebodyhairhairorfur",
-                "C/.+.m\u02e4.a.w",
-                "<s> C/ </s> + m\u02e4 a w"
-            ],
-            [
-                "OldChinese-192_thesnake-1",
-                "OldChinese",
-                "192_thesnake",
-                "C/.\u0259.+.l.\u1d00.j",
-                "<s> C/ </s> \u0259 + l \u0251\u031f j"
-            ],
-            [
-                "OldChinese-205_thesun-1",
-                "OldChinese",
-                "205_thesun",
-                "C/.+.n.i.k",
-                "<s> C/ </s> + n i k"
-            ],
-            [
-                "OldChinese-210_thick-1",
-                "OldChinese",
-                "210_thick",
-                "C/.\u0259.+.g\u02e4.o.\u0294",
-                "<s> C/ </s> \u0259 + g\u02e4 o./o \u0294"
-            ],
-            [
-                "OldChinese-218_thethunder-1",
-                "OldChinese",
-                "218_thethunder",
-                "C/.+.r\u02e4.u.j",
-                "<s> C/ </s> + r\u02e4 u j"
-            ],
-            [
-                "OldChinese-21_toburnintransitive-1",
-                "OldChinese",
-                "21_toburnintransitive",
-                "C/.+.n.a.n",
-                "<s> C/ </s> + n a n"
-            ],
-            [
-                "OldChinese-224_thetree-1",
-                "OldChinese",
-                "224_thetree",
-                "C/.+.m\u02e4.o.k",
-                "<s> C/ </s> + m\u02e4 o./o k"
-            ],
-            [
-                "OldChinese-228_towalk-1",
-                "OldChinese",
-                "228_towalk",
-                "C/.\u0259.+.g\u02e4.r.a.\u014b",
-                "<s> C/ </s> \u0259 + g\u02e4 r a \u014b"
-            ],
-            [
-                "OldChinese-245_theyear-1",
-                "OldChinese",
-                "245_theyear",
-                "C/.+.n\u02e4.i.\u014b",
-                "<s> C/ </s> + n\u02e4 i \u014b"
-            ],
-            [
-                "OldChinese-26_coldoftemperature-3",
-                "OldChinese",
-                "26_coldoftemperature",
-                "C/.+.r.a.\u014b",
-                "<s> C/ </s> + r a \u014b"
-            ],
-            [
-                "OldChinese-26_coldoftemperature-4",
-                "OldChinese",
-                "26_coldoftemperature",
-                "C/.\u0259.+.g\u02e4.a.n",
-                "<s> C/ </s> \u0259 + g\u02e4 a n"
-            ],
-            [
-                "OldChinese-38_thedream-1",
-                "OldChinese",
-                "38_thedream",
-                "C/.+.m.\u0259.\u014b.+.s",
-                "<s> C/ </s> + m \u0259 \u014b + s"
-            ],
-            [
-                "OldChinese-42_theear-1",
-                "OldChinese",
-                "42_theear",
-                "C/.+.n.\u0259.\u0294",
-                "<s> C/ </s> + n \u0259 \u0294"
-            ],
-            [
-                "OldChinese-49_theeye-1",
-                "OldChinese",
-                "49_theeye",
-                "C/.+.m.u.k",
-                "<s> C/ </s> + m u k"
-            ],
-            [
-                "OldChinese-50_far-1",
-                "OldChinese",
-                "50_far",
-                "C/.+.\u0262\u02b7.a.n.\u0294",
-                "<s> C/ </s> + \u0262\u02b7 a n \u0294"
-            ],
-            [
-                "OldChinese-57_five-1",
-                "OldChinese",
-                "57_five",
-                "C/.+.\u014b\u02e4.a.\u0294",
-                "<s> C/ </s> + \u014b\u02e4 a \u0294"
-            ],
-            [
-                "OldChinese-62_toflymovethroughair-1",
-                "OldChinese",
-                "62_toflymovethroughair",
-                "C/.\u0259.+.p.\u0259.r",
-                "<s> C/ </s> \u0259 + p \u0259 r"
-            ],
-            [
-                "OldChinese-77_thegrass-2",
-                "OldChinese",
-                "77_thegrass",
-                "C/.\u0259.+.ts\u02e4.\u0259.r.+.s",
-                "<s> C/ </s> \u0259 + ts\u02e4 \u0259 r + s"
-            ],
-            [
-                "OldChinese-79_thehail-1",
-                "OldChinese",
-                "79_thehail",
-                "C/.+.b\u02e4.r.u.k",
-                "<s> C/ </s> + b\u02e4 r u k"
-            ],
-            [
-                "OldChinese-90_hightall-2",
-                "OldChinese",
-                "90_hightall",
-                "C/.\u0259.+.k\u02e4.a.w",
-                "<s> C/ </s> \u0259 + k\u02e4 a w"
-            ],
-            [
-                "OldChinese-93_horizontal-1",
-                "OldChinese",
-                "93_horizontal",
-                "C/.+.g\u02b7\u02e4.r.a.\u014b",
-                "<s> C/ </s> + g\u02b7\u02e4 r a \u014b"
-            ],
-            [
-                "OldChinese-94_thehornkeratinizedskin-1",
-                "OldChinese",
-                "94_thehornkeratinizedskin",
-                "C/.+.k\u02e4.r.o.k",
-                "<s> C/ </s> + k\u02e4 r o./o k"
-            ],
-            [
-                "OldChinese-96_hot-1",
-                "OldChinese",
-                "96_hot",
-                "C/.+.n.a.t",
-                "<s> C/ </s> + n a t"
-            ]
-        ],
-        "bad_words_count": 37,
-        "bipa_errors": [
-            "C/"
-        ],
-        "general_errors": 37,
+        "bad_words": [],
+        "bad_words_count": 0,
+        "bipa_errors": [],
+        "general_errors": 0,
         "invalid_words": [],
         "invalid_words_count": 0,
         "inventory_size": 51.54,
         "replacements": {
             "+": [
                 "+"
+            ],
+            "C/k": [
+                "k"
             ],
             "a": [
                 "a"
@@ -74606,12 +74489,10 @@
                 "\u207fdz"
             ]
         },
-        "sclass_errors": [
-            "C/"
-        ],
+        "sclass_errors": [],
         "segments": {
             "+": 4379,
-            "C/": 37,
+            "C/k": 37,
             "a": 4470,
             "a./a": 7,
             "a/r": 1,

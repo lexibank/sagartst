@@ -115,7 +115,7 @@
 | ṵ | 39 | ✓ | ✓ |
 | á/a | 38 | ✓ | ✓ |
 | ɵ | 38 | ✓ | ✓ |
-| C/ | 37 | ? | ? |
+| C/k | 37 | ✓ | ✓ |
 | ³² | 37 | ✓ | ✓ |
 | r̥ | 36 | ✓ | ✓ |
 | ã | 36 | ✓ | ✓ |
@@ -495,45 +495,8 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:---------------------------------------|:-----------|:--------------------------|:-------------------|:-----------------------------|
-| Lhasa-60_toflow-1 | Lhasa | 60_toflow | tɕʰ.u.⁵⁵._.C.u.¹³² | tɕʰ u ⁵⁵ + <s> C/ </s> u ¹³² |
-| OldChinese-107_knife-1 | OldChinese | 107_knife | C/.+.tˤ.a.w | <s> C/ </s> + tˤ a w |
-| OldChinese-115_tolick-1 | OldChinese | 115_tolick | C/.ə.+.l.e.ʔ | <s> C/ </s> ə + l e ʔ |
-| OldChinese-120_long-1 | OldChinese | 120_long | C/.ə.+.ɴ.+.t.r.a.ŋ | <s> C/ </s> ə + ɴ + t r a ŋ |
-| OldChinese-130_themosquito-1 | OldChinese | 130_themosquito | C/.+.m.ə.r | <s> C/ </s> + m ə r |
-| OldChinese-135_themud-1 | OldChinese | 135_themud | C/.+.nˤ.ə.j | <s> C/ </s> + nˤ ə j |
-| OldChinese-137_thename-1 | OldChinese | 137_thename | C/.+.m.e.ŋ | <s> C/ </s> + m e ŋ |
-| OldChinese-147_oldofperson-1 | OldChinese | 147_oldofperson | C/.+.rˤ.u.ʔ | <s> C/ </s> + rˤ u ʔ |
-| OldChinese-156_therain-1 | OldChinese | 156_therain | C/.+.ɢʷ.a.ʔ | <s> C/ </s> + ɢʷ a ʔ |
-| OldChinese-163_theroad-1 | OldChinese | 163_theroad | C/.ə.+.rˤ.a.k.+.s | <s> C/ </s> ə + rˤ a k + s |
-| OldChinese-165_therope-1 | OldChinese | 165_therope | C/.ə.+.m.r.ə.ŋ | <s> C/ </s> ə + m r ə ŋ |
-| OldChinese-169_salty-1 | OldChinese | 169_salty | C/.ə.+.gˤ.r.o.m | <s> C/ </s> ə + gˤ r o./o m |
-| OldChinese-176_sharp-1 | OldChinese | 176_sharp | C/.+.r.i.t.+.s | <s> C/ </s> + r i t + s |
-| OldChinese-178_toshootanarrow-1 | OldChinese | 178_toshootanarrow | C/.ə.+.l.ᴀ.k.+.s | <s> C/ </s> ə + l ɑ̟ k + s |
-| OldChinese-17_thebodyhairhairorfur-1 | OldChinese | 17_thebodyhairhairorfur | C/.+.mˤ.a.w | <s> C/ </s> + mˤ a w |
-| OldChinese-192_thesnake-1 | OldChinese | 192_thesnake | C/.ə.+.l.ᴀ.j | <s> C/ </s> ə + l ɑ̟ j |
-| OldChinese-205_thesun-1 | OldChinese | 205_thesun | C/.+.n.i.k | <s> C/ </s> + n i k |
-| OldChinese-210_thick-1 | OldChinese | 210_thick | C/.ə.+.gˤ.o.ʔ | <s> C/ </s> ə + gˤ o./o ʔ |
-| OldChinese-218_thethunder-1 | OldChinese | 218_thethunder | C/.+.rˤ.u.j | <s> C/ </s> + rˤ u j |
-| OldChinese-21_toburnintransitive-1 | OldChinese | 21_toburnintransitive | C/.+.n.a.n | <s> C/ </s> + n a n |
-| OldChinese-224_thetree-1 | OldChinese | 224_thetree | C/.+.mˤ.o.k | <s> C/ </s> + mˤ o./o k |
-| OldChinese-228_towalk-1 | OldChinese | 228_towalk | C/.ə.+.gˤ.r.a.ŋ | <s> C/ </s> ə + gˤ r a ŋ |
-| OldChinese-245_theyear-1 | OldChinese | 245_theyear | C/.+.nˤ.i.ŋ | <s> C/ </s> + nˤ i ŋ |
-| OldChinese-26_coldoftemperature-3 | OldChinese | 26_coldoftemperature | C/.+.r.a.ŋ | <s> C/ </s> + r a ŋ |
-| OldChinese-26_coldoftemperature-4 | OldChinese | 26_coldoftemperature | C/.ə.+.gˤ.a.n | <s> C/ </s> ə + gˤ a n |
-| OldChinese-38_thedream-1 | OldChinese | 38_thedream | C/.+.m.ə.ŋ.+.s | <s> C/ </s> + m ə ŋ + s |
-| OldChinese-42_theear-1 | OldChinese | 42_theear | C/.+.n.ə.ʔ | <s> C/ </s> + n ə ʔ |
-| OldChinese-49_theeye-1 | OldChinese | 49_theeye | C/.+.m.u.k | <s> C/ </s> + m u k |
-| OldChinese-50_far-1 | OldChinese | 50_far | C/.+.ɢʷ.a.n.ʔ | <s> C/ </s> + ɢʷ a n ʔ |
-| OldChinese-57_five-1 | OldChinese | 57_five | C/.+.ŋˤ.a.ʔ | <s> C/ </s> + ŋˤ a ʔ |
-| OldChinese-62_toflymovethroughair-1 | OldChinese | 62_toflymovethroughair | C/.ə.+.p.ə.r | <s> C/ </s> ə + p ə r |
-| OldChinese-77_thegrass-2 | OldChinese | 77_thegrass | C/.ə.+.tsˤ.ə.r.+.s | <s> C/ </s> ə + tsˤ ə r + s |
-| OldChinese-79_thehail-1 | OldChinese | 79_thehail | C/.+.bˤ.r.u.k | <s> C/ </s> + bˤ r u k |
-| OldChinese-90_hightall-2 | OldChinese | 90_hightall | C/.ə.+.kˤ.a.w | <s> C/ </s> ə + kˤ a w |
-| OldChinese-93_horizontal-1 | OldChinese | 93_horizontal | C/.+.gʷˤ.r.a.ŋ | <s> C/ </s> + gʷˤ r a ŋ |
-| OldChinese-94_thehornkeratinizedskin-1 | OldChinese | 94_thehornkeratinizedskin | C/.+.kˤ.r.o.k | <s> C/ </s> + kˤ r o./o k |
-| OldChinese-96_hot-1 | OldChinese | 96_hot | C/.+.n.a.t | <s> C/ </s> + n a t |
+|------|------------|-----------|--------|------------|
 
-(37 rows)
+(0 rows)
 
 
