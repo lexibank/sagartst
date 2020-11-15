@@ -18,25 +18,25 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/digling/sinotibetan-data",
-            "dc:created": "v1.1.0-21-g2f80613"
+            "dc:created": "v1.1.0-22-g785fc51"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/lingulist/glottolog-data",
-            "dc:created": "v4.0"
+            "rdf:about": "https://github.com/glottolog/glottolog",
+            "dc:created": "v4.3"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.3.0-53-g324a045"
+            "dc:created": "v2.4.0-5-gaceeb4b"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts/",
-            "dc:created": "v1.4"
+            "dc:created": "v1.4-34-ga2b5dc6"
         }
     ],
     "prov:wasGeneratedBy": [

@@ -11,7 +11,7 @@ _	+
 a	a
 a.	a
 a./a	a./a
-a/r	a/r
+a/r	r/a
 a:	aː
 aa	aː
 aa/a	aa/a
@@ -23,7 +23,7 @@ a̰	a̰
 a̰ː	a̰ː
 a̱	a̠
 b	b
-bh	bh
+bh	bʰ
 bʰ	bʰ
 bʱ	bʱ
 bʲ	bʲ
@@ -31,7 +31,7 @@ bˤ	bˤ
 c	c
 c/tʃ	c/tʃ
 c/tʃʰ	c/tʃʰ
-ch	ch
+ch	ch/ts
 ch/tsʰ	ch/tsʰ
 ch/tʃ	ch/tʃ
 cç	cç
@@ -39,7 +39,7 @@ cçh	cçʰ
 cçʰ	cçʰ
 cʰ	cʰ
 d	d
-dh	dh
+dh	dʰ
 dz	dz
 dzh	dzʰ
 dzʰ	dzʰ
@@ -66,7 +66,7 @@ e̱	e̠
 e̱ː	e̱ː
 f	f
 g	g
-gh	gh
+gh	gh/gʰ
 gʰ	gʰ
 gʱ	gʱ
 gʲ	gʲ
@@ -113,23 +113,23 @@ lˤ	lˤ
 l̥	l̥
 l̥ˤ	l̥ˤ
 m	m
-mb	mb
-mh	mh
+mb	ⁿb
+mh	mh/m̥
 mh/m̥	mh/m̥
-ms	ms
+ms	m s
 mʲ	mʲ
 mˤ	mˤ
 m̥	m̥
 m̥ˤ	m̥ˤ
 m̩	m̩
 n	n
-nd	nd
-ndz	ndz
-ndʐ	nɖʐ
-ndʑ	ndʑ
-ng	ng
-nh	nh
-ns	ns
+nd	ⁿd
+ndz	ⁿdz
+ndʐ	ⁿɖʐ
+ndʑ	ⁿdʑ
+ng	ng/ŋ
+nh	nh/n̊
+ns	n s
 nʲ	nʲ
 nˤ	nˤ
 n̥	n̥
@@ -155,12 +155,12 @@ o₁	o₁/o
 o₂	o₂/o
 p	p
 ph	pʰ
-pp	pp
-ps	ps
+pp	pː
+ps	p s
 pʰ	pʰ
 pˤ	pˤ
 q	q
-qh	qh
+qh	qʰ
 qʰ	qʰ
 qʰˤ	qʰˤ
 qʷʰˤ	qʷʰˤ
@@ -187,7 +187,7 @@ sh	sʰ
 sʰ	sʰ
 sˤ	sˤ
 t	t
-tcʰ	tcʰ
+tcʰ	tcʰ/tɕʰ
 th	tʰ
 ts	ts
 tsh	tsʰ
@@ -196,7 +196,7 @@ tsʰʷ	tsʷʰ
 tsʰˤ	tsʰˤ
 tsʷ	tsʷ
 tsˤ	tsˤ
-tt	tt
+tt	tː
 tɕ	tɕ
 tɕh	tɕʰ
 tɕʰ	tɕʰ
@@ -217,11 +217,11 @@ tθ	tθ
 u	u
 u./u	u./u
 u:	uː
-ua	ua
-ui	ui
+ua	u a
+ui	u i
 uu	uː
 uu/u	uu/u
-uɑ	uɑ
+uɑ	u ɑ
 uɑ̱	w ɑ̱/ɑ
 uˀ	uˀ
 uː	uː
@@ -276,7 +276,7 @@ zˤ	zˤ
 à/a	à/a
 àa	àa/a
 àa/a	àa/a
-ài	ài
+ài	ài/ai
 àː	àː/aː
 á	á/a
 â	â/a
@@ -291,23 +291,23 @@ zˤ	zˤ
 ç	ç
 çh	çʰ
 è	è/e
-èe/e	èe/e
+èe/e	èe/eː
 é	é/e
 ê	ê/e
 ê/e	ê/e
 êe	êe/eː
-êe/e	êe/e
+êe/e	êe/eː
 êː	êː/eː
 ì	ì/i
 ì/i	ì/i
-ìi/i	ìi/i
+ìi/i	ìi/iː
 í	í/i
 î	î/i
 î/i	î/i
 îi/a	îi/a
 îi/i	îi/i
 ñ	ɲ
-ññ	ññ/ɲ
+ññ	ññ/ɲː
 ò	ò/o
 òo/o	òo/o
 ó	ó/o
@@ -322,12 +322,12 @@ zˤ	zˤ
 ù	ù
 ù/u	ù/u
 ùi	ùi/ui
-ùu/u	ùu/u
+ùu/u	ùu/uː
 ú	ú/u
 û	û/u
 û/u	û/u
 ûu	ûu/u
-ûu/u	ûu/u
+ûu/u	ûu/uː
 ûː	ûː/uː
 ā	ā/aː
 āː	āː/aː
@@ -336,18 +336,18 @@ zˤ	zˤ
 ĕ	ĕ
 ě	ě
 ě/e	ě/e
-ěe/e	ěe/e
+ěe/e	ěe/eː
 ĩ	ĩ
 ĩː	ĩː
 ĩ̱	ĩ̠
 ī	iː
 ĭ	ĭ
 ı̀	ì/i
-ı̀i/i	ı̀i/i
+ı̀i/i	ı̀i/iː
 ı̂/i	ı̂/i
 ı̃	ĩ
 ŋ	ŋ
-ŋg	ŋg
+ŋg	ⁿg
 ŋʷ	ŋʷ
 ŋʷˤ	ŋʷˤ
 ŋˌ	ŋ
@@ -367,17 +367,17 @@ zˤ	zˤ
 ū	ū
 ǎ	ǎ
 ǎ/a	ǎ/a
-ǎa	ǎa/a
-ǎa/a	ǎa/a
+ǎa	ǎa/aː
+ǎa/a	ǎa/aː
 ǐ	ǐ/i
 ǐ/i	ǐ/i
-ǐi/i	ǐi/i
+ǐi/i	ǐi/iː
 ǒ	ǒ
 ǒ/a	ǒ/a
 ǒo/o	ǒo/o
 ǔ	ǔ
 ǔ/u	ǔ/u
-ǔu	ǔu/u
+ǔu	ǔu/uː
 ǝ	ə
 ǽ	ǽ/æ
 ȵ	ȵ
@@ -394,7 +394,7 @@ zˤ	zˤ
 ɑ̱	ɑ̠
 ɑ̱̆	ɑ̠̆
 ɔ	ɔ
-ɔ/r	ɔ/r
+ɔ/r	r/ɔ
 ɔ:	ɔː
 ɔˀ	ɔˀ
 ɔː	ɔː
@@ -412,10 +412,10 @@ zˤ	zˤ
 ɕh	ɕʰ
 ɕʰ	ɕʰ
 ɖ	ɖ
-ɖh	ɖh
+ɖh	ɖʰ
 ɖʐ	ɖʐ
 ɘ	ɘ
-ɘ/r	ɘ/r
+ɘ/r	r/ɘ
 ə	ə
 ə./ə	ə./ə
 əə	əː
@@ -448,7 +448,7 @@ zˤ	zˤ
 ɢʷ	ɢʷ
 ɣ	ɣ
 ɤ	ɤ
-ɤ/r	ɤ/r
+ɤ/r	r/ɤ
 ɥ	ɥ
 ɦ	ɦ
 ɨ	ɨ
@@ -470,7 +470,7 @@ zˤ	zˤ
 ɲ̊	ɲ̊
 ɳ	ɳ
 ɴ	ɴ
-ɴɢ	ɴɢ
+ɴɢ	ⁿɢ
 ɵ	ɵ
 ɵ̂	ɵ̂
 ɵ̂ː	ɵ̂ː
@@ -485,7 +485,7 @@ zˤ	zˤ
 ʃ	ʃ
 ʅ	ʅ
 ʈ	ʈ
-ʈh	ʈh
+ʈh	ʈʰ
 ʈʂ	ʈʂ
 ʈʂʰ	ʈʂʰ
 ʈʰ	ʈʰ

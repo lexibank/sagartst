@@ -157,7 +157,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,TBL_ID,Coverage
 156_therain,the rain,658,RAIN (PRECIPITATION),10,0.98
 157_therainbow,the rainbow,1733,RAINBOW,11,0.49
 158_red,red,156,RED,1007,0.96
-159_toresidelive,to reside (live),1099,RESIDE,1452,0.94
+159_toresidelive,to reside (live),363,"DWELL (LIVE, RESIDE)",1452,0.94
 160_thericeplant,the rice plant,2026,RICE PLANT,439,0.39
 161_right,right,1019,RIGHT,711,1.0
 162_theriver,the river,666,RIVER,30,0.55
@@ -209,8 +209,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,TBL_ID,Coverage
 208_that,that,78,THAT,947,0.52
 209_there,there,1937,THERE,950,0.52
 210_thick,thick,1244,THICK,980,0.94
-211_thethigh,the thigh,800,THIGH,100,0.9
-212_thinobject,thin (object),2307,THIN (OF HAIR AND LEAF),981,0.94
+211_thethigh,the thigh,471,UPPER LEG (THIGH),100,0.9
+212_thinobject,thin (object),2249,THIN (OF SHAPE OF OBJECT),981,0.94
 213_tothinkreflect,to think (reflect),1415,THINK (REFLECT),1726,0.98
 214_this,this,1214,THIS,942,0.53
 215_thousecondpersonsingular,thou [second person singular],1215,THOU,931,0.94
