@@ -18,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/digling/sinotibetan-data",
-            "dc:created": "v1.1.0-22-g785fc51"
+            "dc:created": "v1.1.0-23-g354cdb5"
         },
         {
             "rdf:type": "prov:Entity",
@@ -30,19 +30,19 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0-5-gaceeb4b"
+            "dc:created": "v2.4.0-17-ga0ae303"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts/",
-            "dc:created": "v1.4-34-ga2b5dc6"
+            "dc:created": "v1.4-78-g54b0f66"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.2"
+            "dc:description": "3.8.6"
         },
         {
             "dc:title": "python-packages",

@@ -440,7 +440,7 @@ OldTibetan-180_theshoulder-1,8817,OldTibetan,180_theshoulder,pʰrag,pʰ.r.a.g,p�
 Japhug-180_theshoulder-1,8846,Japhug,180_theshoulder,tɯ-rpaʁ,t.ɯ.◦.r.p.a.ʁ,t ɯ + r p a ʁ,,Jacques2015b,13,false,^ t . ɯ . ◦ . r . p . a. ʁ $,default
 OldTibetan-181_shy-1,8870,OldTibetan,181_shy,ŋo+tsʰa,ŋ.o.+.tsʰ.a,ŋ o./o + tsʰ a,,Huang1992,5877,false,^ ŋ . o. + . tsʰ . a $,default
 Japhug-181_shy-1,8899,Japhug,181_shy,nɤzraʁ,n.ɤ.z.r.a.ʁ,n ɤ z r a ʁ,,Jacques2015b,2478,false,^ n . ɤ . z . r . a. ʁ $,default
-OldTibetan-183_tosing-1,8976,OldTibetan,183_tosing,gʑas++gtoŋ,g.ʑ.a.s.+.+.g.t.o.ŋ,g ʑ a s + + g t o./o ŋ,,Huang1992,3053,false,^ g . ʑ . a. s . + . + . g . t . o. ŋ $,default
+OldTibetan-183_tosing-1,8976,OldTibetan,183_tosing,gʑas++gtoŋ,g.ʑ.a.s.+.+.g.t.o.ŋ,g ʑ a s + g t o./o ŋ,,Huang1992,3053,false,^ g . ʑ . a. s . +.+ . g . t . o. ŋ $,default
 Japhug-183_tosing-1,9005,Japhug,183_tosing,nɯrɤɣo,n.ɯ.r.ɤ.ɣ.o,n ɯ r ɤ ɣ o,,Jacques2015b,3058,false,^ n . ɯ . r . ɤ . ɣ . o $,default
 OldTibetan-184_six-1,9082,OldTibetan,184_six,drug,d.r.u.g,d r u g,,Huang1992,306,false,^ d . r . u . g $,default
 Japhug-184_six-1,9111,Japhug,184_six,kɯtʂɤɣ,k.ɯ.tʂ.ɤ.ɣ,k ɯ ʈʂ ɤ ɣ,,Jacques2015b,306,false,^ k . ɯ . tʂ . ɤ . ɣ $,default
@@ -554,7 +554,7 @@ Khaling-224_thetree-1,11321,Khaling,224_thetree,sʌ̄ŋ,s.ʌ̄.ŋ,s ʌ̄ ŋ,,Jac
 Limbu-224_thetree-1,11322,Limbu,224_thetree,siŋbuŋ,s.i.ŋ.b.u.ŋ,s i ŋ b u ŋ,,Jacques2017FN,3396,false,^ s . i . ŋ . b . u . ŋ $,default
 Japhug-224_thetree-1,11337,Japhug,224_thetree,si,s.i,s i,,Jacques2015b,3396,false,^ s . i $,default
 Tangut-224_thetree-1,11341,Tangut,224_thetree,sji¹,s.j.i.¹,s j i ¹,,Li1997,3396,false,^ s . j . i . ¹ $,default
-OldTibetan-225_twenty-1,11414,OldTibetan,225_twenty,ɲi++ɕu,ɲ.i.+.+.ɕ.u,ɲ i + + ɕ u,,Huang1992,2812,false,^ ɲ . i . + . + . ɕ . u $,default
+OldTibetan-225_twenty-1,11414,OldTibetan,225_twenty,ɲi++ɕu,ɲ.i.+.+.ɕ.u,ɲ i + ɕ u,,Huang1992,2812,false,^ ɲ . i . +.+ . ɕ . u $,default
 Japhug-225_twenty-1,11443,Japhug,225_twenty,ɣnɤsqi,ɣ.n.ɤ.s.q.i,ɣ n ɤ s q i,,Jacques2015b,4759,false,^ ɣ . n . ɤ . s . q . i $,default
 OldTibetan-226_two-1,11467,OldTibetan,226_two,gɲis,g.ɲ.i.s,g ɲ i s,,Huang1992,102,false,^ g . ɲ . i . s $,default
 Khaling-226_two-1,11480,Khaling,226_two,sakpu,s.a.k.p.u,s a k p u,,Jacques2017FN,3241,false,^ s . a. k . p . u $,default
@@ -2065,7 +2065,7 @@ Dulong-73_full-1,19726,Dulong,73_full,dɑm⁵³,d.ɑ.m.⁵³,d ɑ m ⁵³,,Huang
 Dulong-124_many-1,19727,Dulong,124_many,bɯm⁵³,b.ɯ.m.⁵³,b ɯ m ⁵³,,Huang1992,1571,false,^ b . ɯ . m . ⁵³ $,default
 Dulong-166_round-1,19729,Dulong,166_round,ɑŋ³¹luŋ⁵⁵,ɑ.ŋ.³¹.+.l.u.ŋ.⁵⁵,ɑ ŋ ³¹ + l u ŋ ⁵⁵,,Huang1992,10559,false,^ ɑ . ŋ . ³¹ . + . l . u . ŋ . ⁵⁵ $,default
 Daofu-167_torun-1,19736,Daofu,167_torun,mɟjə ra,m.ɟj.ə.+.r.a,m ɟʲ ə + r a,!,Huang1992,729,false,^ m . ɟj . ə . + . r . a $,default
-Dulong-93_horizontal-1,19737,Dulong,93_horizontal,ɑŋ⁵⁵mɯ³¹ɹɑ · m⁵⁵,ɑ.ŋ.⁵⁵.+.m.ɯ.³¹.+.ɹ.ɑ._.·._.m.⁵⁵,ɑ ŋ ⁵⁵ + m ɯ ³¹ + ɹ ɑ + + m ⁵⁵,?à verifier,Huang1992,1577,false,^ ɑ . ŋ . ⁵⁵ . + . m . ɯ . ³¹ . + . ɹ . ɑ . _ . · . _ . m . ⁵⁵ $,default
+Dulong-93_horizontal-1,19737,Dulong,93_horizontal,ɑŋ⁵⁵mɯ³¹ɹɑ · m⁵⁵,ɑ.ŋ.⁵⁵.+.m.ɯ.³¹.+.ɹ.ɑ._.·._.m.⁵⁵,ɑ ŋ ⁵⁵ + m ɯ ³¹ + ɹ ɑ + m ⁵⁵,?à verifier,Huang1992,1577,false,^ ɑ . ŋ . ⁵⁵ . + . m . ɯ . ³¹ . + . ɹ . ɑ . _.·._ . m . ⁵⁵ $,default
 Dulong-204_straight-1,19738,Dulong,204_straight,ɕɑn⁵⁵,ɕ.ɑ.n.⁵⁵,ɕ ɑ n ⁵⁵,,Huang1992,1578,false,^ ɕ . ɑ . n . ⁵⁵ $,default
 Dulong-14_black-1,19739,Dulong,14_black,nɑʔ⁵⁵,n.ɑ.ʔ.⁵⁵,n ɑ ʔ ⁵⁵,,Huang1992,511,false,^ n . ɑ . ʔ . ⁵⁵ $,default
 Dulong-235_white-1,19740,Dulong,235_white,mɔŋ⁵³,m.ɔ.ŋ.⁵³,m ɔ ŋ ⁵³,,Huang1992,3709,false,^ m . ɔ . ŋ . ⁵³ $,default
@@ -4453,7 +4453,7 @@ Khaling-233_thewheat-1,30506,Khaling,233_thewheat,dhōːʦer,dh.ōː.ʦ.e.r,dʰ 
 Limbu-233_thewheat-1,30507,Limbu,233_thewheat,masi,m.a.s.i,m a s i,,Jacques2017FN,3243,false,^ m . a. s . i $,default
 Limbu-7_thebarleytibetanorhighland-1,30508,Limbu,7_thebarleytibetanorhighland,hɔksi,h.ɔ.k.s.i,h ɔ k s i,,Jacques2017FN,3254,false,^ h . ɔ . k . s . i $,default
 Khaling-160_thericeplant-1,30510,Khaling,160_thericeplant,bheŋsi,bh.e.ŋ.s.i,bʰ e ŋ s i,Does this mean 'rice plant' specifically ?,Jacques2017FN,3,false,^ bh . e . ŋ . s . i $,default
-Japhug-118_thelipthelips-1,30512,Japhug,118_thelipthelips,tɯ++mtɕhi,t.ɯ.+.+.m.tɕh.i,t ɯ + + m tɕʰ i,,Jacques2015b,10522,true,^ t . ɯ . + . + . m . tɕh . i $,default
+Japhug-118_thelipthelips-1,30512,Japhug,118_thelipthelips,tɯ++mtɕhi,t.ɯ.+.+.m.tɕh.i,t ɯ + m tɕʰ i,,Jacques2015b,10522,true,^ t . ɯ . +.+ . m . tɕh . i $,default
 Khaling-118_thelipthelips-1,30513,Khaling,118_thelipthelips,koɔ̄mtʌtoɔr,k.oɔ̄.m.t.ʌ.t.oɔ.r,k oɔ̄ m t ʌ t oɔ r,,Jacques2017FN,3559,false,^ k . oɔ̄ . m . t . ʌ . t . oɔ . r $,default
 Limbu-118_thelipthelips-1,30514,Limbu,118_thelipthelips,murase,m.u.r.a.s.e,m u r a s e,,Jacques2017FN,3560,false,^ m . u . r . a. s . e $,default
 Khaling-4_thearmpit-1,30515,Khaling,4_thearmpit,lâm,l.â.m,l â/a m,,Jacques2017FN,3561,false,^ l . â . m $,default
@@ -4999,7 +4999,7 @@ OldBurmese-164_theroot-1,31187,OldBurmese,164_theroot,mrjat,m.r.j.a.t,m r j a t,
 OldBurmese-165_therope-1,31188,OldBurmese,165_therope,kruiwḥ,k.r.ui.w.ḥ,k r u i w h,,Hill2017,1071,false,^ k . r . ui . w . ḥ $,default
 OldBurmese-168_thesalt-1,31189,OldBurmese,168_thesalt,chāḥ,ch.ā.ḥ,ch/ts ā/aː h,,Hill2017,4160,false,^ ch . ā . ḥ $,default
 OldBurmese-170_thesand-1,31190,OldBurmese,170_thesand,sai,s.ai,s ai,,Hill2017,212,false,^ s . ai $,default
-OldBurmese-172_thesea-1,31191,OldBurmese,172_thesea,paṅ◦+lay,p.a.ṅ.◦.+.l.a.y,p a ṅ/n + + l a y,,Hill2017,3827,false,^ p . a. ṅ . ◦ . + . l . a. y $,default
+OldBurmese-172_thesea-1,31191,OldBurmese,172_thesea,paṅ◦+lay,p.a.ṅ.◦.+.l.a.y,p a ṅ/n + l a y,,Hill2017,3827,false,^ p . a. ṅ .◦.+. l . a. y $,default
 OldBurmese-174_theseed-1,31192,OldBurmese,174_theseed,mjuiwḥ◦cijʔ,m.j.ui.w.ḥ.◦.c.i.j.ʔ,m j u i w h + c i j ʔ,,Hill2017,127,false,^ m . j . ui . w . ḥ . ◦ . c . i . j . ʔ $,default
 OldBurmese-177_thesheep-1,31193,OldBurmese,177_thesheep,suiwḥ,s.ui.w.ḥ,s u i w h,,Hill2017,3405,false,^ s . ui . w . ḥ $,default
 OldBurmese-180_theshoulder-1,31194,OldBurmese,180_theshoulder,pa+khuṃḥ,p.a.+.kh.u.ṃ.ḥ,p a + kʰ u m̩ h,,Hill2017,10161,false,^ p . a. + . kh . u . ṃ . ḥ $,default
@@ -5640,7 +5640,7 @@ Chepang-247_yesterday-1,32063,Chepang,247_yesterday,joh,j.o.h,j o./o h,,Caughley
 Chepang-248_yousecondpersonplural-1,32064,Chepang,248_yousecondpersonplural,niŋ,n.i.ŋ,n i ŋ,,Caughley2000,3007,false,^ n . i . ŋ $,default
 Chepang-249_young-1,32065,Chepang,249_young,həw,h.ə.w,h ə w,,Caughley2000,3912,false,^ h . ə . w $,default
 Chepang-250_theshit-1,32066,Chepang,250_theshit,kliʔ,k.l.i.ʔ,k l i ʔ,,Caughley2000,29700,false,^ k . l . i . ʔ $,default
-Khaling-26_coldoftemperature-2,32067,Khaling,26_coldoftemperature,dzʰūŋ++lʉ,dzʰ.ū.ŋ.+.+.l.ʉ,dzʰ ū ŋ + + l ʉ,,Jacques2017FN,2160,false,^ dzʰ . ū . ŋ . + . + . l . ʉ $,default
+Khaling-26_coldoftemperature-2,32067,Khaling,26_coldoftemperature,dzʰūŋ++lʉ,dzʰ.ū.ŋ.+.+.l.ʉ,dzʰ ū ŋ + l ʉ,,Jacques2017FN,2160,false,^ dzʰ . ū . ŋ . +.+ . l . ʉ $,default
 Chepang-74_togive-1,32068,Chepang,74_togive,bəjʔ,b.ə.j.ʔ,b ə j ʔ,,Caughley2000,1913,false,^ b . ə . j . ʔ $,default
 Japhug-76_good-2,32069,Japhug,76_good,sna,s.n.a,s n a,,Jacques2015b,3913,false,^ s . n . a $,default
 Chepang-199_tostand-1,32070,Chepang,199_tostand,tʃiŋ,tʃ.i.ŋ,tʃ i ŋ,,Caughley2000,3914,false,^ tʃ . i . ŋ $,default
@@ -5651,7 +5651,7 @@ Garo-4_thearmpit-1,32074,Garo,4_thearmpit,pakwal,p.a.k.w.a.l,p a k w a l,,Burlin
 Garo-6_thebamboo-1,32075,Garo,6_thebamboo,waʔ,w.a.ʔ,w a ʔ,,Burling2003,501,false,^ w . a. ʔ $,default
 Garo-8_tobealive-1,32076,Garo,8_tobealive,tang+a,t.a.ng.+.a,t a ng/ŋ + a,,Burling2003,10407,false,^ t . a. ng . + . a $,default
 Garo-9_thebelly-1,32077,Garo,9_thebelly,bikma,b.i.k.m.a,b i k m a,there is a variant buk-ma,Burling2003,10241,false,^ b . i . k . m . a $,default
-Garo-10_belowunder-1,32078,Garo,10_belowunder,ka•+ma,k.a.•.+.m.a,k a + + m a,-ma noun suffix: bik-ma 'belly',Burling2003,3917,false,^ k . a. • . + . m . a $,default
+Garo-10_belowunder-1,32078,Garo,10_belowunder,ka•+ma,k.a.•.+.m.a,k a + m a,-ma noun suffix: bik-ma 'belly',Burling2003,3917,false,^ k . a. • . + . m . a $,default
 Garo-11_big-1,32079,Garo,11_big,dalʔ+a,d.a.l.ʔ.+.a,d a l ʔ + a,,Burling2003,3918,false,^ d . a. l . ʔ . + . a $,default
 Garo-12_thebird-1,32080,Garo,12_thebird,doʔ,d.o.ʔ,d o./o ʔ,PBG (Joseph and Burling) *tao2,Burling2003,10146,false,^ d . o. ʔ $,default
 Garo-13_tobite-1,32081,Garo,13_tobite,chik+a,ch.i.k.+.a,ch/ts i k + a,,Burling2003,2401,false,^ ch . i . k . + . a $,default
@@ -5736,7 +5736,7 @@ Garo-95_thehorse-1,32162,Garo,95_thehorse,gora,g.o.r.a,g o./o r a,,Burling2003,5
 Garo-96_hot-1,32163,Garo,96_hot,diŋʔ+a,d.i.ŋ.ʔ.+.a,d i ŋ ʔ + a,,Burling2003,3958,false,^ d . i . ŋ . ʔ . + . a $,default
 Garo-97_thehouse-1,32164,Garo,97_thehouse,nok,n.o.k,n o./o k,,Burling2003,3959,false,^ n . o. k $,default
 Garo-98_hundred-1,32165,Garo,98_hundred,rit+cha+sa,r.i.t.+.ch.a.+.s.a,r i t + ch/ts a + s a,,Burling2003,346,false,^ r . i . t . + . ch . a. + . s . a $,default
-Garo-99_tohunt-1,32166,Garo,99_tohunt,si+kal+_dak+a,s.i.+.k.a.l.+._.d.a.k.+.a,s i + k a l + + d a k + a,,Burling2003,3960,false,^ s . i . + . k . a. l . + . _ . d . a. k . + . a $,default
+Garo-99_tohunt-1,32166,Garo,99_tohunt,si+kal+_dak+a,s.i.+.k.a.l.+._.d.a.k.+.a,s i + k a l + d a k + a,,Burling2003,3960,false,^ s . i . + . k . a. l .+._. d . a. k . + . a $,default
 Garo-100_thehusband-1,32167,Garo,100_thehusband,aŋ+se,a.ŋ.+.s.e,a ŋ + s e,,Burling2003,5365,false,^ a. ŋ . + . s . e $,default
 Garo-101_ifirstpersonsingular-1,32168,Garo,101_ifirstpersonsingular,aŋa,a.ŋ.a,a ŋ a,,Burling2003,10388,false,^ a. ŋ . a $,default
 Garo-102_theice-1,32169,Garo,102_theice,borop,b.o.r.o.p,b o./o r o./o p,,Burling2003,1169,false,^ b . o. r . o. p $,default
@@ -5886,7 +5886,7 @@ OldTibetan-28_correctright-2,32320,OldTibetan,28_correctright,ŋes+pa,ŋ.e.s.+.p
 OldTibetan-28_correctright-3,32321,OldTibetan,28_correctright,bden+pa,b.d.e.n.+.p.a,b d e n + p a,,Huang1992,5328,false,^ b . d . e . n . + . p . a $,default
 Japhug-28_correctright-2,32322,Japhug,28_correctright,ɯ+stu,ɯ.+.s.t.u,ɯ + s t u,,Jacques2015b,3976,false,^ ɯ . + . s . t . u $,default
 OldTibetan-73_full-2,32323,OldTibetan,73_full,bʲiŋs+po,b.ʲ.i.ŋ.s.+.p.o,b j i ŋ s + p o,,Huang1992,149,false,^ b . ʲ . i . ŋ . s . + . p . o $,default
-OldTibetan-102_theice-2,32324,OldTibetan,102_theice,tɕʰab++rom,tɕʰ.a.b.+.+.r.o.m,tɕʰ a b + + r o./o m,,Huang1992,1169,false,^ tɕʰ . a. b . + . + . r . o. m $,default
+OldTibetan-102_theice-2,32324,OldTibetan,102_theice,tɕʰab++rom,tɕʰ.a.b.+.+.r.o.m,tɕʰ a b + r o./o m,,Huang1992,1169,false,^ tɕʰ . a. b . +.+ . r . o. m $,default
 OldTibetan-102_theice-3,32325,OldTibetan,102_theice,dar,d.a.r,d a r,,Huang1992,2797,false,^ d . a. r $,default
 Japhug-124_many-2,32326,Japhug,124_many,dɤn,d.ɤ.n,d ɤ n,,Jacques2015b,4044,true,^ d . ɤ . n $,default
 Garo-156_therain-2,32327,Garo,156_therain,wa+a,w.a.+.a,w a + a,,Burling2003,10234,false,^ w . a. + . a $,default
@@ -5914,7 +5914,7 @@ OldTibetan-151_thepig-1,32349,OldTibetan,151_thepig,pʰag,pʰ.a.g,pʰ a g,,Huang
 OldTibetan-241_thewolf-1,32350,OldTibetan,241_thewolf,spjaŋ+ki,s.p.j.a.ŋ.+.k.i,s p j a ŋ + k i,,Huang1992,741,false,^ s . p . j . a. ŋ . + . k . i $,default
 OldTibetan-68_thefox-1,32351,OldTibetan,68_thefox,ɦwa,ɦ.w.a,ɦ w a,,Huang1992,379,true,^ ɦ . w . a $,default
 OldTibetan-69_thefrog-1,32352,OldTibetan,69_thefrog,sbal,s.b.a.l,s b a l,,Huang1992,145,false,^ s . b . a. l $,default
-OldTibetan-58_theflea-1,32353,OldTibetan,58_theflea,ldʑi++ba,l.dʑ.i.+.+.b.a,l dʑ i + + b a,not in OT,Huang1992,944,false,^ l . dʑ . i . + . + . b . a $,default
+OldTibetan-58_theflea-1,32353,OldTibetan,58_theflea,ldʑi++ba,l.dʑ.i.+.+.b.a,l dʑ i + b a,not in OT,Huang1992,944,false,^ l . dʑ . i . +.+ . b . a $,default
 OldTibetan-3_theant-1,32354,OldTibetan,3_theant,grog+ma,g.r.o.g.+.m.a,g r o./o g + m a,not in OT?,Huang1992,2954,false,^ g . r . o. g . + . m . a $,default
 OldTibetan-118_thelipthelips-1,32355,OldTibetan,118_thelipthelips,mtɕʰu,m.tɕʰ.u,m tɕʰ u,https://stan.hypotheses.org/20 for cognacy with OC,Huang1992,10522,false,^ m . tɕʰ . u $,default
 OldTibetan-4_thearmpit-1,32356,OldTibetan,4_thearmpit,bʑag+ɦog,b.ʑ.a.g.+.ɦ.o.g,b ʑ a g + ɦ o./o g,,Huang1992,3172,false,^ b . ʑ . a. g . + . ɦ . o. g $,default
@@ -6282,7 +6282,7 @@ Hakha-89_tohideconceal-1,32733,Hakha,89_tohideconceal,tʰup+tʰuʔ,tʰ.u.p.+.tʰ
 Hakha-90_hightall-1,32734,Hakha,90_hightall,sâa/aŋ+sǎa/an,s.âa/a.ŋ.+.s.ǎa/a.n,s âa/a ŋ + s ǎa/aː n,[full entry: e.g. This is a high building = Hi inn cu a sang; 2. aw thia; e.g. She speaks in a high voice = Aw thia in a holh; 3. ngan; e.g. He is a high official = Bawi ngan a si; 4. ngaingai; e.g. The child has a high fever = Ngakchia cu a tak a lin ngaingai; e.g. The Jeep goes at a high speed = Jeep cu khulrang ngaingai in a kal. 5. man tampi; e.g. He paid a high price for the house = Inn cu man tam pin a cawk.],VanBik2014,1481,false,^ s . âa/a . ŋ . + . s . ǎa/a . n $,default
 Hakha-91_tohold-1,32736,Hakha,91_tohold,pûu/u+put,p.ûu/u.+.p.u.t,p ûu/uː + p u t,[full entry: e.g. Please hold this book = Hi cauk hi rak pu ta; 2. tlaih; e.g. Hold the door open = Innka kha tlai law i hung peng seh; 3. tlum; e.g. This pot can hold ten cups of water = Hi um nih hin ti hrai hra a tlum; 4. ngeih; e.g. He holds the rank of a captain = Amah cu kepten a si; 5. tuah; e.g. They are holding a meeting = Meeting an tuah lio; 6.ruah; e.g. People once held that the world was flat = Hlan ah cun mi nih vawlei hi a per tiah an rak ruah. hold forth = a thiam ngai bantuk i chim. hold off = i naihter lo i umter peng khawh. hold on = fek tein i tlaihpeng.],VanBik2014,2521,false,^ p . ûu/u . + . p . u . t $,default
 Hakha-92_thehoof-1,32737,Hakha,92_thehoof,tin,t.i.n,t i n,[full entry: ],VanBik2014,1526,false,^ t . i . n $,default
-Hakha-93_horizontal-1,32738,Hakha,93_horizontal,phây++phǎy,ph.â.y.+.+.ph.ǎ.y,pʰ â/a y + + pʰ ǎ y,,VanBik2014,4136,false,^ ph . â . y . + . + . ph . ǎ . y $,default
+Hakha-93_horizontal-1,32738,Hakha,93_horizontal,phây++phǎy,ph.â.y.+.+.ph.ǎ.y,pʰ â/a y + pʰ ǎ y,,VanBik2014,4136,false,^ ph . â . y . +.+ . ph . ǎ . y $,default
 Hakha-94_thehornkeratinizedskin-1,32739,Hakha,94_thehornkeratinizedskin,kìi/i,k.ìi/i,k ìi/iː,[full entry: 2. miuzik tumnak muko; 3. aw thangpi. powder horn = zen rawnnak fungki.],VanBik2014,899,false,^ k . ìi/i $,default
 Hakha-95_thehorse-1,32740,Hakha,95_thehorse,ràŋ,r.à.ŋ,r à/a ŋ,,VanBik2014,3151,false,^ r . à . ŋ $,default
 Hakha-96_hot-1,32741,Hakha,96_hot,sâa/a+sat,s.âa/a.+.s.a.t,s âa/a + s a t,,VanBik2014,4219,false,^ s . âa/a . + . s . a. t $,default
@@ -6370,7 +6370,7 @@ Hakha-179_short-1,32826,Hakha,179_short,tòo/oy+tǒo/oy/i,t.òo/o.y.+.t.ǒo/o.y/
 Hakha-180_theshoulder-1,32827,Hakha,180_theshoulder,lî/iaŋ,l.î/i.a.ŋ,l î/i a ŋ,,VanBik2014,60,false,^ l . î/i . a. ŋ $,default
 Hakha-181_shy-1,32828,Hakha,181_shy,zak+zaʔ,z.a.k.+.z.a.ʔ,z a k + z a ʔ,"*ry > z en Hakha: ARMPIT, HUNDRED, NIGHT [full entry: zapi a hem lomi. 2. a phingmi (phing); e.g. A deer is shy = Sakhi cu a phing.]",VanBik2014,5878,false,^ z . a. k . + . z . a. ʔ $,default
 Hakha-182_thesickle-1,32829,Hakha,182_thesickle,faah,f.aa.h,f aː h,"[full entry: ram/facang hlehnak, datari.]",VanBik2014,5989,false,^ f . aa . h $,default
-Hakha-183_tosing-1,32830,Hakha,183_tosing,hlâa/a+sǎa/a++sak,hl.âa/a.+.s.ǎa/a.+.+.s.a.k,l̥ âa/a + s ǎa/aː + + s a k,[full entry: 2. tisa a tlawh tik i vi ti i a onh khi.],VanBik2014,61,false,^ hl . âa/a . + . s . ǎa/a . + . + . s . a. k $,default
+Hakha-183_tosing-1,32830,Hakha,183_tosing,hlâa/a+sǎa/a++sak,hl.âa/a.+.s.ǎa/a.+.+.s.a.k,l̥ âa/a + s ǎa/aː + s a k,[full entry: 2. tisa a tlawh tik i vi ti i a onh khi.],VanBik2014,61,false,^ hl . âa/a . + . s . ǎa/a . +.+ . s . a. k $,default
 Hakha-184_six-1,32831,Hakha,184_six,paruk,p.a.r.u.k,p a r u k,,VanBik2014,306,false,^ p . a. r . u . k $,default
 Hakha-185_theskin-1,32832,Hakha,185_theskin,pʰôo,pʰ.ôo,pʰ ôo/oː,[full entry: 2. hawng banhla hawng..],VanBik2014,63,false,^ pʰ . ôo $,default
 Hakha-186_thesky-1,32833,Hakha,186_thesky,vǎa/an,v.ǎa/a.n,v ǎa/aː n,,VanBik2014,64,false,^ v . ǎa/a . n $,default
@@ -11146,7 +11146,7 @@ Ukhrul-80_thehairofthehead-1,37634,Ukhrul,80_thehairofthehead,kuj+sam,k.u.j.+.s.
 Ukhrul-81_thehand-1,37635,Ukhrul,81_thehand,ʔa+paŋ,ʔ.a.+.p.a.ŋ,ʔ a + p a ŋ,,Mortensen2012,2071,false,^ ʔ . a. + . p . a. ŋ $,default
 Ukhrul-84_thehead-1,37636,Ukhrul,84_thehead,akuj,a.k.u.j,a k u j,!remove! (same form below),Mortensen2012,1348,false,^ a. k . u . j $,default
 Ukhrul-84_thehead-2,37637,Ukhrul,84_thehead,ʔa+kuj,ʔ.a.+.k.u.j,ʔ a + k u j,,Mortensen2012,1348,false,^ ʔ . a. + . k . u . j $,default
-Ukhrul-86_theheart-1,37638,Ukhrul,86_theheart,mə++luŋ,m.ə.+.+.l.u.ŋ,m ə + + l u ŋ,,Mortensen2012,1525,false,^ m . ə . + . + . l . u . ŋ $,default
+Ukhrul-86_theheart-1,37638,Ukhrul,86_theheart,mə++luŋ,m.ə.+.+.l.u.ŋ,m ə + l u ŋ,,Mortensen2012,1525,false,^ m . ə . +.+ . l . u . ŋ $,default
 Ukhrul-94_thehornkeratinizedskin-1,37639,Ukhrul,94_thehornkeratinizedskin,a+ŋə+ci,a.+.ŋ.ə.+.c.i,a + ŋ ə + c i,,Mortensen2012,3364,false,^ a. + . ŋ . ə . + . c . i $,default
 Ukhrul-97_thehouse-1,37640,Ukhrul,97_thehouse,ʃim,ʃ.i.m,ʃ i m,,Mortensen2012,209,false,^ ʃ . i . m $,default
 Ukhrul-106_theknee-1,37641,Ukhrul,106_theknee,ʔa+kʰuk,ʔ.a.+.kʰ.u.k,ʔ a + kʰ u k,,Mortensen2012,3365,false,^ ʔ . a. + . kʰ . u . k $,default
@@ -11180,7 +11180,7 @@ Ukhrul-250_theshit-1,37668,Ukhrul,250_theshit,kə+paj,k.ə.+.p.a.j,k ə + p a j,
 Ukhrul-185_theskin-1,37669,Ukhrul,185_theskin,ʔa+sa,ʔ.a.+.s.a,ʔ a + s a,,Mortensen2012,1163,false,^ ʔ . a. + . s . a $,default
 Ukhrul-186_thesky-1,37670,Ukhrul,186_thesky,kə+tsiŋ,k.ə.+.ts.i.ŋ,k ə + ts i ŋ,,Mortensen2012,3385,false,^ k . ə . + . ts . i . ŋ $,default
 Ukhrul-190_thesmoke-1,37671,Ukhrul,190_thesmoke,mej+kʰut,m.e.j.+.kʰ.u.t,m e j + kʰ u t,,Mortensen2012,68,false,^ m . e . j . + . kʰ . u . t $,default
-Ukhrul-192_thesnake-1,37672,Ukhrul,192_thesnake,pʰa++ru,pʰ.a.+.+.r.u,pʰ a + + r u,,Mortensen2012,2099,false,^ pʰ . a. + . + . r . u $,default
+Ukhrul-192_thesnake-1,37672,Ukhrul,192_thesnake,pʰa++ru,pʰ.a.+.+.r.u,pʰ a + r u,,Mortensen2012,2099,false,^ pʰ . a. +.+ . r . u $,default
 Ukhrul-195_theson-1,37673,Ukhrul,195_theson,mə+jar+naw,m.ə.+.j.a.r.+.n.a.w,m ə + j a r + n a w,,Mortensen2012,2100,false,^ m . ə . + . j . a. r . + . n . a. w $,default
 Ukhrul-200_thestar-1,37674,Ukhrul,200_thestar,si+ra,s.i.+.r.a,s i + r a,,Mortensen2012,3388,false,^ s . i . + . r . a $,default
 Ukhrul-202_thestick-1,37675,Ukhrul,202_thestick,tʰiŋ,tʰ.i.ŋ,tʰ i ŋ,,Mortensen2012,1551,false,^ tʰ . i . ŋ $,default
@@ -11221,8 +11221,8 @@ Ukhrul-53_tofight-1,37709,Ukhrul,53_tofight,kʰə+ŋə+mu,kʰ.ə.+.ŋ.ə.+.m.u,k
 Ukhrul-59_tofloat-1,37710,Ukhrul,59_tofloat,kə+kʰɐj,k.ə.+.kʰ.ɐ.j,k ə + kʰ ɐ j,,Mortensen2012,2124,false,^ k . ə . + . kʰ . ɐ . j $,default
 Ukhrul-60_toflow-1,37711,Ukhrul,60_toflow,kʰə+roŋ,kʰ.ə.+.r.o.ŋ,kʰ ə + r o./o ŋ,,Mortensen2012,3423,false,^ kʰ . ə . + . r . o. ŋ $,default
 Ukhrul-62_toflymovethroughair-1,37712,Ukhrul,62_toflymovethroughair,kʰə+joŋ,kʰ.ə.+.j.o.ŋ,kʰ ə + j o./o ŋ,,Mortensen2012,3424,false,^ kʰ . ə . + . j . o. ŋ $,default
-Ukhrul-66_toforget-1,37713,Ukhrul,66_toforget,mə++laj+kə+taj,m.ə.+.+.l.a.j.+.k.ə.+.t.a.j,m ə + + l a j + k ə + t a j,,Mortensen2012,3427,false,^ m . ə . + . + . l . a. j . + . k . ə . + . t . a. j $,default
-Ukhrul-66_toforget-2,37714,Ukhrul,66_toforget,kʰə+mə++laj,kʰ.ə.+.m.ə.+.+.l.a.j,kʰ ə + m ə + + l a j,,Mortensen2012,3427,false,^ kʰ . ə . + . m . ə . + . + . l . a. j $,default
+Ukhrul-66_toforget-1,37713,Ukhrul,66_toforget,mə++laj+kə+taj,m.ə.+.+.l.a.j.+.k.ə.+.t.a.j,m ə + l a j + k ə + t a j,,Mortensen2012,3427,false,^ m . ə . +.+ . l . a. j . + . k . ə . + . t . a. j $,default
+Ukhrul-66_toforget-2,37714,Ukhrul,66_toforget,kʰə+mə++laj,kʰ.ə.+.m.ə.+.+.l.a.j,kʰ ə + m ə + l a j,,Mortensen2012,3427,false,^ kʰ . ə . + . m . ə . +.+ . l . a. j $,default
 Ukhrul-74_togive-1,37715,Ukhrul,74_togive,kʰə+mi,kʰ.ə.+.m.i,kʰ ə + m i,,Mortensen2012,2178,false,^ kʰ . ə . + . m . i $,default
 Ukhrul-85_tohear-1,37716,Ukhrul,85_tohear,kə+ʃa,k.ə.+.ʃ.a,k ə + ʃ a,,Mortensen2012,2126,false,^ k . ə . + . ʃ . a $,default
 Ukhrul-89_tohideconceal-1,37717,Ukhrul,89_tohideconceal,kʰə+ŋə+jin,kʰ.ə.+.ŋ.ə.+.j.i.n,kʰ ə + ŋ ə + j i n,,Mortensen2012,2127,false,^ kʰ . ə . + . ŋ . ə . + . j . i . n $,default
@@ -11235,7 +11235,7 @@ Ukhrul-105_toknead-1,37723,Ukhrul,105_toknead,kʰə+naj,kʰ.ə.+.n.a.j,kʰ ə + 
 Ukhrul-108_toknowsomething-1,37724,Ukhrul,108_toknowsomething,kə+tʰej,k.ə.+.tʰ.e.j,k ə + tʰ e j,,Mortensen2012,3434,false,^ k . ə . + . tʰ . e . j $,default
 Ukhrul-111_tolaugh-1,37725,Ukhrul,111_tolaugh,kʰə+mə+nu,kʰ.ə.+.m.ə.+.n.u,kʰ ə + m ə + n u,"kʰə- is a prefix. Ukhrul -u = Lushai -ui (laugh, egg, water, dog). LS.",Mortensen2012,2131,false,^ kʰ . ə . + . m . ə . + . n . u $,default
 Ukhrul-113_tolearn-1,37726,Ukhrul,113_tolearn,kə+tɐm,k.ə.+.t.ɐ.m,k ə + t ɐ m,,Mortensen2012,3436,false,^ k . ə . + . t . ɐ . m $,default
-Ukhrul-115_tolick-1,37727,Ukhrul,115_tolick,kʰə+mə++lek,kʰ.ə.+.m.ə.+.+.l.e.k,kʰ ə + m ə + + l e k,,Mortensen2012,101,false,^ kʰ . ə . + . m . ə . + . + . l . e . k $,default
+Ukhrul-115_tolick-1,37727,Ukhrul,115_tolick,kʰə+mə++lek,kʰ.ə.+.m.ə.+.+.l.e.k,kʰ ə + m ə + l e k,,Mortensen2012,101,false,^ kʰ . ə . + . m . ə . +.+ . l . e . k $,default
 Ukhrul-116_toliedown-1,37728,Ukhrul,116_toliedown,kʰə+ŋə+jaj,kʰ.ə.+.ŋ.ə.+.j.a.j,kʰ ə + ŋ ə + j a j,,Mortensen2012,3439,false,^ kʰ . ə . + . ŋ . ə . + . j . a. j $,default
 Ukhrul-116_toliedown-2,37729,Ukhrul,116_toliedown,kə+pi,k.ə.+.p.i,k ə + p i,,Mortensen2012,2134,false,^ k . ə . + . p . i $,default
 Ukhrul-125_tomarryamanmarriesawoman-1,37730,Ukhrul,125_tomarryamanmarriesawoman,ʃakkə+tsa,ʃ.a.k.k.ə.+.ts.a,ʃ a k k ə + ts a,,Mortensen2012,2135,false,^ ʃ . a. k . k . ə . + . ts . a $,default
@@ -12178,4 +12178,4 @@ OldBurmese-65_theforest-1,38792,OldBurmese,65_theforest,sac+tau,s.a.c.+.t.a.u,s 
 OldBurmese-250_theshit-1,38793,OldBurmese,250_theshit,khliyḥ,kh.l.i.y.ḥ,kʰ l i y h,,Hill2017,29700,false,^ kh . l . i . y . ḥ $,default
 OldBurmese-218_thethunder-1,38794,OldBurmese,218_thethunder,myuivḥ+khyunḥ,m.y.u.i.v.ḥ.+.kh.y.u.n.ḥ,m y u i v h + kʰ y u n h,,Hill2017,1240,false,^ m . y . u . i . v . ḥ . + . kh . y . u . n . ḥ $,default
 OldBurmese-153_toplay-1,38795,OldBurmese,153_toplay,ka+cāḥ,k.a.+.c.ā.ḥ,k a + c ā/aː h,,Hill2017,1030,false,^ k . a. + . c . ā . ḥ $,default
-Bantawa-66_toforget-1,38796,Bantawa,66_toforget,mant-kʰat-,m.a.n.t.-.kʰ.a.t.-,m a n t + kʰ a t +,,Jongens2009,2553,false,^ m . a. n . t . - . kʰ . a. t . - $,default
+Bantawa-66_toforget-1,38796,Bantawa,66_toforget,mant-kʰat-,m.a.n.t.-.kʰ.a.t.-,m a n t + kʰ a t,,Jongens2009,2553,false,^ m . a. n . t . - . kʰ . a. t . -$,default
