@@ -17,7 +17,7 @@ isodate==0.6.0
 jdcal==1.4.1
 kiwisolver==1.3.1
 -e git+https://github.com/lingpy/lingpy.git@4d42cda2ecd7b54abaf1a2d4aa517c54ff89b573#egg=lingpy
-lxml==4.6.1
+lxml==4.6.2
 Markdown==3.3.3
 matplotlib==3.3.3
 networkx==2.2
