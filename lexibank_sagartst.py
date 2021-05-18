@@ -55,7 +55,7 @@ class Dataset(BaseDataset):
             languages[language['Name_in_Source']] = language['ID']
             sources[language['Name_in_Source']] = language['Source']
         for idx in progressbar(wl, desc='cldfify'):
-            if wl[idx, 'tokens']:
+            if wl[idx, 'tokens'] and ' '.join(wl[idx, 'tokens']).strip('+'):
                 row = args.writer.add_form(
                     Language_ID=languages[wl[idx, 'doculect']],
                     Local_ID=idx,
