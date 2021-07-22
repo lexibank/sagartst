@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/sagartst",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1.0-25-ga26e476",
+            "dc:created": "v1.1.0-26-g6e69ba2",
             "dc:title": "Repository"
         },
         {

@@ -73,7 +73,7 @@ class Dataset(pylexibank.Dataset):
 
                 args.writer.add_cognate(
                     lexeme=row,
-                    Cognateset_ID=wl[idx, "cogid"],
+                    Cognateset_ID="{0}-{1}".format(wl[idx, "cogid"], slug(wl[idx, "concept"])),
                     Source="Sagart2018",
                     Alignment="",
                     Alignment_Source="",
