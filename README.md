@@ -34,8 +34,8 @@ Conceptlists in Concepticon:
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 50
-- **Concepts:** 250
+- **Varieties:** 50 (linked to 48 different Glottocodes)
+- **Concepts:** 250 (linked to 250 different Concepticon concept sets)
 - **Lexemes:** 12,179
 - **Sources:** 25
 - **Synonymy:** 1.06
@@ -43,7 +43,7 @@ Conceptlists in Concepticon:
 - **Cognate Diversity:** 0.41
 - **Invalid lexemes:** 0
 - **Tokens:** 60,455
-- **Segments:** 459 (0 BIPA errors, 0 CTLS sound class errors, 454 CLTS modified)
+- **Segments:** 459 (0 BIPA errors, 0 CLTS sound class errors, 454 CLTS modified)
 - **Inventory size (avg):** 51.26
 
 # Contributors
@@ -53,7 +53,7 @@ Name | GitHub user | Description | Role
 Laurent Sagart | | cognate coding | Author
 Guillaume Jacques | | cognate coding | Author
 Yunfan Lai | | data managment | Author
-Johann-Mattis List | @LinguList | maintainer | Author
+Johann-Mattis List | @LinguList | maintainer | Author, Editor
 
 
 
