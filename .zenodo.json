@@ -19,7 +19,12 @@
             "name": "Johann-Mattis List"
         }
     ],
-    "contributors": [],
+    "contributors": [
+        {
+            "name": "Johann-Mattis List",
+            "type": "Editor"
+        }
+    ],
     "communities": [
         {
             "identifier": "lexibank"

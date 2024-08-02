@@ -15,7 +15,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,TBL_ID,Coverage
 14_black,black,163,BLACK,1005,1.0
 15_theblood,the blood,946,BLOOD,129,1.0
 16_toblowofwind,to blow (of wind),175,BLOW (OF WIND),1738,0.56
-17_thebodyhairhairorfur,the body hair (hair or fur),189,HAIR (BODY),266,0.52
+17_thebodyhairhairorfur,the body hair (hair or fur),2678,HAIR OR FUR,266,0.52
 18_thebone,the bone,1394,BONE,133,0.98
 19_thebranch,the branch,1531,BRANCH,374,0.9
 20_thebreastfemale,the breast (female),1402,BREAST,94,0.98
@@ -248,4 +248,4 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,TBL_ID,Coverage
 247_yesterday,yesterday,1174,YESTERDAY,739,0.54
 248_yousecondpersonplural,you [second person plural],1213,YOU,933,0.52
 249_young,young,1207,YOUNG,1059,0.46
-250_theshit,the shit,676,SHIT (DEFECATE),151,0.92
+250_theshit,the shit,675,FAECES (EXCREMENT),151,0.92
